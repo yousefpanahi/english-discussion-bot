@@ -1,5 +1,6 @@
 name: Telegram English Discussion Bot
-
+permissions:
+  contents: write
 on:
   schedule:
     # Monday, Wednesday, Saturday — 13:30 UTC
