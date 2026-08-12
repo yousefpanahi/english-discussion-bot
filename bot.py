@@ -226,7 +226,7 @@ The next topic for our free discussion will be the episode below."""
     # Discussion introduction
     discussion_message = f"""📚 Discussion Time!
 
-Today's Topic: {title}
+Next Session's Topic: {title}
 
 Please discuss the following questions and try to speak as much as possible.
 
