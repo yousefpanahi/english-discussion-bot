@@ -1,6 +1,8 @@
 import os
-import requests
 import sys
+import json
+import requests
+
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
@@ -14,6 +16,10 @@ FIRST_EPISODE_MESSAGE_ID = 2
 # File that remembers which episode was last sent
 COUNTER_FILE = "episode_counter.txt"
 
+
+# ==================================================
+# SEND TELEGRAM MESSAGE
+# ==================================================
 
 def send_message(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
@@ -31,6 +37,10 @@ def send_message(text):
     if not response.ok:
         raise Exception("Failed to send message")
 
+
+# ==================================================
+# COPY TELEGRAM MESSAGE
+# ==================================================
 
 def copy_message(message_id):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/copyMessage"
@@ -50,6 +60,10 @@ def copy_message(message_id):
         raise Exception(f"Failed to copy message {message_id}")
 
 
+# ==================================================
+# GET CURRENT EPISODE NUMBER
+# ==================================================
+
 def get_episode_number():
     if not os.path.exists(COUNTER_FILE):
         return 0
@@ -58,12 +72,33 @@ def get_episode_number():
         return int(file.read().strip())
 
 
+# ==================================================
+# SAVE EPISODE NUMBER
+# ==================================================
+
 def save_episode_number(number):
     with open(COUNTER_FILE, "w") as file:
         file.write(str(number))
 
 
-# The workflow tells us which message to send
+# ==================================================
+# GET QUESTIONS FOR EPISODE
+# ==================================================
+
+def get_questions(episode_number):
+    filename = f"questions/episode{episode_number:03d}.json"
+
+    if not os.path.exists(filename):
+        raise Exception(f"Questions file not found: {filename}")
+
+    with open(filename, "r", encoding="utf-8") as file:
+        return json.load(file)
+
+
+# ==================================================
+# MESSAGE TYPE
+# ==================================================
+
 message_type = os.environ.get("MESSAGE_TYPE")
 
 
@@ -103,16 +138,28 @@ elif message_type == "bbc":
     # Get the last episode that was sent
     episode_number = get_episode_number()
 
-    # Calculate the first message ID of the next episode
+    # The next episode
+    next_episode = episode_number + 1
+
+    # Calculate the first BBC message ID
     first_message_id = (
         FIRST_EPISODE_MESSAGE_ID
         + (episode_number * 3)
     )
 
-    print(f"Sending Episode {episode_number + 1}")
-    print(f"Message IDs: {first_message_id}, "
-          f"{first_message_id + 1}, "
-          f"{first_message_id + 2}")
+    print(f"Sending Episode {next_episode}")
+
+    print(
+        f"Message IDs: {first_message_id}, "
+        f"{first_message_id + 1}, "
+        f"{first_message_id + 2}"
+    )
+
+    # Load questions for this episode
+    episode_data = get_questions(next_episode)
+
+    title = episode_data["title"]
+    questions = episode_data["questions"]
 
     # Send introduction first
     message = """Hello Guys
@@ -121,15 +168,39 @@ The next topic for our free discussion will be the episode below."""
 
     send_message(message)
 
-    # Copy the three parts of the episode
+    # Copy the three BBC messages
     copy_message(first_message_id)
     copy_message(first_message_id + 1)
     copy_message(first_message_id + 2)
 
-    # Only move to the next episode after all 3 messages worked
-    save_episode_number(episode_number + 1)
+    # Discussion introduction
+    discussion_message = f"""📚 Discussion Time!
 
-    print(f"Episode {episode_number + 1} completed successfully.")
+Today's Topic: {title}
+
+Please discuss the following questions and try to speak as much as possible.
+
+Remember:
+• There are no perfect answers.
+• Respect different opinions.
+• Help others practice English.
+
+Good luck and enjoy the discussion! 😊"""
+
+    send_message(discussion_message)
+
+    # Send the six questions
+    questions_message = "💬 Discussion Questions\n\n"
+
+    for i, question in enumerate(questions, start=1):
+        questions_message += f"{i}️⃣ {question}\n\n"
+
+    send_message(questions_message)
+
+    # Only move to the next episode after everything worked
+    save_episode_number(next_episode)
+
+    print(f"Episode {next_episode} completed successfully.")
 
 
 # ==================================================
