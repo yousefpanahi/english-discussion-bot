@@ -1,16 +1,18 @@
 name: Telegram English Discussion Bot
+
 permissions:
   contents: write
+
 on:
   schedule:
-    # Monday, Wednesday, Saturday — 13:30 UTC
-    - cron: "30 13 * * 1,3,6"
+    # Start early. Python waits until exactly 17:00 Tehran.
+    - cron: "17 10 * * 1,3,6"
 
-    # Monday, Wednesday, Saturday — 16:30 UTC
-    - cron: "30 16 * * 1,3,6"
+    # Start early. Python waits until exactly 20:00 Tehran.
+    - cron: "17 13 * * 1,3,6"
 
-    # Monday, Wednesday, Saturday — 18:30 UTC
-    - cron: "30 18 * * 1,3,6"
+    # Start early. Python waits until exactly 22:00 Tehran.
+    - cron: "17 15 * * 1,3,6"
 
   workflow_dispatch:
     inputs:
@@ -26,6 +28,7 @@ on:
 jobs:
   send-message:
     runs-on: ubuntu-latest
+    timeout-minutes: 240
 
     steps:
       - name: Checkout repository
@@ -42,45 +45,48 @@ jobs:
         run: pip install requests
 
       # ---------------------------------------
-      # REMINDER — 13:30 UTC
+      # REMINDER — EXACTLY 17:00 TEHRAN
       # ---------------------------------------
 
       - name: Send reminder
         if: |
-          github.event.schedule == '30 13 * * 1,3,6' ||
+          github.event.schedule == '17 10 * * 1,3,6' ||
           github.event.inputs.message_type == 'reminder'
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: reminder
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '17:00' || '' }}
         run: python bot.py
 
       # ---------------------------------------
-      # JOIN CLASS — 16:30 UTC
+      # JOIN CLASS — EXACTLY 20:00 TEHRAN
       # ---------------------------------------
 
       - name: Send join message
         if: |
-          github.event.schedule == '30 16 * * 1,3,6' ||
+          github.event.schedule == '17 13 * * 1,3,6' ||
           github.event.inputs.message_type == 'join'
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: join
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '20:00' || '' }}
         run: python bot.py
 
       # ---------------------------------------
-      # BBC EPISODE — 18:30 UTC
+      # BBC EPISODE — EXACTLY 22:00 TEHRAN
       # ---------------------------------------
 
       - name: Send BBC episode
         if: |
-          github.event.schedule == '30 18 * * 1,3,6' ||
+          github.event.schedule == '17 15 * * 1,3,6' ||
           github.event.inputs.message_type == 'bbc'
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: bbc
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '22:00' || '' }}
         run: python bot.py
 
       # ---------------------------------------
@@ -89,7 +95,7 @@ jobs:
 
       - name: Save episode counter
         if: |
-          github.event.schedule == '30 18 * * 1,3,6' ||
+          github.event.schedule == '17 15 * * 1,3,6' ||
           github.event.inputs.message_type == 'bbc'
         run: |
           git config user.name "Telegram Discussion Bot"
