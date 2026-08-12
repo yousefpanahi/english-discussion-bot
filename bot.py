@@ -1,7 +1,10 @@
 import os
 import sys
 import json
+import time
 import requests
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
@@ -16,6 +19,52 @@ FIRST_EPISODE_MESSAGE_ID = 2
 # File that remembers which episode was last sent
 COUNTER_FILE = "episode_counter.txt"
 
+# Tehran timezone
+TEHRAN_TZ = ZoneInfo("Asia/Tehran")
+
+
+# ==================================================
+# WAIT UNTIL EXACT SCHEDULED TIME
+# ==================================================
+
+def wait_until_target():
+    target_time = os.environ.get("TARGET_TEHRAN_TIME")
+
+    # Manual GitHub tests do not provide this variable,
+    # so they are sent immediately.
+    if not target_time:
+        return
+
+    hour, minute = map(int, target_time.split(":"))
+
+    now = datetime.now(TEHRAN_TZ)
+
+    target = now.replace(
+        hour=hour,
+        minute=minute,
+        second=0,
+        microsecond=0
+    )
+
+    # If GitHub was extremely late and the target has already passed,
+    # send immediately instead of waiting until the next day.
+    if now >= target:
+        late_seconds = (now - target).total_seconds()
+        print(
+            f"Target time already passed by "
+            f"{late_seconds:.0f} seconds. Sending now."
+        )
+        return
+
+    wait_seconds = (target - now).total_seconds()
+
+    print(f"Current Tehran time: {now}")
+    print(f"Target Tehran time: {target}")
+    print(f"Waiting {wait_seconds:.0f} seconds...")
+
+    time.sleep(wait_seconds)
+
+    print("Target time reached. Sending message.")
 
 # ==================================================
 # SEND TELEGRAM MESSAGE
@@ -101,6 +150,7 @@ def get_questions(episode_number):
 
 message_type = os.environ.get("MESSAGE_TYPE")
 
+wait_until_target()
 
 # ==================================================
 # 1. CLASS REMINDER
