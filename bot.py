@@ -247,9 +247,14 @@ We will have the English Free Discussion meeting today at 4:30 PM - 5:30 PM (UTC
 
 elif message_type == "join":
 
-    message = """Everybody please join Class.
+message = """🔴 LIVE NOW — English Free Discussion 🇬🇧
 
-Meeting Link:
+We’re starting the class now!
+Tap the link and join us — we’d love to have you in the discussion. 👋
+
+Even if you’re a few minutes late, just jump in!
+
+🔗 Join the meeting:
 https://meet.google.com/vtg-anvk-vgn"""
 
     # Send the Join Class message
