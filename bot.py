@@ -19,6 +19,10 @@ FIRST_EPISODE_MESSAGE_ID = 2
 # File that remembers which episode was last sent
 COUNTER_FILE = "episode_counter.txt"
 
+# File that remembers the currently pinned BBC intro message
+BBC_PIN_FILE = "bbc_pinned_message_id.txt"
+
+
 # Tehran timezone
 TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 
@@ -132,6 +136,32 @@ def unpin_message(message_id):
         raise Exception("Failed to unpin message")
 
 
+# ==================================================
+# BBC PIN STATE
+# ==================================================
+
+def save_bbc_pinned_message_id(message_id):
+    with open(BBC_PIN_FILE, "w") as file:
+        file.write(str(message_id))
+
+
+def get_bbc_pinned_message_id():
+    if not os.path.exists(BBC_PIN_FILE):
+        return None
+
+    with open(BBC_PIN_FILE, "r") as file:
+        value = file.read().strip()
+
+    if not value:
+        return None
+
+    return int(value)
+
+
+def clear_bbc_pinned_message_id():
+    with open(BBC_PIN_FILE, "w") as file:
+        file.write("")
+
 
 # ==================================================
 # COPY TELEGRAM MESSAGE
@@ -244,10 +274,28 @@ https://meet.google.com/vtg-anvk-vgn"""
 
     print(f"Join message {join_message_id} unpinned.")
 
+# ==================================================
+# 3. UNPIN PREVIOUS BBC INTRO
+# ==================================================
 
+elif message_type == "bbc_unpin":
+
+    bbc_message_id = get_bbc_pinned_message_id()
+
+    if bbc_message_id is None:
+        print("No BBC intro message is currently stored.")
+    else:
+        unpin_message(bbc_message_id)
+        clear_bbc_pinned_message_id()
+
+        print(
+            f"BBC intro message {bbc_message_id} "
+            f"unpinned successfully."
+        )
+        
 
 # ==================================================
-# 3. BBC 6 MINUTE ENGLISH EPISODE
+# 4. BBC 6 MINUTE ENGLISH EPISODE
 # ==================================================
 
 elif message_type == "bbc":
@@ -278,12 +326,25 @@ elif message_type == "bbc":
     title = episode_data["title"]
     questions = episode_data["questions"]
 
-    # Send introduction first
-    message = """Hello Guys
+# Send introduction first
+message = """Hello Guys
 
 The next topic for our free discussion will be the episode below."""
 
-    send_message(message)
+# Send this BBC intro and remember its Telegram message ID
+bbc_intro_message_id = send_message(message)
+
+# ONLY this BBC message is pinned
+pin_message(bbc_intro_message_id)
+
+# Save its ID so it can be unpinned 46 hours later
+save_bbc_pinned_message_id(bbc_intro_message_id)
+
+print(
+    f"BBC intro message {bbc_intro_message_id} pinned."
+)
+
+
 
     # Copy the three BBC messages
     copy_message(first_message_id)
