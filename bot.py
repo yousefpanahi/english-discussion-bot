@@ -81,10 +81,56 @@ def send_message(text):
         }
     )
 
-    print(response.json())
+    data = response.json()
+    print(data)
 
     if not response.ok:
         raise Exception("Failed to send message")
+
+    return data["result"]["message_id"]
+
+# ==================================================
+# PIN TELEGRAM MESSAGE
+# ==================================================
+
+def pin_message(message_id):
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/pinChatMessage"
+
+    response = requests.post(
+        url,
+        data={
+            "chat_id": CHAT_ID,
+            "message_id": message_id,
+            "disable_notification": True
+        }
+    )
+
+    print(response.json())
+
+    if not response.ok:
+        raise Exception("Failed to pin message")
+
+
+# ==================================================
+# UNPIN TELEGRAM MESSAGE
+# ==================================================
+
+def unpin_message(message_id):
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/unpinChatMessage"
+
+    response = requests.post(
+        url,
+        data={
+            "chat_id": CHAT_ID,
+            "message_id": message_id
+        }
+    )
+
+    print(response.json())
+
+    if not response.ok:
+        raise Exception("Failed to unpin message")
+
 
 
 # ==================================================
@@ -176,7 +222,28 @@ elif message_type == "join":
 Meeting Link:
 https://meet.google.com/vtg-anvk-vgn"""
 
-    send_message(message)
+    # Send the Join Class message
+    join_message_id = send_message(message)
+
+    # Pin it immediately
+    pin_message(join_message_id)
+
+    print(f"Join message {join_message_id} pinned.")
+
+    # Keep it pinned for 3 hours
+    unpin_delay = int(
+        os.environ.get("UNPIN_DELAY_SECONDS", "10800")
+    )
+
+    print(f"Waiting {unpin_delay} seconds before unpinning.")
+
+    time.sleep(unpin_delay)
+
+    # Unpin only this exact message
+    unpin_message(join_message_id)
+
+    print(f"Join message {join_message_id} unpinned.")
+
 
 
 # ==================================================
