@@ -247,7 +247,7 @@ We will have the English Free Discussion meeting today at 4:30 PM - 5:30 PM (UTC
 
 elif message_type == "join":
 
-message = """🔴 LIVE NOW — English Free Discussion 🇬🇧
+    message = """🔴 LIVE NOW — English Free Discussion 🇬🇧
 
 We’re starting the class now!
 Tap the link and join us — we’d love to have you in the discussion. 👋
