@@ -1,0 +1,85 @@
+{
+  "title": "Ebooks",
+  "vocabulary": [
+    {
+      "word": "e-book",
+      "meaning": "a book in digital form that can be read on an electronic device",
+      "examples": [
+        "I downloaded the e-book to my tablet.",
+        "E-books are convenient when travelling."
+      ]
+    },
+    {
+      "word": "e-reader",
+      "meaning": "a portable electronic device designed mainly for reading digital books",
+      "examples": [
+        "Her e-reader can store hundreds of books.",
+        "The screen of an e-reader is easy to read outdoors."
+      ]
+    },
+    {
+      "word": "download",
+      "meaning": "to copy data or a file from the internet to your device",
+      "examples": [
+        "You can download the book in a few seconds.",
+        "I downloaded several novels before my holiday."
+      ]
+    },
+    {
+      "word": "digital library",
+      "meaning": "an online collection of books, articles, or other reading material",
+      "examples": [
+        "Students can access the university's digital library from home.",
+        "The digital library contains thousands of free books."
+      ]
+    },
+    {
+      "word": "print edition",
+      "meaning": "a version of a book or publication produced on paper",
+      "examples": [
+        "Some readers still prefer the print edition.",
+        "The print edition costs more than the e-book."
+      ]
+    },
+    {
+      "word": "highlight",
+      "meaning": "to mark an important part of a digital or printed text",
+      "examples": [
+        "I highlighted several useful sentences in the e-book.",
+        "Most reading apps let users highlight text."
+      ]
+    },
+    {
+      "word": "bookmark",
+      "meaning": "a saved position in a book or digital document",
+      "examples": [
+        "I added a bookmark so I could return to the page later.",
+        "Digital bookmarks make long books easier to navigate."
+      ]
+    },
+    {
+      "word": "portable",
+      "meaning": "easy to carry or move",
+      "examples": [
+        "An e-reader is portable and lightweight.",
+        "Digital books make a large personal library more portable."
+      ]
+    },
+    {
+      "word": "subscription",
+      "meaning": "an arrangement in which you pay regularly for access to a service",
+      "examples": [
+        "She pays for an e-book subscription.",
+        "The subscription gives readers access to thousands of titles."
+      ]
+    },
+    {
+      "word": "publisher",
+      "meaning": "a company or person that prepares and produces books for sale",
+      "examples": [
+        "The publisher released both digital and printed versions.",
+        "Publishers have adapted to the growth of e-books."
+      ]
+    }
+  ]
+}

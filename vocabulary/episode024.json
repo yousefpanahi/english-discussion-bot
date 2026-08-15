@@ -1,0 +1,85 @@
+{
+  "title": "Theatre seats",
+  "vocabulary": [
+    {
+      "word": "auditorium",
+      "meaning": "the part of a theatre where the audience sits",
+      "examples": [
+        "The auditorium was full before the performance began.",
+        "The renovated auditorium has more comfortable seats."
+      ]
+    },
+    {
+      "word": "aisle",
+      "meaning": "a passage between rows of seats",
+      "examples": [
+        "Please keep the aisle clear during the show.",
+        "Their seats were next to the aisle."
+      ]
+    },
+    {
+      "word": "row",
+      "meaning": "a line of seats arranged next to each other",
+      "examples": [
+        "We were sitting in the front row.",
+        "The tickets are for row twelve."
+      ]
+    },
+    {
+      "word": "balcony",
+      "meaning": "an upper level of seating in a theatre",
+      "examples": [
+        "Seats in the balcony were cheaper.",
+        "The view from the balcony was surprisingly good."
+      ]
+    },
+    {
+      "word": "legroom",
+      "meaning": "the amount of space available for a person's legs when sitting",
+      "examples": [
+        "The new seats provide more legroom.",
+        "Tall audience members often complain about limited legroom."
+      ]
+    },
+    {
+      "word": "audience",
+      "meaning": "the people who watch a performance",
+      "examples": [
+        "The audience applauded at the end of the play.",
+        "The theatre can hold an audience of eight hundred."
+      ]
+    },
+    {
+      "word": "venue",
+      "meaning": "a place where an event or performance happens",
+      "examples": [
+        "The historic theatre is a popular venue.",
+        "We arrived at the venue thirty minutes early."
+      ]
+    },
+    {
+      "word": "reservation",
+      "meaning": "an arrangement to keep a seat or place for someone",
+      "examples": [
+        "I made a reservation for two seats online.",
+        "The theatre confirmed our reservation by email."
+      ]
+    },
+    {
+      "word": "obstructed view",
+      "meaning": "a view partly blocked by an object or structure",
+      "examples": [
+        "The ticket was cheaper because it had an obstructed view.",
+        "A pillar created an obstructed view of the stage."
+      ]
+    },
+    {
+      "word": "capacity",
+      "meaning": "the maximum number of people a place can hold",
+      "examples": [
+        "The theatre has a capacity of 1,200 people.",
+        "Safety rules limit the venue's capacity."
+      ]
+    }
+  ]
+}

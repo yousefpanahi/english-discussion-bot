@@ -1,0 +1,85 @@
+{
+  "title": "Bangladesh cyber attack",
+  "vocabulary": [
+    {
+      "word": "cyber attack",
+      "meaning": "an attempt to damage, disrupt, or gain illegal access to computer systems",
+      "examples": [
+        "The bank strengthened its security after a major cyber attack.",
+        "A cyber attack can interrupt essential public services."
+      ]
+    },
+    {
+      "word": "hacker",
+      "meaning": "a person who tries to gain unauthorised access to computer systems",
+      "examples": [
+        "The hacker stole information from several accounts.",
+        "Security teams work to stop hackers from entering the network."
+      ]
+    },
+    {
+      "word": "malware",
+      "meaning": "software designed to damage, disrupt, or secretly access a computer",
+      "examples": [
+        "The email attachment contained malware.",
+        "Updated security software can help detect malware."
+      ]
+    },
+    {
+      "word": "data breach",
+      "meaning": "an incident in which private information is accessed or exposed without permission",
+      "examples": [
+        "The company informed customers about the data breach.",
+        "A serious data breach can damage public trust."
+      ]
+    },
+    {
+      "word": "cybersecurity",
+      "meaning": "the protection of computers, networks, and data from digital attacks",
+      "examples": [
+        "Banks invest heavily in cybersecurity.",
+        "Good cybersecurity requires both technology and trained staff."
+      ]
+    },
+    {
+      "word": "vulnerability",
+      "meaning": "a weakness that can be used to attack or damage a system",
+      "examples": [
+        "The update fixed a serious security vulnerability.",
+        "Hackers often search for vulnerabilities in old software."
+      ]
+    },
+    {
+      "word": "encryption",
+      "meaning": "the process of changing data into a secret form so that only authorised people can read it",
+      "examples": [
+        "Encryption helps protect online banking information.",
+        "The messaging app uses encryption to secure conversations."
+      ]
+    },
+    {
+      "word": "firewall",
+      "meaning": "software or equipment that blocks unwanted access to a computer network",
+      "examples": [
+        "The firewall prevented an unknown connection.",
+        "Companies use firewalls as one layer of digital protection."
+      ]
+    },
+    {
+      "word": "phishing",
+      "meaning": "the use of fake messages or websites to trick people into giving private information",
+      "examples": [
+        "The employee recognised the phishing email and reported it.",
+        "Phishing attacks often pretend to come from trusted companies."
+      ]
+    },
+    {
+      "word": "network",
+      "meaning": "a group of connected computers or devices that can communicate with each other",
+      "examples": [
+        "The attack temporarily shut down the company's network.",
+        "All office computers are connected to the same network."
+      ]
+    }
+  ]
+}

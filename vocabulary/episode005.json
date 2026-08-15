@@ -1,0 +1,85 @@
+{
+  "title": "US orbit anniversary",
+  "vocabulary": [
+    {
+      "word": "orbit",
+      "meaning": "the curved path of an object around a planet or star",
+      "examples": [
+        "The spacecraft entered orbit around Earth.",
+        "Satellites can remain in orbit for many years."
+      ]
+    },
+    {
+      "word": "spacecraft",
+      "meaning": "a vehicle designed to travel in space",
+      "examples": [
+        "The spacecraft carried scientific equipment.",
+        "Engineers tested the spacecraft before launch."
+      ]
+    },
+    {
+      "word": "launch",
+      "meaning": "the act of sending a spacecraft or rocket into the air or space",
+      "examples": [
+        "Thousands of people watched the rocket launch.",
+        "Bad weather delayed the launch by one day."
+      ]
+    },
+    {
+      "word": "astronaut",
+      "meaning": "a person trained to travel and work in space",
+      "examples": [
+        "The astronaut spent several months in orbit.",
+        "Becoming an astronaut requires years of training."
+      ]
+    },
+    {
+      "word": "mission",
+      "meaning": "an important journey or task with a particular purpose",
+      "examples": [
+        "The mission collected valuable scientific data.",
+        "The space agency announced a new lunar mission."
+      ]
+    },
+    {
+      "word": "milestone",
+      "meaning": "an important event that marks progress or achievement",
+      "examples": [
+        "The first successful orbit was a major milestone.",
+        "The anniversary celebrates an important milestone in space history."
+      ]
+    },
+    {
+      "word": "spaceflight",
+      "meaning": "travel through outer space",
+      "examples": [
+        "Early spaceflight involved enormous risks.",
+        "Technology has made spaceflight safer than it was in the past."
+      ]
+    },
+    {
+      "word": "gravity",
+      "meaning": "the force that pulls objects towards each other, especially towards Earth",
+      "examples": [
+        "Astronauts experience very weak gravity while in orbit.",
+        "Gravity keeps planets moving around the Sun."
+      ]
+    },
+    {
+      "word": "capsule",
+      "meaning": "a small part of a spacecraft designed to carry people or equipment",
+      "examples": [
+        "The crew returned to Earth inside a space capsule.",
+        "The capsule landed safely in the ocean."
+      ]
+    },
+    {
+      "word": "exploration",
+      "meaning": "the activity of travelling to learn about an unfamiliar place",
+      "examples": [
+        "Space exploration has produced many scientific discoveries.",
+        "Governments spend billions on exploration beyond Earth."
+      ]
+    }
+  ]
+}

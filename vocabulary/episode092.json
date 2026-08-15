@@ -1,0 +1,85 @@
+{
+  "title": "Art or vandalism",
+  "vocabulary": [
+    {
+      "word": "vandalism",
+      "meaning": "deliberate damage to public or private property",
+      "examples": [
+        "The council described the graffiti as vandalism.",
+        "Repairing vandalism can be expensive."
+      ]
+    },
+    {
+      "word": "graffiti",
+      "meaning": "words or pictures drawn or painted on public surfaces",
+      "examples": [
+        "Some graffiti is considered art.",
+        "The city removes illegal graffiti from buildings."
+      ]
+    },
+    {
+      "word": "street art",
+      "meaning": "visual art created in public spaces, often without traditional gallery settings",
+      "examples": [
+        "The neighbourhood is famous for colourful street art.",
+        "Street art can attract tourists."
+      ]
+    },
+    {
+      "word": "mural",
+      "meaning": "a large picture painted directly on a wall",
+      "examples": [
+        "A local artist created a mural on the school wall.",
+        "The mural tells the history of the community."
+      ]
+    },
+    {
+      "word": "permission",
+      "meaning": "official agreement allowing someone to do something",
+      "examples": [
+        "The artist had permission to paint the wall.",
+        "Painting without permission may be illegal."
+      ]
+    },
+    {
+      "word": "public space",
+      "meaning": "an area open and available to everyone",
+      "examples": [
+        "Art can change how people experience a public space.",
+        "The city supports cultural projects in public spaces."
+      ]
+    },
+    {
+      "word": "property",
+      "meaning": "a building, land, or object owned by someone",
+      "examples": [
+        "Painting on private property without permission can be a crime.",
+        "The owner paid to repair the damaged property."
+      ]
+    },
+    {
+      "word": "creative expression",
+      "meaning": "the communication of ideas or feelings through art or other creative activity",
+      "examples": [
+        "Street art can be a form of creative expression.",
+        "Young people need places for creative expression."
+      ]
+    },
+    {
+      "word": "controversial",
+      "meaning": "causing strong disagreement or debate",
+      "examples": [
+        "The new mural was controversial.",
+        "Some forms of public art are deliberately controversial."
+      ]
+    },
+    {
+      "word": "commission",
+      "meaning": "to officially ask and pay an artist to create a work",
+      "examples": [
+        "The council commissioned a mural for the station.",
+        "A local company commissioned the artwork."
+      ]
+    }
+  ]
+}

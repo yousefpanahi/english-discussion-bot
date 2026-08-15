@@ -1,0 +1,85 @@
+{
+  "title": "Blood",
+  "vocabulary": [
+    {
+      "word": "blood cell",
+      "meaning": "one of the cells that make up blood, including red and white cells",
+      "examples": [
+        "Red blood cells carry oxygen around the body.",
+        "Doctors counted the different blood cells in the sample."
+      ]
+    },
+    {
+      "word": "plasma",
+      "meaning": "the pale liquid part of blood that carries cells and other substances",
+      "examples": [
+        "Plasma makes up more than half of blood by volume.",
+        "Some patients receive plasma during medical treatment."
+      ]
+    },
+    {
+      "word": "red blood cell",
+      "meaning": "a blood cell that carries oxygen from the lungs to the body",
+      "examples": [
+        "Red blood cells contain haemoglobin.",
+        "A low red blood cell count can cause tiredness."
+      ]
+    },
+    {
+      "word": "white blood cell",
+      "meaning": "a blood cell that helps the body fight infection",
+      "examples": [
+        "White blood cells are part of the immune system.",
+        "The infection caused an increase in white blood cells."
+      ]
+    },
+    {
+      "word": "platelet",
+      "meaning": "a small blood component that helps stop bleeding",
+      "examples": [
+        "Platelets help form blood clots.",
+        "A very low platelet count can increase bleeding risk."
+      ]
+    },
+    {
+      "word": "haemoglobin",
+      "meaning": "the protein in red blood cells that carries oxygen",
+      "examples": [
+        "The test showed a low haemoglobin level.",
+        "Iron is needed to make haemoglobin."
+      ]
+    },
+    {
+      "word": "transfusion",
+      "meaning": "the medical process of giving blood or blood components to a patient",
+      "examples": [
+        "The patient needed an urgent blood transfusion.",
+        "Blood transfusions are carefully matched for safety."
+      ]
+    },
+    {
+      "word": "blood type",
+      "meaning": "a category of blood based on particular biological characteristics",
+      "examples": [
+        "Do you know your blood type?",
+        "Doctors check blood type before a transfusion."
+      ]
+    },
+    {
+      "word": "donor",
+      "meaning": "a person who gives blood, an organ, or something else to help another person",
+      "examples": [
+        "Blood donors can save lives.",
+        "The hospital needs more regular donors."
+      ]
+    },
+    {
+      "word": "clot",
+      "meaning": "a thick mass of blood that forms when blood changes from liquid to solid",
+      "examples": [
+        "A clot helps stop bleeding after an injury.",
+        "A clot in the wrong place can be dangerous."
+      ]
+    }
+  ]
+}

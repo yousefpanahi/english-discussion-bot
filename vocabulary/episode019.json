@@ -1,0 +1,85 @@
+{
+  "title": "Volcano",
+  "vocabulary": [
+    {
+      "word": "eruption",
+      "meaning": "an event in which a volcano sends out lava, ash, and gases",
+      "examples": [
+        "The eruption forced thousands of people to leave their homes.",
+        "Scientists try to predict volcanic eruptions."
+      ]
+    },
+    {
+      "word": "lava",
+      "meaning": "hot melted rock that flows from a volcano",
+      "examples": [
+        "Lava flowed slowly down the side of the mountain.",
+        "The village was threatened by lava."
+      ]
+    },
+    {
+      "word": "magma",
+      "meaning": "hot melted rock beneath the Earth's surface",
+      "examples": [
+        "Magma rises through cracks in the Earth's crust.",
+        "Pressure can build inside a chamber of magma."
+      ]
+    },
+    {
+      "word": "ash",
+      "meaning": "very small particles of rock produced by a volcanic eruption",
+      "examples": [
+        "Volcanic ash covered the nearby town.",
+        "Flights were cancelled because of ash in the atmosphere."
+      ]
+    },
+    {
+      "word": "crater",
+      "meaning": "a large hole at the top of a volcano",
+      "examples": [
+        "Smoke was rising from the crater.",
+        "Scientists placed instruments near the crater."
+      ]
+    },
+    {
+      "word": "seismic activity",
+      "meaning": "movement in the Earth's crust that can be detected as earthquakes or vibrations",
+      "examples": [
+        "Increased seismic activity may warn of an eruption.",
+        "Researchers monitor seismic activity around active volcanoes."
+      ]
+    },
+    {
+      "word": "evacuate",
+      "meaning": "to move people away from a dangerous place",
+      "examples": [
+        "Authorities ordered residents to evacuate the area.",
+        "Thousands of people were evacuated before the eruption."
+      ]
+    },
+    {
+      "word": "active volcano",
+      "meaning": "a volcano that is erupting or may erupt again",
+      "examples": [
+        "The island has several active volcanoes.",
+        "Living near an active volcano can be risky."
+      ]
+    },
+    {
+      "word": "hazard",
+      "meaning": "something that can cause danger or harm",
+      "examples": [
+        "Volcanic gases are a serious health hazard.",
+        "Officials created maps showing volcanic hazards."
+      ]
+    },
+    {
+      "word": "monitor",
+      "meaning": "to watch or measure something carefully over time",
+      "examples": [
+        "Scientists monitor the volcano day and night.",
+        "Satellites can help monitor changes in the landscape."
+      ]
+    }
+  ]
+}

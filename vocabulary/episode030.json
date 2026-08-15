@@ -1,0 +1,85 @@
+{
+  "title": "Satellite Navigation Systems",
+  "vocabulary": [
+    {
+      "word": "satellite",
+      "meaning": "an object placed in space to collect information or provide communication",
+      "examples": [
+        "Navigation systems depend on satellites orbiting Earth.",
+        "The satellite sends signals to devices on the ground."
+      ]
+    },
+    {
+      "word": "GPS",
+      "meaning": "a satellite-based system used to determine exact location",
+      "examples": [
+        "I used GPS to find the hotel.",
+        "Modern phones include GPS receivers."
+      ]
+    },
+    {
+      "word": "coordinates",
+      "meaning": "numbers that identify an exact position on a map or the Earth",
+      "examples": [
+        "The rescue team received the hikers' coordinates.",
+        "Enter the coordinates into the navigation system."
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "an electronic message or wave used to carry information",
+      "examples": [
+        "The device lost its satellite signal inside the tunnel.",
+        "A weak signal can reduce navigation accuracy."
+      ]
+    },
+    {
+      "word": "receiver",
+      "meaning": "a device that detects and processes electronic signals",
+      "examples": [
+        "The car's receiver calculates its position.",
+        "A GPS receiver needs signals from several satellites."
+      ]
+    },
+    {
+      "word": "navigation",
+      "meaning": "the process of finding and following a route",
+      "examples": [
+        "Satellite navigation has changed how people travel.",
+        "Good navigation is essential at sea."
+      ]
+    },
+    {
+      "word": "accuracy",
+      "meaning": "the degree to which information or measurement is correct",
+      "examples": [
+        "Modern systems can provide remarkable location accuracy.",
+        "Tall buildings sometimes reduce GPS accuracy."
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "a particular way from one place to another",
+      "examples": [
+        "The system suggested a faster route.",
+        "We followed the route shown on the screen."
+      ]
+    },
+    {
+      "word": "real-time",
+      "meaning": "happening or being updated immediately as events occur",
+      "examples": [
+        "The app provides real-time traffic information.",
+        "Real-time navigation can avoid road closures."
+      ]
+    },
+    {
+      "word": "positioning",
+      "meaning": "the process of finding the exact location of something",
+      "examples": [
+        "Satellite positioning is used in transport and agriculture.",
+        "Accurate positioning helps emergency services find people quickly."
+      ]
+    }
+  ]
+}

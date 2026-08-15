@@ -1,0 +1,85 @@
+{
+  "title": "Invisible island",
+  "vocabulary": [
+    {
+      "word": "island",
+      "meaning": "an area of land completely surrounded by water",
+      "examples": [
+        "The map showed a small island in the Pacific.",
+        "Researchers sailed to the remote island."
+      ]
+    },
+    {
+      "word": "cartography",
+      "meaning": "the science and practice of making maps",
+      "examples": [
+        "Modern satellites have transformed cartography.",
+        "Old mistakes in cartography can survive for many years."
+      ]
+    },
+    {
+      "word": "map",
+      "meaning": "a representation of an area showing locations and features",
+      "examples": [
+        "The island appeared on several maps.",
+        "Always use an updated map when travelling."
+      ]
+    },
+    {
+      "word": "coordinates",
+      "meaning": "numbers that identify an exact position on Earth",
+      "examples": [
+        "The team checked the island's reported coordinates.",
+        "The coordinates pointed to open ocean."
+      ]
+    },
+    {
+      "word": "survey",
+      "meaning": "a careful examination or measurement of an area",
+      "examples": [
+        "The ship carried out a detailed ocean survey.",
+        "A new survey showed that the island did not exist."
+      ]
+    },
+    {
+      "word": "satellite imagery",
+      "meaning": "pictures of Earth taken from satellites",
+      "examples": [
+        "Satellite imagery can verify remote geographic features.",
+        "The island was absent from recent satellite imagery."
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "a map used especially for navigation at sea",
+      "examples": [
+        "The captain compared several nautical charts.",
+        "The old chart included the mysterious island."
+      ]
+    },
+    {
+      "word": "error",
+      "meaning": "a mistake or incorrect piece of information",
+      "examples": [
+        "A mapping error may have created the island.",
+        "Digital systems can repeat an old error."
+      ]
+    },
+    {
+      "word": "verify",
+      "meaning": "to check or prove that something is true or accurate",
+      "examples": [
+        "Scientists travelled to verify the map data.",
+        "Always verify information using more than one source."
+      ]
+    },
+    {
+      "word": "geographic",
+      "meaning": "related to places, locations, and the physical features of Earth",
+      "examples": [
+        "The discovery corrected a geographic mistake.",
+        "Geographic data is important for navigation."
+      ]
+    }
+  ]
+}

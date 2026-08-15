@@ -1,0 +1,85 @@
+{
+  "title": "Work emails",
+  "vocabulary": [
+    {
+      "word": "email thread",
+      "meaning": "a series of related email messages sent back and forth",
+      "examples": [
+        "The whole team was included in the email thread.",
+        "It was difficult to follow the long email thread."
+      ]
+    },
+    {
+      "word": "recipient",
+      "meaning": "a person who receives a message or email",
+      "examples": [
+        "Check the recipient before you press send.",
+        "The email was sent to the wrong recipient."
+      ]
+    },
+    {
+      "word": "subject line",
+      "meaning": "the short title that describes what an email is about",
+      "examples": [
+        "Use a clear subject line for work emails.",
+        "The subject line should explain the purpose of the message."
+      ]
+    },
+    {
+      "word": "attachment",
+      "meaning": "a file sent together with an email",
+      "examples": [
+        "I forgot to include the attachment.",
+        "Please open the attachment before the meeting."
+      ]
+    },
+    {
+      "word": "formal",
+      "meaning": "suitable for serious or professional situations",
+      "examples": [
+        "Her email was polite and formal.",
+        "A formal tone is useful when writing to a new client."
+      ]
+    },
+    {
+      "word": "concise",
+      "meaning": "short and clear without unnecessary information",
+      "examples": [
+        "Work emails should usually be concise.",
+        "His message was concise but still polite."
+      ]
+    },
+    {
+      "word": "tone",
+      "meaning": "the attitude or feeling communicated by someone's words",
+      "examples": [
+        "The tone of the email sounded too aggressive.",
+        "It can be difficult to judge tone in written messages."
+      ]
+    },
+    {
+      "word": "reply all",
+      "meaning": "to send a reply to everyone who received the original email",
+      "examples": [
+        "Think carefully before you click reply all.",
+        "She used reply all so the whole team could see the update."
+      ]
+    },
+    {
+      "word": "misunderstanding",
+      "meaning": "a situation in which someone understands something incorrectly",
+      "examples": [
+        "A vague email caused a misunderstanding.",
+        "A quick phone call can sometimes prevent misunderstandings."
+      ]
+    },
+    {
+      "word": "professional",
+      "meaning": "showing the skill and behaviour expected at work",
+      "examples": [
+        "Keep your work messages professional.",
+        "Her professional response helped calm the situation."
+      ]
+    }
+  ]
+}

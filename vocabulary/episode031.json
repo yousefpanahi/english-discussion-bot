@@ -1,0 +1,85 @@
+{
+  "title": "The World Wide Web turns 20",
+  "vocabulary": [
+    {
+      "word": "World Wide Web",
+      "meaning": "the system of linked pages and resources accessed through the internet",
+      "examples": [
+        "The World Wide Web changed how people find information.",
+        "Millions of websites are available on the World Wide Web."
+      ]
+    },
+    {
+      "word": "web browser",
+      "meaning": "software used to view websites",
+      "examples": [
+        "Open the page in your web browser.",
+        "Modern web browsers include privacy and security tools."
+      ]
+    },
+    {
+      "word": "hyperlink",
+      "meaning": "a clickable connection from one webpage or document to another",
+      "examples": [
+        "The article contains a hyperlink to the original study.",
+        "Click the hyperlink to open the next page."
+      ]
+    },
+    {
+      "word": "website",
+      "meaning": "a collection of related pages on the internet",
+      "examples": [
+        "The organisation launched a new website.",
+        "Most businesses now maintain a website."
+      ]
+    },
+    {
+      "word": "internet",
+      "meaning": "the global network connecting computers and devices",
+      "examples": [
+        "The web is one service that operates on the internet.",
+        "Internet access has become essential for many jobs."
+      ]
+    },
+    {
+      "word": "webpage",
+      "meaning": "a single page of information available on the web",
+      "examples": [
+        "The information appears on the university's webpage.",
+        "The webpage loads quickly on mobile phones."
+      ]
+    },
+    {
+      "word": "domain name",
+      "meaning": "the readable address used to identify a website",
+      "examples": [
+        "The company registered a new domain name.",
+        "A short domain name is easier to remember."
+      ]
+    },
+    {
+      "word": "online",
+      "meaning": "connected to or available through the internet",
+      "examples": [
+        "More public services are now available online.",
+        "She completed the course entirely online."
+      ]
+    },
+    {
+      "word": "innovation",
+      "meaning": "a new idea, method, or technology",
+      "examples": [
+        "The web was a major technological innovation.",
+        "Innovation can change how people communicate."
+      ]
+    },
+    {
+      "word": "open standard",
+      "meaning": "a technical rule or format that anyone can use",
+      "examples": [
+        "Open standards helped the web grow rapidly.",
+        "Developers can build compatible tools using an open standard."
+      ]
+    }
+  ]
+}

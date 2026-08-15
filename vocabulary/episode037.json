@@ -1,0 +1,85 @@
+{
+  "title": "Driving on Mars",
+  "vocabulary": [
+    {
+      "word": "rover",
+      "meaning": "a vehicle designed to move across the surface of another planet or moon",
+      "examples": [
+        "The Mars rover travelled across rocky ground.",
+        "Scientists send commands to the rover from Earth."
+      ]
+    },
+    {
+      "word": "terrain",
+      "meaning": "the physical features of an area of land",
+      "examples": [
+        "Mars has rough and uneven terrain.",
+        "The vehicle was designed for difficult terrain."
+      ]
+    },
+    {
+      "word": "remote control",
+      "meaning": "control of a machine from a distance",
+      "examples": [
+        "Engineers operate the rover by remote control.",
+        "The time delay makes direct remote control difficult on Mars."
+      ]
+    },
+    {
+      "word": "autonomous navigation",
+      "meaning": "the ability of a vehicle to choose and follow a route without constant human control",
+      "examples": [
+        "The rover uses autonomous navigation to avoid rocks.",
+        "Autonomous navigation allows the vehicle to travel more efficiently."
+      ]
+    },
+    {
+      "word": "wheel",
+      "meaning": "a circular object that turns to allow a vehicle to move",
+      "examples": [
+        "The rover's wheels were designed for rough surfaces.",
+        "Engineers noticed damage to one wheel."
+      ]
+    },
+    {
+      "word": "mission control",
+      "meaning": "the team and centre responsible for managing a space mission",
+      "examples": [
+        "Mission control received new images from Mars.",
+        "Engineers at mission control planned the rover's route."
+      ]
+    },
+    {
+      "word": "obstacle",
+      "meaning": "something that blocks movement or makes progress difficult",
+      "examples": [
+        "The rover detected an obstacle in its path.",
+        "Large rocks are common obstacles on the Martian surface."
+      ]
+    },
+    {
+      "word": "surface",
+      "meaning": "the outer or top layer of a planet or object",
+      "examples": [
+        "The vehicle collected samples from the Martian surface.",
+        "Temperatures on the surface can change dramatically."
+      ]
+    },
+    {
+      "word": "sample",
+      "meaning": "a small amount of material collected for scientific study",
+      "examples": [
+        "The rover drilled into rock to collect a sample.",
+        "Scientists hope the samples will reveal Mars's history."
+      ]
+    },
+    {
+      "word": "transmit",
+      "meaning": "to send information or signals electronically",
+      "examples": [
+        "The rover transmits data back to Earth.",
+        "Images are transmitted through satellites orbiting Mars."
+      ]
+    }
+  ]
+}

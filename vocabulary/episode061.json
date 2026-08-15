@@ -1,0 +1,85 @@
+{
+  "title": "Dream apps",
+  "vocabulary": [
+    {
+      "word": "dream app",
+      "meaning": "a digital application designed to record, analyse, or influence dreams",
+      "examples": [
+        "She used a dream app to record what she remembered each morning.",
+        "Some dream apps claim to identify patterns in sleep."
+      ]
+    },
+    {
+      "word": "sleep tracker",
+      "meaning": "a device or app that records information about sleep",
+      "examples": [
+        "My sleep tracker says I woke up several times.",
+        "Sleep trackers can provide useful trends but are not always exact."
+      ]
+    },
+    {
+      "word": "dream journal",
+      "meaning": "a record in which a person writes down dreams",
+      "examples": [
+        "Keeping a dream journal can improve dream recall.",
+        "He writes in his dream journal immediately after waking."
+      ]
+    },
+    {
+      "word": "lucid dream",
+      "meaning": "a dream in which the dreamer knows that they are dreaming",
+      "examples": [
+        "Some people practise techniques to have lucid dreams.",
+        "She described a vivid lucid dream."
+      ]
+    },
+    {
+      "word": "sleep cycle",
+      "meaning": "a repeated pattern of different stages of sleep",
+      "examples": [
+        "Dreaming is common during certain parts of the sleep cycle.",
+        "A full sleep cycle lasts roughly an hour and a half."
+      ]
+    },
+    {
+      "word": "REM sleep",
+      "meaning": "a stage of sleep associated with rapid eye movement and vivid dreams",
+      "examples": [
+        "Many memorable dreams occur during REM sleep.",
+        "REM sleep is important for the brain."
+      ]
+    },
+    {
+      "word": "monitor",
+      "meaning": "to observe or record something over time",
+      "examples": [
+        "The app monitors movement during the night.",
+        "Researchers monitor sleep in controlled conditions."
+      ]
+    },
+    {
+      "word": "algorithm",
+      "meaning": "a set of rules a computer uses to process information or solve a problem",
+      "examples": [
+        "The app uses an algorithm to estimate sleep stages.",
+        "An algorithm cannot perfectly interpret a person's dreams."
+      ]
+    },
+    {
+      "word": "privacy",
+      "meaning": "the right to control access to personal information",
+      "examples": [
+        "Sleep apps can raise questions about privacy.",
+        "Users should check how health data is protected."
+      ]
+    },
+    {
+      "word": "interpret",
+      "meaning": "to explain the possible meaning of something",
+      "examples": [
+        "The app tries to interpret recurring dream themes.",
+        "People have interpreted dreams in different ways throughout history."
+      ]
+    }
+  ]
+}
