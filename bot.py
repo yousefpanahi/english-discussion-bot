@@ -434,10 +434,12 @@ elif message_type == "vocabulary":
         end = start + 5
 
         message = (
-            f"📘 Topic Vocabulary — Part {part + 1}/2\n\n"
+            f"📌📚📌 Vocabulary Time 📌📚📌\n"
+            f"━━━━━━━━━━━━━━\n"
+            f"Part {part + 1}/2\n"
             f"Episode {episode_number}: {title}\n\n"
         )
-
+        
         for i in range(start, end):
 
             item = vocabulary[i]
