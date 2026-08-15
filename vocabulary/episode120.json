@@ -1,0 +1,85 @@
+{
+  "title": "Cleaning up space",
+  "vocabulary": [
+    {
+      "word": "space debris",
+      "meaning": "old satellites and other human-made objects left in orbit around Earth",
+      "examples": [
+        "Space debris can damage working satellites.",
+        "Scientists track thousands of pieces of space debris."
+      ]
+    },
+    {
+      "word": "orbit",
+      "meaning": "the path an object follows around a planet or star",
+      "examples": [
+        "Old rocket parts can remain in orbit for years.",
+        "The satellite was placed in a lower orbit."
+      ]
+    },
+    {
+      "word": "collision",
+      "meaning": "an event in which objects hit each other",
+      "examples": [
+        "A collision in space can create even more debris.",
+        "Operators changed the satellite's path to avoid a collision."
+      ]
+    },
+    {
+      "word": "satellite",
+      "meaning": "an object placed in space for communication, observation, or research",
+      "examples": [
+        "A small satellite was threatened by nearby debris.",
+        "Modern life depends on many satellites."
+      ]
+    },
+    {
+      "word": "debris removal",
+      "meaning": "the process of collecting or moving dangerous waste objects out of orbit",
+      "examples": [
+        "Several companies are testing debris-removal technology.",
+        "Debris removal may become necessary for safer space operations."
+      ]
+    },
+    {
+      "word": "tracking",
+      "meaning": "the continuous observation of an object's location and movement",
+      "examples": [
+        "Accurate tracking helps predict possible collisions.",
+        "Radar is used for tracking large objects in orbit."
+      ]
+    },
+    {
+      "word": "deorbit",
+      "meaning": "to remove a spacecraft from orbit so it safely returns or burns up in the atmosphere",
+      "examples": [
+        "The mission plans to deorbit the old satellite.",
+        "Satellites can be designed to deorbit at the end of their lives."
+      ]
+    },
+    {
+      "word": "launch",
+      "meaning": "the act of sending a rocket or spacecraft into space",
+      "examples": [
+        "Every launch can add equipment to Earth's orbital environment.",
+        "The launch was delayed by bad weather."
+      ]
+    },
+    {
+      "word": "sustainability",
+      "meaning": "the ability to continue an activity without causing long-term damage",
+      "examples": [
+        "Space sustainability requires responsible satellite design.",
+        "International rules could improve orbital sustainability."
+      ]
+    },
+    {
+      "word": "mission",
+      "meaning": "an organised space journey or operation with a particular purpose",
+      "examples": [
+        "The mission aims to capture an old satellite.",
+        "Engineers are planning a demonstration mission."
+      ]
+    }
+  ]
+}

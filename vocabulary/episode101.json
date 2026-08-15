@@ -1,0 +1,85 @@
+{
+  "title": "Arranging meetings",
+  "vocabulary": [
+    {
+      "word": "arrange",
+      "meaning": "to organise or plan something in advance",
+      "examples": [
+        "I'll arrange a meeting for next Tuesday.",
+        "Could you arrange a suitable time with the client?"
+      ]
+    },
+    {
+      "word": "availability",
+      "meaning": "the times when someone is free or able to do something",
+      "examples": [
+        "Please send me your availability for this week.",
+        "We need to check everyone's availability before booking the meeting."
+      ]
+    },
+    {
+      "word": "schedule",
+      "meaning": "a plan showing when activities or events will happen",
+      "examples": [
+        "The meeting is already on my schedule.",
+        "We changed the schedule because two people were unavailable."
+      ]
+    },
+    {
+      "word": "reschedule",
+      "meaning": "to arrange an event for a different time",
+      "examples": [
+        "Can we reschedule the meeting for Friday?",
+        "The manager had to reschedule because of an urgent appointment."
+      ]
+    },
+    {
+      "word": "agenda",
+      "meaning": "a list of topics to be discussed at a meeting",
+      "examples": [
+        "I'll send the agenda before the meeting.",
+        "The first item on the agenda is the project deadline."
+      ]
+    },
+    {
+      "word": "confirm",
+      "meaning": "to state that an arrangement or piece of information is definite",
+      "examples": [
+        "Please confirm whether you can attend.",
+        "She confirmed the meeting by email."
+      ]
+    },
+    {
+      "word": "appointment",
+      "meaning": "an arrangement to meet someone at a particular time",
+      "examples": [
+        "I have an appointment with the supplier at ten.",
+        "He moved his appointment to the afternoon."
+      ]
+    },
+    {
+      "word": "convenient",
+      "meaning": "suitable and easy for someone's needs or plans",
+      "examples": [
+        "Would 3 p.m. be convenient for you?",
+        "Let's choose a convenient time for everyone."
+      ]
+    },
+    {
+      "word": "attendee",
+      "meaning": "a person who attends a meeting or event",
+      "examples": [
+        "All attendees received the meeting link.",
+        "There will be twelve attendees at tomorrow's session."
+      ]
+    },
+    {
+      "word": "calendar invite",
+      "meaning": "an electronic invitation that adds a meeting to someone's calendar",
+      "examples": [
+        "I'll send you a calendar invite shortly.",
+        "The calendar invite includes the video-call link."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Tweet of the day",
+  "vocabulary": [
+    {
+      "word": "tweet",
+      "meaning": "a short message posted on the social-media platform formerly known as Twitter",
+      "examples": [
+        "Her tweet received thousands of replies.",
+        "A single tweet can spread very quickly."
+      ]
+    },
+    {
+      "word": "post",
+      "meaning": "content published on a social-media platform",
+      "examples": [
+        "The post included a photo and a short comment.",
+        "He deleted the post after receiving criticism."
+      ]
+    },
+    {
+      "word": "hashtag",
+      "meaning": "a word or phrase preceded by # used to label or group social-media content",
+      "examples": [
+        "The campaign created a popular hashtag.",
+        "People used the hashtag to join the discussion."
+      ]
+    },
+    {
+      "word": "follower",
+      "meaning": "a person who chooses to receive another user's social-media posts",
+      "examples": [
+        "The account gained many new followers.",
+        "Influencers often speak directly to their followers."
+      ]
+    },
+    {
+      "word": "viral",
+      "meaning": "spreading extremely quickly online",
+      "examples": [
+        "The video went viral overnight.",
+        "A viral post can reach millions of people."
+      ]
+    },
+    {
+      "word": "repost",
+      "meaning": "to share someone else's social-media content again",
+      "examples": [
+        "Thousands of users reposted the message.",
+        "Before you repost information, check whether it is accurate."
+      ]
+    },
+    {
+      "word": "character limit",
+      "meaning": "the maximum number of characters allowed in a message",
+      "examples": [
+        "A character limit encourages people to write briefly.",
+        "The platform increased its character limit."
+      ]
+    },
+    {
+      "word": "engagement",
+      "meaning": "likes, replies, shares, and other interactions with online content",
+      "examples": [
+        "Questions often increase social-media engagement.",
+        "The post received unusually high engagement."
+      ]
+    },
+    {
+      "word": "platform",
+      "meaning": "an online service where users create and share content",
+      "examples": [
+        "The platform changed its moderation rules.",
+        "Different platforms attract different audiences."
+      ]
+    },
+    {
+      "word": "trending",
+      "meaning": "becoming especially popular or widely discussed online at a particular time",
+      "examples": [
+        "The topic was trending throughout the day.",
+        "A trending story can quickly attract media attention."
+      ]
+    }
+  ]
+}

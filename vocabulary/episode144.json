@@ -1,0 +1,85 @@
+{
+  "title": "Do you like garlic",
+  "vocabulary": [
+    {
+      "word": "garlic",
+      "meaning": "a strong-smelling bulb used as a food and seasoning",
+      "examples": [
+        "Garlic is common in many cuisines.",
+        "She added fresh garlic to the sauce."
+      ]
+    },
+    {
+      "word": "clove",
+      "meaning": "one of the small sections that make up a bulb of garlic",
+      "examples": [
+        "The recipe uses two cloves of garlic.",
+        "Crush the garlic clove before adding it."
+      ]
+    },
+    {
+      "word": "pungent",
+      "meaning": "having a strong, sharp smell or taste",
+      "examples": [
+        "Raw garlic has a pungent flavour.",
+        "Cooking makes the pungent taste milder."
+      ]
+    },
+    {
+      "word": "aroma",
+      "meaning": "a noticeable and often pleasant smell",
+      "examples": [
+        "The aroma of garlic filled the kitchen.",
+        "Roasted garlic has a sweeter aroma."
+      ]
+    },
+    {
+      "word": "raw",
+      "meaning": "not cooked",
+      "examples": [
+        "Some people eat small amounts of raw garlic.",
+        "Raw garlic tastes stronger than cooked garlic."
+      ]
+    },
+    {
+      "word": "roast",
+      "meaning": "to cook food using dry heat, usually in an oven",
+      "examples": [
+        "Roast the garlic until it becomes soft.",
+        "Roasted garlic spreads easily on bread."
+      ]
+    },
+    {
+      "word": "ingredient",
+      "meaning": "one of the substances used to make a dish",
+      "examples": [
+        "Garlic is a key ingredient in the recipe.",
+        "Check the ingredient list if you dislike garlic."
+      ]
+    },
+    {
+      "word": "seasoning",
+      "meaning": "something added to food to improve flavour",
+      "examples": [
+        "Garlic is often used as a seasoning.",
+        "Herbs and garlic can reduce the need for extra salt."
+      ]
+    },
+    {
+      "word": "health benefit",
+      "meaning": "a positive effect something may have on health",
+      "examples": [
+        "Researchers study possible health benefits of garlic.",
+        "A single food should not be treated as a cure, even if it has health benefits."
+      ]
+    },
+    {
+      "word": "garlic breath",
+      "meaning": "an unpleasant smell on the breath after eating garlic",
+      "examples": [
+        "He joked about his garlic breath after lunch.",
+        "Parsley does not always remove garlic breath."
+      ]
+    }
+  ]
+}

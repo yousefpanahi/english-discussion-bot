@@ -1,0 +1,85 @@
+{
+  "title": "Learn a thousand foreign words",
+  "vocabulary": [
+    {
+      "word": "vocabulary",
+      "meaning": "the set of words a person knows and uses",
+      "examples": [
+        "A larger vocabulary makes reading easier.",
+        "Building vocabulary takes repeated exposure."
+      ]
+    },
+    {
+      "word": "spaced repetition",
+      "meaning": "a learning method that reviews information at increasing intervals",
+      "examples": [
+        "Spaced repetition can improve long-term memory.",
+        "Many vocabulary apps use spaced repetition."
+      ]
+    },
+    {
+      "word": "flashcard",
+      "meaning": "a card or digital item with a question or word on one side and an answer on the other",
+      "examples": [
+        "She uses flashcards to learn new words.",
+        "Digital flashcards are easy to review on the bus."
+      ]
+    },
+    {
+      "word": "recall",
+      "meaning": "the ability to remember information without seeing the answer",
+      "examples": [
+        "Active recall is more powerful than simply rereading a list.",
+        "The exercise tests your recall of yesterday's words."
+      ]
+    },
+    {
+      "word": "memorise",
+      "meaning": "to learn something so that you can remember it exactly",
+      "examples": [
+        "He tries to memorise ten new words a day.",
+        "It is easier to memorise words when you use them in context."
+      ]
+    },
+    {
+      "word": "retention",
+      "meaning": "the ability to keep information in memory over time",
+      "examples": [
+        "Regular review improves retention.",
+        "Sleep also supports memory retention."
+      ]
+    },
+    {
+      "word": "review",
+      "meaning": "to study information again in order to remember it",
+      "examples": [
+        "Review old vocabulary before adding too many new words.",
+        "A short daily review is more useful than one long session each month."
+      ]
+    },
+    {
+      "word": "context",
+      "meaning": "the sentence or situation around a word that helps explain its meaning",
+      "examples": [
+        "Learn vocabulary in context rather than as isolated translations.",
+        "Context helps you choose the right meaning of a word."
+      ]
+    },
+    {
+      "word": "frequency",
+      "meaning": "how often something occurs or is used",
+      "examples": [
+        "High-frequency words are useful to learn first.",
+        "Word frequency can help learners prioritise vocabulary."
+      ]
+    },
+    {
+      "word": "active recall",
+      "meaning": "a study method in which you try to produce an answer from memory",
+      "examples": [
+        "Active recall makes your brain work harder than passive rereading.",
+        "Use active recall by covering the definition and testing yourself."
+      ]
+    }
+  ]
+}

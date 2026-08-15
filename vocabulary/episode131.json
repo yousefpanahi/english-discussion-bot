@@ -1,0 +1,85 @@
+{
+  "title": "What English phrases really mean",
+  "vocabulary": [
+    {
+      "word": "phrase",
+      "meaning": "a small group of words commonly used together",
+      "examples": [
+        "The phrase sounds polite but may have another implied meaning.",
+        "Learning common phrases can make English sound more natural."
+      ]
+    },
+    {
+      "word": "literal",
+      "meaning": "based on the exact basic meaning of words",
+      "examples": [
+        "A literal translation can sometimes sound strange.",
+        "Do not always interpret an idiom literally."
+      ]
+    },
+    {
+      "word": "figurative",
+      "meaning": "using words in a non-literal way to create a particular meaning",
+      "examples": [
+        "The expression is figurative rather than literal.",
+        "English contains many figurative phrases."
+      ]
+    },
+    {
+      "word": "idiom",
+      "meaning": "a fixed expression whose meaning is not obvious from the individual words",
+      "examples": [
+        "'Break the ice' is a common English idiom.",
+        "Idioms can be difficult for language learners."
+      ]
+    },
+    {
+      "word": "context",
+      "meaning": "the situation and surrounding information that help explain meaning",
+      "examples": [
+        "You need context to understand what the speaker really means.",
+        "The same phrase can sound different in another context."
+      ]
+    },
+    {
+      "word": "understatement",
+      "meaning": "a way of describing something as less serious or important than it really is",
+      "examples": [
+        "British speakers sometimes use understatement for humorous effect.",
+        "Calling the storm 'a bit wet' would be an understatement."
+      ]
+    },
+    {
+      "word": "sarcasm",
+      "meaning": "the use of words that mean the opposite of what is intended, often to mock or joke",
+      "examples": [
+        "Sarcasm can be difficult to understand in another language.",
+        "His comment sounded sincere, but it was actually sarcasm."
+      ]
+    },
+    {
+      "word": "indirect",
+      "meaning": "expressed in a way that does not state the meaning directly",
+      "examples": [
+        "Some polite English requests are very indirect.",
+        "An indirect answer may depend heavily on cultural knowledge."
+      ]
+    },
+    {
+      "word": "implication",
+      "meaning": "a meaning that is suggested but not directly stated",
+      "examples": [
+        "The implication was that we should leave soon.",
+        "Learners often miss the implication behind polite phrases."
+      ]
+    },
+    {
+      "word": "cultural nuance",
+      "meaning": "a small difference in meaning or behaviour connected with a particular culture",
+      "examples": [
+        "Understanding cultural nuance takes time.",
+        "Translation software may miss important cultural nuances."
+      ]
+    }
+  ]
+}
