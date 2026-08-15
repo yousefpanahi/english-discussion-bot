@@ -52,6 +52,21 @@ jobs:
       - name: Install requests
         run: pip install requests
 
+      # ---------------------------------------
+      # VOCABULARY — EXACTLY 17:00 TEHRAN
+      # DAY AFTER EACH BBC EPISODE
+      # ---------------------------------------
+
+      - name: Send episode vocabulary
+        if: |
+          github.event.schedule == '17 10 * * 0,2,4' ||
+          github.event.inputs.message_type == 'vocabulary'
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          MESSAGE_TYPE: vocabulary
+          TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '17:00' || '' }}
+        run: python bot.py
 
       # ---------------------------------------
       # REMINDER — EXACTLY 17:00 TEHRAN
