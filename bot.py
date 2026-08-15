@@ -221,6 +221,19 @@ def get_questions(episode_number):
 
 
 # ==================================================
+# GET VOCABULARY FOR EPISODE
+# ==================================================
+
+def get_vocabulary(episode_number):
+    filename = f"vocabulary/episode{episode_number:03d}.json"
+
+    if not os.path.exists(filename):
+        raise Exception(f"Vocabulary file not found: {filename}")
+
+    with open(filename, "r", encoding="utf-8") as file:
+        return json.load(file)
+
+# ==================================================
 # MESSAGE TYPE
 # ==================================================
 
