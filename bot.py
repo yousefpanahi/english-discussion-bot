@@ -398,6 +398,63 @@ Good luck and enjoy the discussion! 😊"""
 
     print(f"Episode {next_episode} completed successfully.")
 
+# ==================================================
+# 5. EPISODE VOCABULARY
+# ==================================================
+
+elif message_type == "vocabulary":
+
+    # The counter contains the most recently sent BBC episode
+    episode_number = get_episode_number()
+
+    if episode_number < 1:
+        print("No BBC episode has been sent yet.")
+        sys.exit(0)
+
+    # Load vocabulary for that episode
+    vocabulary_data = get_vocabulary(episode_number)
+
+    title = vocabulary_data["title"]
+    vocabulary = vocabulary_data["vocabulary"]
+
+    if len(vocabulary) != 10:
+        raise Exception(
+            f"Episode {episode_number} must contain exactly 10 vocabulary items."
+        )
+
+    number_icons = [
+        "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣",
+        "6️⃣", "7️⃣", "8️⃣", "9️⃣", "🔟"
+    ]
+
+    # Send vocabulary in two messages: 5 words each
+    for part in range(2):
+
+        start = part * 5
+        end = start + 5
+
+        message = (
+            f"📘 Topic Vocabulary — Part {part + 1}/2\n\n"
+            f"Episode {episode_number}: {title}\n\n"
+        )
+
+        for i in range(start, end):
+
+            item = vocabulary[i]
+
+            message += (
+                f"{number_icons[i]} {item['word']}\n"
+                f"Meaning: {item['meaning']}\n\n"
+                f"🔹 {item['examples'][0]}\n"
+                f"🔹 {item['examples'][1]}\n\n"
+            )
+
+        send_message(message)
+
+    print(
+        f"Vocabulary for Episode {episode_number} "
+        f"sent successfully."
+    )
 
 # ==================================================
 # INVALID MESSAGE TYPE
