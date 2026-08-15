@@ -5,6 +5,10 @@ permissions:
 
 on:
   schedule:
+    # Vocabulary — next day after each BBC episode
+    # Sunday, Tuesday, Thursday — wait until 17:00 Tehran
+    - cron: "17 10 * * 0,2,4"
+    
     # Reminder — start early, wait until 17:00 Tehran
     - cron: "17 10 * * 1,3,6"
 
