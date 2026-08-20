@@ -1,84 +1,52 @@
 {
-  "title": "The extinction of men",
+  "title": "Living with debt",
   "vocabulary": [
     {
-      "word": "extinction",
-      "meaning": "the complete disappearance of a species or group",
+      "word": "debt",
+      "meaning": "money that you owe to another person, bank, or company",
       "examples": [
-        "Some scientists warn that certain species are at risk of extinction.",
-        "Human activity can sometimes contribute to the extinction of animals."
+        "Many people use a monthly budget to avoid getting into debt.",
+        "It can take several years to pay off a large debt."
       ]
     },
     {
-      "word": "fertility",
-      "meaning": "the ability to produce children or offspring",
+      "word": "borrow",
+      "meaning": "to take money from someone with the intention of paying it back later",
       "examples": [
-        "Fertility rates have fallen in many countries.",
-        "Scientists are studying factors that may affect male fertility."
+        "She had to borrow money to cover an unexpected expense.",
+        "Before you borrow, make sure you understand the repayment terms."
       ]
     },
     {
-      "word": "decline",
-      "meaning": "a gradual decrease in number, amount, quality, or importance",
+      "word": "owe",
+      "meaning": "to have to pay money back to someone",
       "examples": [
-        "The country has experienced a decline in its birth rate.",
-        "Researchers are trying to understand the reasons for the decline."
+        "I still owe the bank part of my student loan.",
+        "He realised that he owed more money than he had expected."
       ]
     },
     {
-      "word": "population",
-      "meaning": "the number of people or animals living in a particular place or group",
+      "word": "repay",
+      "meaning": "to pay back money that you borrowed",
       "examples": [
-        "The world's population has changed rapidly over the last century.",
-        "An ageing population can create economic challenges."
+        "They agreed to repay the loan over three years.",
+        "It becomes harder to repay debt when interest rates rise."
       ]
     },
     {
-      "word": "reproduction",
-      "meaning": "the biological process of producing new individuals",
+      "word": "interest",
+      "meaning": "extra money paid for borrowing money, usually calculated as a percentage",
       "examples": [
-        "Reproduction is necessary for the survival of a species.",
-        "Environmental conditions can affect reproduction."
+        "A high interest rate can make a loan much more expensive.",
+        "He chose the bank that offered the lowest interest rate."
       ]
     },
     {
-      "word": "genetic",
-      "meaning": "related to genes and characteristics passed from parents to children",
+      "word": "fall behind on payments",
+      "meaning": "to fail to make required payments at the expected time",
       "examples": [
-        "Some health conditions are influenced by genetic factors.",
-        "Scientists are studying genetic differences between populations."
-      ]
-    },
-    {
-      "word": "survival",
-      "meaning": "the ability to continue living or existing",
-      "examples": [
-        "Access to food and water is essential for survival.",
-        "Adaptation can improve a species' chances of survival."
-      ]
-    },
-    {
-      "word": "threat",
-      "meaning": "something that may cause harm, damage, or danger",
-      "examples": [
-        "Climate change is a serious threat to many species.",
-        "Researchers are discussing possible threats to future populations."
-      ]
-    },
-    {
-      "word": "inherit",
-      "meaning": "to receive a characteristic genetically from your parents",
-      "examples": [
-        "Children inherit some physical characteristics from their parents.",
-        "Certain medical conditions can be inherited."
-      ]
-    },
-    {
-      "word": "adapt",
-      "meaning": "to change in order to deal successfully with new conditions",
-      "examples": [
-        "Humans have learned to adapt to many different environments.",
-        "Species that cannot adapt may struggle to survive."
+        "He fell behind on payments after losing his job.",
+        "Contact the lender early if you think you may fall behind on payments."
       ]
     }
   ]
