@@ -1,84 +1,52 @@
 {
-  "title": "When does adulthood start",
+  "title": "Farming in Africa",
   "vocabulary": [
     {
-      "word": "adulthood",
-      "meaning": "the period of life when a person is considered an adult",
+      "word": "agriculture",
+      "meaning": "the activity of farming crops and animals",
       "examples": [
-        "Different societies define adulthood in different ways.",
-        "Legal adulthood does not always feel like emotional adulthood."
+        "Agriculture provides work for millions of people in Africa.",
+        "Climate change is affecting agriculture in many regions."
       ]
     },
     {
-      "word": "maturity",
-      "meaning": "the quality of behaving in a sensible and responsible way",
+      "word": "crop",
+      "meaning": "a plant grown by farmers for food or other uses",
       "examples": [
-        "Age and maturity are not exactly the same.",
-        "Taking responsibility can be a sign of maturity."
+        "Farmers planted a drought-resistant crop.",
+        "Poor rainfall reduced the maize crop."
       ]
     },
     {
-      "word": "independence",
-      "meaning": "the ability to live or make decisions without depending heavily on others",
+      "word": "harvest",
+      "meaning": "the process or time of collecting crops from fields",
       "examples": [
-        "Moving away from home can bring greater independence.",
-        "Financial independence may come later than legal adulthood."
+        "The farmers expect a good harvest this year.",
+        "Heavy rain damaged the harvest."
       ]
     },
     {
-      "word": "responsibility",
-      "meaning": "a duty to take care of something or accept the results of your actions",
+      "word": "irrigation",
+      "meaning": "the artificial supply of water to land or crops",
       "examples": [
-        "Adulthood often brings more responsibility.",
-        "Paying bills is a basic adult responsibility."
+        "Irrigation helps farmers grow food during dry periods.",
+        "The village invested in a new irrigation system."
       ]
     },
     {
-      "word": "milestone",
-      "meaning": "an important event marking progress or change in life",
+      "word": "drought",
+      "meaning": "a long period with very little rain",
       "examples": [
-        "Graduation can be an important milestone.",
-        "People reach adult milestones at different ages."
+        "The drought caused serious food shortages.",
+        "Farmers lost cattle during the drought."
       ]
     },
     {
-      "word": "legal age",
-      "meaning": "the age at which a person gains a particular legal right or responsibility",
+      "word": "fertile",
+      "meaning": "able to support strong plant growth",
       "examples": [
-        "The legal age for voting is not the same everywhere.",
-        "Some activities have a separate legal age."
-      ]
-    },
-    {
-      "word": "financial independence",
-      "meaning": "the ability to support yourself without relying on other people for money",
-      "examples": [
-        "High housing costs can delay financial independence.",
-        "She achieved financial independence in her twenties."
-      ]
-    },
-    {
-      "word": "identity",
-      "meaning": "a person's understanding of who they are",
-      "examples": [
-        "Early adulthood can be a period of identity development.",
-        "Work and relationships may shape adult identity."
-      ]
-    },
-    {
-      "word": "transition",
-      "meaning": "the process of changing from one stage or condition to another",
-      "examples": [
-        "The transition from school to work can be difficult.",
-        "Adulthood is often a gradual transition rather than a single moment."
-      ]
-    },
-    {
-      "word": "expectation",
-      "meaning": "a belief about how someone should behave or what should happen",
-      "examples": [
-        "Social expectations about adulthood have changed.",
-        "Young adults may feel pressure to meet traditional expectations."
+        "The river valley has fertile soil.",
+        "Farmers protect fertile land from erosion."
       ]
     }
   ]

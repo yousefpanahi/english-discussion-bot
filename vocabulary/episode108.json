@@ -1,84 +1,52 @@
 {
-  "title": "Tweet of the day",
+  "title": "💬 Weight loss drugs",
   "vocabulary": [
     {
-      "word": "tweet",
-      "meaning": "a short message posted on the social-media platform formerly known as Twitter",
+      "word": "weight-loss drug",
+      "meaning": "a medicine designed to help people reduce body weight",
       "examples": [
-        "Her tweet received thousands of replies.",
-        "A single tweet can spread very quickly."
+        "Weight-loss drugs are prescribed to some patients with obesity.",
+        "A weight-loss drug should be used under medical supervision."
       ]
     },
     {
-      "word": "post",
-      "meaning": "content published on a social-media platform",
+      "word": "prescription",
+      "meaning": "an official instruction from a doctor allowing a patient to receive medicine",
       "examples": [
-        "The post included a photo and a short comment.",
-        "He deleted the post after receiving criticism."
+        "The medicine is available only by prescription.",
+        "A doctor wrote her a prescription after discussing the risks."
       ]
     },
     {
-      "word": "hashtag",
-      "meaning": "a word or phrase preceded by # used to label or group social-media content",
+      "word": "appetite",
+      "meaning": "the desire to eat",
       "examples": [
-        "The campaign created a popular hashtag.",
-        "People used the hashtag to join the discussion."
+        "Some medicines reduce appetite.",
+        "Stress can also affect a person's appetite."
       ]
     },
     {
-      "word": "follower",
-      "meaning": "a person who chooses to receive another user's social-media posts",
+      "word": "obesity",
+      "meaning": "a medical condition involving an excessive amount of body fat",
       "examples": [
-        "The account gained many new followers.",
-        "Influencers often speak directly to their followers."
+        "Obesity can increase the risk of several health problems.",
+        "Doctors may use different methods to treat obesity."
       ]
     },
     {
-      "word": "viral",
-      "meaning": "spreading extremely quickly online",
+      "word": "side effect",
+      "meaning": "an unwanted effect caused by a medicine",
       "examples": [
-        "The video went viral overnight.",
-        "A viral post can reach millions of people."
+        "Nausea is a possible side effect of the drug.",
+        "Patients should report serious side effects to a doctor."
       ]
     },
     {
-      "word": "repost",
-      "meaning": "to share someone else's social-media content again",
+      "word": "dose",
+      "meaning": "a measured amount of medicine taken at one time",
       "examples": [
-        "Thousands of users reposted the message.",
-        "Before you repost information, check whether it is accurate."
-      ]
-    },
-    {
-      "word": "character limit",
-      "meaning": "the maximum number of characters allowed in a message",
-      "examples": [
-        "A character limit encourages people to write briefly.",
-        "The platform increased its character limit."
-      ]
-    },
-    {
-      "word": "engagement",
-      "meaning": "likes, replies, shares, and other interactions with online content",
-      "examples": [
-        "Questions often increase social-media engagement.",
-        "The post received unusually high engagement."
-      ]
-    },
-    {
-      "word": "platform",
-      "meaning": "an online service where users create and share content",
-      "examples": [
-        "The platform changed its moderation rules.",
-        "Different platforms attract different audiences."
-      ]
-    },
-    {
-      "word": "trending",
-      "meaning": "becoming especially popular or widely discussed online at a particular time",
-      "examples": [
-        "The topic was trending throughout the day.",
-        "A trending story can quickly attract media attention."
+        "The doctor started her on a low dose.",
+        "Never change the dose without medical advice."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Cinema etiquette",
+  "title": "Should we cycle more?",
   "vocabulary": [
     {
-      "word": "cinema etiquette",
-      "meaning": "accepted polite behaviour when watching a film in a cinema",
+      "word": "commute",
+      "meaning": "to travel regularly between home and work or school",
       "examples": [
-        "Cinema etiquette includes keeping your phone quiet.",
-        "People disagree about some rules of cinema etiquette."
+        "She commutes to work by bicycle.",
+        "Cycling can make a short commute faster."
       ]
     },
     {
-      "word": "mobile phone",
-      "meaning": "a portable telephone that can also access digital services",
+      "word": "cycle lane",
+      "meaning": "a part of the road reserved mainly for bicycles",
       "examples": [
-        "Bright mobile-phone screens can distract other viewers.",
-        "Please silence your mobile phone before the film."
+        "The city added a protected cycle lane.",
+        "Safe cycle lanes encourage more people to ride."
       ]
     },
     {
-      "word": "talk",
-      "meaning": "to speak with another person",
+      "word": "helmet",
+      "meaning": "protective equipment worn on the head",
       "examples": [
-        "Some people talk throughout a film.",
-        "Try not to talk during quiet scenes."
+        "He always wears a helmet when cycling.",
+        "A good helmet can reduce the risk of head injury."
       ]
     },
     {
-      "word": "seat",
-      "meaning": "a place where someone sits",
+      "word": "sustainable transport",
+      "meaning": "ways of travelling that have less environmental impact",
       "examples": [
-        "Please sit in your assigned seat.",
-        "Do not kick the seat in front of you."
+        "Cycling is a form of sustainable transport.",
+        "Cities are investing in sustainable transport."
       ]
     },
     {
-      "word": "snack",
-      "meaning": "a small amount of food eaten between or during meals",
+      "word": "congestion",
+      "meaning": "heavy traffic that makes roads crowded and slow",
       "examples": [
-        "Many people buy snacks at the cinema.",
-        "Noisy snacks can annoy other viewers."
+        "More cycling could reduce traffic congestion.",
+        "Congestion is worst during the morning rush hour."
       ]
     },
     {
-      "word": "disturb",
-      "meaning": "to interrupt someone's peace, attention, or activity",
+      "word": "emissions",
+      "meaning": "gases released into the air, especially from vehicles or industry",
       "examples": [
-        "Late arrivals may disturb people who are already seated.",
-        "Try not to disturb other viewers."
-      ]
-    },
-    {
-      "word": "screen",
-      "meaning": "the large surface on which a cinema film is shown",
-      "examples": [
-        "The light from his phone was visible across the screen area.",
-        "We chose seats near the centre of the screen."
-      ]
-    },
-    {
-      "word": "audience",
-      "meaning": "the people watching a performance or film",
-      "examples": [
-        "The audience became quiet when the film started.",
-        "Good behaviour improves the experience for the whole audience."
-      ]
-    },
-    {
-      "word": "courteous",
-      "meaning": "polite and considerate",
-      "examples": [
-        "It is courteous to arrive before the film begins.",
-        "Courteous viewers avoid blocking other people's view."
-      ]
-    },
-    {
-      "word": "spoiler",
-      "meaning": "information that reveals an important part of a story before someone experiences it",
-      "examples": [
-        "Do not shout spoilers while leaving the cinema.",
-        "The review contains a major spoiler."
+        "Cycling produces no direct exhaust emissions.",
+        "Lower transport emissions can improve city air quality."
       ]
     }
   ]

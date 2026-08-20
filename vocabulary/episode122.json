@@ -1,84 +1,52 @@
 {
-  "title": "Is it OK to disagree",
+  "title": "Searching for life on another planet",
   "vocabulary": [
     {
-      "word": "disagree",
-      "meaning": "to have a different opinion from someone else",
+      "word": "extraterrestrial life",
+      "meaning": "living organisms that may exist beyond Earth",
       "examples": [
-        "It is possible to disagree without being rude.",
-        "We disagree about the best solution."
+        "Scientists are searching for evidence of extraterrestrial life.",
+        "The discovery of extraterrestrial life would change our view of the universe."
       ]
     },
     {
-      "word": "opinion",
-      "meaning": "a belief or judgement that may not be based on complete fact",
+      "word": "habitable",
+      "meaning": "suitable for living things to survive",
       "examples": [
-        "Everyone should be able to express an opinion.",
-        "Her opinion changed after hearing more evidence."
+        "Researchers look for planets that may be habitable.",
+        "Liquid water is one sign that a world could be habitable."
       ]
     },
     {
-      "word": "debate",
-      "meaning": "a discussion in which people express different views",
+      "word": "exoplanet",
+      "meaning": "a planet that moves around a star outside our solar system",
       "examples": [
-        "The issue caused a lively debate.",
-        "A respectful debate can help people understand other perspectives."
+        "Astronomers have discovered thousands of exoplanets.",
+        "Some exoplanets may have conditions similar to Earth."
       ]
     },
     {
-      "word": "respectful",
-      "meaning": "showing consideration for other people's feelings and views",
+      "word": "atmosphere",
+      "meaning": "the layer of gases surrounding a planet",
       "examples": [
-        "Keep the discussion respectful even when you strongly disagree.",
-        "She gave a respectful response."
+        "Scientists study a planet's atmosphere for signs of life.",
+        "Earth's atmosphere contains oxygen and nitrogen."
       ]
     },
     {
-      "word": "argument",
-      "meaning": "a reason or set of reasons supporting a viewpoint, or an angry disagreement",
+      "word": "biosignature",
+      "meaning": "a substance or pattern that may indicate the presence of life",
       "examples": [
-        "He made a strong argument for the proposal.",
-        "The discussion became an argument when people stopped listening."
+        "Oxygen can be an important biosignature on another planet.",
+        "Researchers look for possible biosignatures in distant atmospheres."
       ]
     },
     {
-      "word": "perspective",
-      "meaning": "a particular way of viewing a situation",
+      "word": "telescope",
+      "meaning": "an instrument used to make distant objects appear closer",
       "examples": [
-        "Try to understand the other person's perspective.",
-        "Different experiences create different perspectives."
-      ]
-    },
-    {
-      "word": "compromise",
-      "meaning": "an agreement in which each side accepts less than it originally wanted",
-      "examples": [
-        "The team reached a compromise.",
-        "Compromise is useful when both sides have reasonable concerns."
-      ]
-    },
-    {
-      "word": "challenge",
-      "meaning": "to question whether an idea or statement is correct",
-      "examples": [
-        "It is healthy to challenge ideas respectfully.",
-        "She challenged his assumption with new evidence."
-      ]
-    },
-    {
-      "word": "common ground",
-      "meaning": "opinions or interests shared by people who otherwise disagree",
-      "examples": [
-        "We found some common ground despite our differences.",
-        "Starting with common ground can make difficult conversations easier."
-      ]
-    },
-    {
-      "word": "tolerance",
-      "meaning": "willingness to accept opinions or behaviour that differ from your own",
-      "examples": [
-        "Democratic societies require tolerance of disagreement.",
-        "Tolerance does not mean you must agree with every idea."
+        "The telescope detected a planet around a nearby star.",
+        "Powerful telescopes allow scientists to study distant galaxies."
       ]
     }
   ]

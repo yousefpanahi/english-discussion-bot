@@ -1,84 +1,52 @@
 {
-  "title": "Are you a winner",
+  "title": "World Wide Web",
   "vocabulary": [
     {
-      "word": "competition",
-      "meaning": "an activity in which people try to perform better than others",
+      "word": "World Wide Web",
+      "meaning": "the system of linked pages and resources accessed over the internet",
       "examples": [
-        "Competition can motivate some people.",
-        "Not every situation needs to become a competition."
+        "World Wide Web is an important idea when discussing world Wide Web.",
+        "Learning about World Wide Web can help us understand this issue more clearly."
       ]
     },
     {
-      "word": "achievement",
-      "meaning": "something successfully completed through effort or skill",
+      "word": "hyperlink",
+      "meaning": "a clickable connection that takes a user from one digital page or resource to another",
       "examples": [
-        "Winning the award was a major achievement.",
-        "Personal achievements can be more important than public prizes."
+        "People often have different views about hyperlink when discussing world Wide Web.",
+        "Understanding hyperlink can make a conversation about this topic more precise."
       ]
     },
     {
-      "word": "success",
-      "meaning": "the achievement of a goal or desired result",
+      "word": "browser",
+      "meaning": "software used to access and view websites",
       "examples": [
-        "People define success in different ways.",
-        "Hard work can contribute to success, but luck also matters."
+        "The topic of world Wide Web raises useful questions about browser.",
+        "We can discuss how browser affects people, communities, or the environment."
       ]
     },
     {
-      "word": "failure",
-      "meaning": "lack of success in achieving something",
+      "word": "website",
+      "meaning": "a collection of related web pages available under one domain",
       "examples": [
-        "Failure can provide useful lessons.",
-        "One failure does not define a person's ability."
+        "Website can play an important role in debates about world Wide Web.",
+        "Different countries may deal with website in different ways."
       ]
     },
     {
-      "word": "resilience",
-      "meaning": "the ability to recover after problems or disappointment",
+      "word": "internet",
+      "meaning": "the global network of connected computers and digital systems",
       "examples": [
-        "Athletes need resilience after losing.",
-        "Resilience helps people continue after setbacks."
+        "A discussion about world Wide Web can include the effects of internet.",
+        "Knowing the meaning of internet makes it easier to express an opinion on this issue."
       ]
     },
     {
-      "word": "goal",
-      "meaning": "something you aim to achieve",
+      "word": "web page",
+      "meaning": "a single document or page viewed through a web browser",
       "examples": [
-        "Set a clear goal before you begin.",
-        "Her goal was to improve rather than simply win."
-      ]
-    },
-    {
-      "word": "mindset",
-      "meaning": "a person's general way of thinking about situations",
-      "examples": [
-        "A growth mindset can make challenges feel more manageable.",
-        "Your mindset can influence how you respond to failure."
-      ]
-    },
-    {
-      "word": "effort",
-      "meaning": "physical or mental energy used to achieve something",
-      "examples": [
-        "Success usually requires sustained effort.",
-        "He was proud of his effort even though he did not win."
-      ]
-    },
-    {
-      "word": "outcome",
-      "meaning": "the final result of an activity or situation",
-      "examples": [
-        "You cannot control every outcome.",
-        "The outcome was disappointing, but the experience was valuable."
-      ]
-    },
-    {
-      "word": "competitive",
-      "meaning": "strongly wanting to win or be more successful than others",
-      "examples": [
-        "She is competitive but still supportive of her teammates.",
-        "A highly competitive environment can motivate some people and stress others."
+        "Web page is useful vocabulary for talking about world Wide Web.",
+        "We can use the idea of web page to compare different experiences and viewpoints."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Technology at the Winter Olympics",
+  "title": "Brains and politics",
   "vocabulary": [
     {
-      "word": "performance",
-      "meaning": "how well an athlete or machine completes a task",
+      "word": "political psychology",
+      "meaning": "the study of how thoughts, emotions, and personality influence political behaviour",
       "examples": [
-        "Technology can help measure athletic performance.",
-        "The skier's performance improved after equipment changes."
+        "Political psychology is an important idea when discussing brains and politics.",
+        "Learning about political psychology can help us understand this issue more clearly."
       ]
     },
     {
-      "word": "equipment",
-      "meaning": "tools or objects used for a particular activity",
+      "word": "ideology",
+      "meaning": "a system of political or social ideas and beliefs",
       "examples": [
-        "Winter sports require specialised equipment.",
-        "New materials make sporting equipment lighter."
+        "People often have different views about ideology when discussing brains and politics.",
+        "Understanding ideology can make a conversation about this topic more precise."
       ]
     },
     {
-      "word": "sensor",
-      "meaning": "a device that detects and measures changes such as movement, force, or temperature",
+      "word": "cognitive bias",
+      "meaning": "a systematic pattern of thinking that can influence judgement",
       "examples": [
-        "Sensors can record an athlete's speed and movement.",
-        "The helmet contains several small sensors."
+        "The topic of brains and politics raises useful questions about cognitive bias.",
+        "We can discuss how cognitive bias affects people, communities, or the environment."
       ]
     },
     {
-      "word": "timing",
-      "meaning": "the measurement or choice of exact time",
+      "word": "decision-making",
+      "meaning": "the process of choosing between different options",
       "examples": [
-        "Electronic timing can measure races to tiny fractions of a second.",
-        "Accurate timing is essential in competitive sport."
+        "Decision-making can play an important role in debates about brains and politics.",
+        "Different countries may deal with decision-making in different ways."
       ]
     },
     {
-      "word": "aerodynamics",
-      "meaning": "the study of how air moves around objects",
+      "word": "polarisation",
+      "meaning": "the process of opinions becoming divided into strongly opposing groups",
       "examples": [
-        "Aerodynamics affects speed in skiing and bobsleigh.",
-        "Engineers test clothing to improve aerodynamics."
+        "A discussion about brains and politics can include the effects of polarisation.",
+        "Knowing the meaning of polarisation makes it easier to express an opinion on this issue."
       ]
     },
     {
-      "word": "wearable",
-      "meaning": "an electronic device designed to be worn on the body",
+      "word": "neuroscience",
+      "meaning": "the scientific study of the brain and nervous system",
       "examples": [
-        "Athletes use wearable devices during training.",
-        "A wearable can track heart rate and movement."
-      ]
-    },
-    {
-      "word": "innovation",
-      "meaning": "a new method, idea, or technology",
-      "examples": [
-        "Sporting innovation can improve performance and safety.",
-        "The Olympics often showcase new equipment innovations."
-      ]
-    },
-    {
-      "word": "data",
-      "meaning": "facts and measurements collected for analysis",
-      "examples": [
-        "Coaches use data to adjust training.",
-        "Technology produces large amounts of performance data."
-      ]
-    },
-    {
-      "word": "artificial snow",
-      "meaning": "snow made by machines, usually for ski areas or events",
-      "examples": [
-        "Warm weather increased the need for artificial snow.",
-        "Producing artificial snow requires water and energy."
-      ]
-    },
-    {
-      "word": "athlete",
-      "meaning": "a person trained to compete in sport",
-      "examples": [
-        "Elite athletes use technology carefully within the rules.",
-        "The athlete tested the new equipment before the competition."
+        "Neuroscience is useful vocabulary for talking about brains and politics.",
+        "We can use the idea of neuroscience to compare different experiences and viewpoints."
       ]
     }
   ]

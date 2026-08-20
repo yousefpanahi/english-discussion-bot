@@ -1,84 +1,52 @@
 {
-  "title": "Is breakfast the most important meal of the day?",
+  "title": "Families",
   "vocabulary": [
     {
-      "word": "breakfast",
-      "meaning": "the first meal of the day, usually eaten in the morning",
+      "word": "household",
+      "meaning": "a person or group of people living together in the same home",
       "examples": [
-        "She eats breakfast before going to work.",
-        "Some people regularly skip breakfast."
+        "Household is an important idea when discussing families.",
+        "Learning about household can help us understand this issue more clearly."
       ]
     },
     {
-      "word": "metabolism",
-      "meaning": "the chemical processes through which the body uses energy",
+      "word": "nuclear family",
+      "meaning": "a family consisting mainly of parents and their children",
       "examples": [
-        "People often discuss whether breakfast affects metabolism.",
-        "Metabolism is influenced by many factors."
+        "People often have different views about nuclear family when discussing families.",
+        "Understanding nuclear family can make a conversation about this topic more precise."
       ]
     },
     {
-      "word": "appetite",
-      "meaning": "the desire to eat food",
+      "word": "extended family",
+      "meaning": "a family group that includes relatives beyond parents and children",
       "examples": [
-        "A high-protein breakfast may affect appetite later in the day.",
-        "Stress can also change appetite."
+        "The topic of families raises useful questions about extended family.",
+        "We can discuss how extended family affects people, communities, or the environment."
       ]
     },
     {
-      "word": "nutrition",
-      "meaning": "the process of obtaining and using food needed for health",
+      "word": "upbringing",
+      "meaning": "the way a child is raised and educated by family or caregivers",
       "examples": [
-        "Breakfast quality matters more than simply eating anything.",
-        "Good nutrition depends on the whole diet."
+        "Upbringing can play an important role in debates about families.",
+        "Different countries may deal with upbringing in different ways."
       ]
     },
     {
-      "word": "skip",
-      "meaning": "to not do or have something that would normally be expected",
+      "word": "relationship",
+      "meaning": "the way two or more people are connected and interact",
       "examples": [
-        "He often skips breakfast when he is busy.",
-        "Skipping a meal affects people differently."
+        "A discussion about families can include the effects of relationship.",
+        "Knowing the meaning of relationship makes it easier to express an opinion on this issue."
       ]
     },
     {
-      "word": "balanced meal",
-      "meaning": "a meal containing a useful combination of food groups and nutrients",
+      "word": "generation",
+      "meaning": "a group of people born and living around the same period",
       "examples": [
-        "Eggs, vegetables, and whole-grain bread can make a balanced meal.",
-        "Try to start the day with a balanced meal."
-      ]
-    },
-    {
-      "word": "whole grain",
-      "meaning": "grain that retains all major parts of the seed and usually contains more fibre",
-      "examples": [
-        "Oats and whole-grain bread are common breakfast foods.",
-        "Whole grains can help increase fibre intake."
-      ]
-    },
-    {
-      "word": "protein",
-      "meaning": "a nutrient needed for growth, repair, and many body functions",
-      "examples": [
-        "Yoghurt and eggs provide protein at breakfast.",
-        "Protein can help a meal feel more filling."
-      ]
-    },
-    {
-      "word": "energy",
-      "meaning": "the physical ability to do work or activity",
-      "examples": [
-        "Food provides the body with energy.",
-        "She feels she has more energy after a good breakfast."
-      ]
-    },
-    {
-      "word": "evidence",
-      "meaning": "facts or research findings used to support a conclusion",
-      "examples": [
-        "The evidence about breakfast and health is more complex than simple slogans suggest.",
-        "Nutrition advice should be based on good evidence."
+        "Generation is useful vocabulary for talking about families.",
+        "We can use the idea of generation to compare different experiences and viewpoints."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Customer complaints",
+  "title": "Controlling the weather",
   "vocabulary": [
     {
-      "word": "complaint",
-      "meaning": "a statement that something is wrong or unsatisfactory",
+      "word": "weather modification",
+      "meaning": "deliberate attempts to influence local weather conditions",
       "examples": [
-        "The customer made a complaint about the delayed delivery.",
-        "We received several complaints about the new service."
+        "Weather modification is an important idea when discussing controlling the weather.",
+        "Learning about weather modification can help us understand this issue more clearly."
       ]
     },
     {
-      "word": "dissatisfied",
-      "meaning": "not pleased or satisfied with something",
+      "word": "cloud seeding",
+      "meaning": "a technique that adds particles to clouds in an attempt to encourage rain or snow",
       "examples": [
-        "The customer was dissatisfied with the product quality.",
-        "Dissatisfied clients should be given a clear way to respond."
+        "People often have different views about cloud seeding when discussing controlling the weather.",
+        "Understanding cloud seeding can make a conversation about this topic more precise."
       ]
     },
     {
-      "word": "resolve",
-      "meaning": "to solve a problem or disagreement",
+      "word": "geoengineering",
+      "meaning": "large-scale technological intervention intended to influence Earth's climate",
       "examples": [
-        "The support team resolved the issue within an hour.",
-        "We want to resolve every complaint fairly."
+        "The topic of controlling the weather raises useful questions about geoengineering.",
+        "We can discuss how geoengineering affects people, communities, or the environment."
       ]
     },
     {
-      "word": "refund",
-      "meaning": "money returned to a customer after a purchase",
+      "word": "drought",
+      "meaning": "a long period with unusually little rainfall",
       "examples": [
-        "The shop offered a full refund.",
-        "She requested a refund because the item was damaged."
+        "Drought can play an important role in debates about controlling the weather.",
+        "Different countries may deal with drought in different ways."
       ]
     },
     {
-      "word": "apologise",
-      "meaning": "to say that you are sorry for a mistake or problem",
+      "word": "precipitation",
+      "meaning": "rain, snow, sleet, or other water falling from the atmosphere",
       "examples": [
-        "The manager apologised for the inconvenience.",
-        "A sincere apology can calm an angry customer."
+        "A discussion about controlling the weather can include the effects of precipitation.",
+        "Knowing the meaning of precipitation makes it easier to express an opinion on this issue."
       ]
     },
     {
-      "word": "compensation",
-      "meaning": "money or another benefit given because someone experienced loss or inconvenience",
+      "word": "unintended consequence",
+      "meaning": "a result of an action that was not planned or expected",
       "examples": [
-        "The airline offered compensation for the long delay.",
-        "Customers may receive compensation when a service fails badly."
-      ]
-    },
-    {
-      "word": "customer service",
-      "meaning": "the help and support a business provides to customers",
-      "examples": [
-        "Good customer service can build loyalty.",
-        "She contacted customer service about her order."
-      ]
-    },
-    {
-      "word": "feedback",
-      "meaning": "comments or opinions about a product, service, or performance",
-      "examples": [
-        "Customer feedback helped us improve the website.",
-        "The company takes negative feedback seriously."
-      ]
-    },
-    {
-      "word": "escalate",
-      "meaning": "to pass a problem to someone with more authority or make it more serious",
-      "examples": [
-        "The agent escalated the complaint to a supervisor.",
-        "If we cannot solve the issue, we will escalate it."
-      ]
-    },
-    {
-      "word": "satisfaction",
-      "meaning": "the feeling of being pleased with a product, service, or experience",
-      "examples": [
-        "Customer satisfaction has improved this year.",
-        "The survey measures satisfaction after each support call."
+        "Unintended consequence is useful vocabulary for talking about controlling the weather.",
+        "We can use the idea of unintended consequence to compare different experiences and viewpoints."
       ]
     }
   ]

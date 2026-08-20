@@ -1,84 +1,52 @@
 {
-  "title": "Rise of streaming",
+  "title": "Robots",
   "vocabulary": [
     {
-      "word": "streaming",
-      "meaning": "watching or listening to media over the internet without downloading the whole file first",
+      "word": "automation",
+      "meaning": "the use of machines or software to do work with little human involvement",
       "examples": [
-        "Streaming has changed how people watch television.",
-        "Music streaming is now common around the world."
+        "Automation has changed many factory jobs.",
+        "Companies use automation to increase efficiency."
       ]
     },
     {
-      "word": "subscription",
-      "meaning": "an arrangement in which you pay regularly for access to a service",
+      "word": "robotics",
+      "meaning": "the science and technology of designing and using robots",
       "examples": [
-        "We cancelled one streaming subscription.",
-        "Many households pay for several subscriptions."
+        "She studies robotics at university.",
+        "Advances in robotics are creating new medical tools."
       ]
     },
     {
-      "word": "on-demand",
-      "meaning": "available whenever a user chooses rather than at a fixed broadcast time",
+      "word": "artificial intelligence",
+      "meaning": "computer technology that can perform tasks that normally require human intelligence",
       "examples": [
-        "Viewers prefer on-demand programmes.",
-        "The service offers films on demand."
+        "Artificial intelligence helps some robots recognise objects.",
+        "Many companies are investing in artificial intelligence."
       ]
     },
     {
-      "word": "platform",
-      "meaning": "an online service that provides digital content or interaction",
+      "word": "sensor",
+      "meaning": "a device that detects changes such as movement, heat, or light",
       "examples": [
-        "Several streaming platforms compete for viewers.",
-        "The series is available on only one platform."
+        "The robot uses a sensor to avoid obstacles.",
+        "Modern cars contain many different sensors."
       ]
     },
     {
-      "word": "binge-watch",
-      "meaning": "to watch many episodes of a programme one after another",
+      "word": "autonomous",
+      "meaning": "able to operate or make decisions without direct human control",
       "examples": [
-        "We binge-watched the series over the weekend.",
-        "Streaming services make it easy to binge-watch."
+        "The company is testing autonomous delivery robots.",
+        "An autonomous machine still needs careful safety rules."
       ]
     },
     {
-      "word": "content",
-      "meaning": "films, programmes, music, articles, or other material provided to users",
+      "word": "program",
+      "meaning": "to give a computer or machine instructions for what it should do",
       "examples": [
-        "The platform invests heavily in original content.",
-        "Users can choose from a huge amount of content."
-      ]
-    },
-    {
-      "word": "broadcast",
-      "meaning": "to transmit a programme by television, radio, or another system",
-      "examples": [
-        "Traditional broadcasters now also use streaming.",
-        "The match will be broadcast live."
-      ]
-    },
-    {
-      "word": "viewer",
-      "meaning": "a person who watches television or online video",
-      "examples": [
-        "Streaming gives viewers more control.",
-        "Younger viewers often watch less traditional television."
-      ]
-    },
-    {
-      "word": "algorithm",
-      "meaning": "a set of computer rules used to make decisions or recommendations",
-      "examples": [
-        "The platform's algorithm recommends programmes based on viewing history.",
-        "Algorithms influence what content users discover."
-      ]
-    },
-    {
-      "word": "cord-cutting",
-      "meaning": "the practice of cancelling traditional cable or satellite television in favour of online services",
-      "examples": [
-        "Cord-cutting has increased as streaming services have grown.",
-        "Some families save money by cord-cutting."
+        "Engineers programmed the robot to follow a route.",
+        "You can program the machine to repeat the same task."
       ]
     }
   ]

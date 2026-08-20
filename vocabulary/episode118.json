@@ -1,84 +1,52 @@
 {
-  "title": "Was Christmas better in the past",
+  "title": "How are influencers affecting politics?",
   "vocabulary": [
     {
-      "word": "Christmas",
-      "meaning": "the annual Christian holiday celebrated on 25 December and widely observed as a cultural festival",
+      "word": "influencer",
+      "meaning": "a person with an online audience who can affect opinions or behaviour",
       "examples": [
-        "Christmas traditions vary between families and countries.",
-        "Some people feel Christmas has changed over time."
+        "Political campaigns increasingly work with influencers.",
+        "An influencer can reach people who rarely watch traditional news."
       ]
     },
     {
-      "word": "nostalgia",
-      "meaning": "a warm and sometimes sad feeling about the past",
+      "word": "political campaign",
+      "meaning": "an organised effort to influence voters or achieve a political goal",
       "examples": [
-        "Old Christmas songs can create nostalgia.",
-        "Nostalgia may make past celebrations seem better than they really were."
+        "The influencer joined a political campaign.",
+        "Social media is now central to many political campaigns."
       ]
     },
     {
-      "word": "tradition",
-      "meaning": "a custom passed from one generation to another",
+      "word": "endorsement",
+      "meaning": "public support for a person, product, or cause",
       "examples": [
-        "Decorating a tree is a Christmas tradition in many homes.",
-        "Families often create their own traditions."
+        "The candidate received an endorsement from a popular creator.",
+        "Celebrity endorsements can attract attention but may also cause criticism."
       ]
     },
     {
-      "word": "festive",
-      "meaning": "connected with celebration and enjoyment",
+      "word": "follower",
+      "meaning": "a person who subscribes to another user's social-media content",
       "examples": [
-        "The town centre looked festive with lights and decorations.",
-        "People were in a festive mood."
+        "Some political influencers have millions of followers.",
+        "Followers may trust creators they watch regularly."
       ]
     },
     {
-      "word": "commercialisation",
-      "meaning": "the process of making something increasingly focused on selling and profit",
+      "word": "misinformation",
+      "meaning": "false or inaccurate information spread regardless of whether there was an intention to deceive",
       "examples": [
-        "Some people criticise the commercialisation of Christmas.",
-        "Advertising contributes to holiday commercialisation."
+        "Influencers can accidentally spread misinformation.",
+        "Platforms are under pressure to reduce political misinformation."
       ]
     },
     {
-      "word": "gift-giving",
-      "meaning": "the practice of giving presents to other people",
+      "word": "reach",
+      "meaning": "the number or range of people who see a message",
       "examples": [
-        "Gift-giving is an important part of many Christmas celebrations.",
-        "Some families set limits on gift-giving."
-      ]
-    },
-    {
-      "word": "family gathering",
-      "meaning": "a meeting of relatives for a social occasion",
-      "examples": [
-        "Christmas often involves a large family gathering.",
-        "Family gatherings can be joyful but sometimes stressful."
-      ]
-    },
-    {
-      "word": "childhood",
-      "meaning": "the period of life when someone is a child",
-      "examples": [
-        "People often remember Christmas differently from their childhood.",
-        "Childhood memories can be especially powerful."
-      ]
-    },
-    {
-      "word": "celebration",
-      "meaning": "an enjoyable event marking a special occasion",
-      "examples": [
-        "The celebration lasted all evening.",
-        "Different generations prefer different styles of celebration."
-      ]
-    },
-    {
-      "word": "custom",
-      "meaning": "a traditional way of behaving or doing something",
-      "examples": [
-        "Every country has its own seasonal customs.",
-        "The custom has continued for many years."
+        "Social media gives political messages enormous reach.",
+        "Influencers can extend a campaign's reach among younger voters."
       ]
     }
   ]
