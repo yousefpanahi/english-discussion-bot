@@ -1,84 +1,52 @@
 {
-  "title": "Antarctic Aliens",
+  "title": "The power of poetry",
   "vocabulary": [
     {
-      "word": "invasive species",
-      "meaning": "a plant or animal that spreads into a place where it does not naturally belong",
+      "word": "poetry",
+      "meaning": "literature written in a concentrated and imaginative form, often using rhythm or imagery",
       "examples": [
-        "Invasive species can damage fragile Antarctic ecosystems.",
-        "Scientists try to prevent invasive species from reaching remote islands."
+        "Poetry can express feelings that are difficult to explain directly.",
+        "She began reading poetry when she was a teenager."
       ]
     },
     {
-      "word": "ecosystem",
-      "meaning": "a community of living things and the environment they live in",
+      "word": "verse",
+      "meaning": "writing arranged in lines with a particular rhythm, especially poetry",
       "examples": [
-        "The Antarctic ecosystem is highly sensitive to change.",
-        "Even a small disturbance can affect an entire ecosystem."
+        "The poem is written in simple verse.",
+        "He memorised a short verse for the event."
       ]
     },
     {
-      "word": "native species",
-      "meaning": "a plant or animal that naturally lives in a particular area",
+      "word": "metaphor",
+      "meaning": "a way of describing something by saying it is something else",
       "examples": [
-        "Native species may struggle when new competitors arrive.",
-        "Researchers monitor native species to understand environmental change."
+        "The poet uses a river as a metaphor for life.",
+        "Metaphors can make difficult ideas easier to imagine."
       ]
     },
     {
-      "word": "biodiversity",
-      "meaning": "the variety of plant and animal life in a place",
+      "word": "imagery",
+      "meaning": "language that creates strong pictures or sensations in the mind",
       "examples": [
-        "Protecting biodiversity is important for healthy ecosystems.",
-        "Antarctica has less biodiversity than tropical regions but it is still unique."
+        "The poem uses vivid imagery of the sea.",
+        "Good imagery can make a poem memorable."
       ]
     },
     {
-      "word": "habitat",
-      "meaning": "the natural home of a plant or animal",
+      "word": "rhythm",
+      "meaning": "a regular pattern of sounds or movements",
       "examples": [
-        "Melting ice can reduce the habitat available to some animals.",
-        "People should avoid disturbing wildlife in its natural habitat."
+        "The poem has a gentle rhythm.",
+        "Rhythm helps give spoken poetry its musical quality."
       ]
     },
     {
-      "word": "contamination",
-      "meaning": "the process of making something dirty or unsafe by adding harmful substances or organisms",
+      "word": "recite",
+      "meaning": "to say a poem or other text aloud from memory",
       "examples": [
-        "Strict rules help reduce contamination in protected areas.",
-        "Equipment must be cleaned to prevent biological contamination."
-      ]
-    },
-    {
-      "word": "conservation",
-      "meaning": "the protection of nature and wildlife",
-      "examples": [
-        "Conservation efforts can protect vulnerable Antarctic species.",
-        "International cooperation is important for conservation."
-      ]
-    },
-    {
-      "word": "fragile",
-      "meaning": "easily damaged or harmed",
-      "examples": [
-        "Polar environments can be extremely fragile.",
-        "Tourists must follow rules to protect fragile habitats."
-      ]
-    },
-    {
-      "word": "research station",
-      "meaning": "a place where scientists live and work while studying a remote area",
-      "examples": [
-        "The team spent several months at an Antarctic research station.",
-        "Supplies are carefully transported to the research station."
-      ]
-    },
-    {
-      "word": "biosecurity",
-      "meaning": "measures used to prevent harmful organisms from entering or spreading in an area",
-      "examples": [
-        "Strong biosecurity can stop foreign species from reaching Antarctica.",
-        "Visitors must follow biosecurity procedures before landing."
+        "The student recited a poem in front of the class.",
+        "Actors often practise how to recite verse naturally."
       ]
     }
   ]

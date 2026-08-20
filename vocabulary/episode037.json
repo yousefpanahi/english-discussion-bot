@@ -1,84 +1,52 @@
 {
-  "title": "Driving on Mars",
+  "title": "Crying men",
   "vocabulary": [
     {
-      "word": "rover",
-      "meaning": "a vehicle designed to move across the surface of another planet or moon",
+      "word": "cry",
+      "meaning": "to produce tears because of emotion, pain, or irritation",
       "examples": [
-        "The Mars rover travelled across rocky ground.",
-        "Scientists send commands to the rover from Earth."
+        "Some men find it difficult to cry in public.",
+        "Crying can be a natural emotional response."
       ]
     },
     {
-      "word": "terrain",
-      "meaning": "the physical features of an area of land",
+      "word": "emotion",
+      "meaning": "a strong feeling such as sadness, joy, fear, or anger",
       "examples": [
-        "Mars has rough and uneven terrain.",
-        "The vehicle was designed for difficult terrain."
+        "People express emotion in different ways.",
+        "Cultural expectations can affect emotional behaviour."
       ]
     },
     {
-      "word": "remote control",
-      "meaning": "control of a machine from a distance",
+      "word": "vulnerability",
+      "meaning": "the state of being open to emotional hurt or showing weakness",
       "examples": [
-        "Engineers operate the rover by remote control.",
-        "The time delay makes direct remote control difficult on Mars."
+        "Sharing feelings can require vulnerability.",
+        "Some people wrongly associate vulnerability with weakness."
       ]
     },
     {
-      "word": "autonomous navigation",
-      "meaning": "the ability of a vehicle to choose and follow a route without constant human control",
+      "word": "masculinity",
+      "meaning": "qualities and expectations traditionally associated with men",
       "examples": [
-        "The rover uses autonomous navigation to avoid rocks.",
-        "Autonomous navigation allows the vehicle to travel more efficiently."
+        "Ideas about masculinity are changing.",
+        "Traditional masculinity can discourage some men from showing emotion."
       ]
     },
     {
-      "word": "wheel",
-      "meaning": "a circular object that turns to allow a vehicle to move",
+      "word": "stereotype",
+      "meaning": "a fixed and simplified belief about a group of people",
       "examples": [
-        "The rover's wheels were designed for rough surfaces.",
-        "Engineers noticed damage to one wheel."
+        "The idea that men should never cry is a stereotype.",
+        "Media can reinforce or challenge stereotypes."
       ]
     },
     {
-      "word": "mission control",
-      "meaning": "the team and centre responsible for managing a space mission",
+      "word": "suppress",
+      "meaning": "to prevent yourself from expressing a feeling",
       "examples": [
-        "Mission control received new images from Mars.",
-        "Engineers at mission control planned the rover's route."
-      ]
-    },
-    {
-      "word": "obstacle",
-      "meaning": "something that blocks movement or makes progress difficult",
-      "examples": [
-        "The rover detected an obstacle in its path.",
-        "Large rocks are common obstacles on the Martian surface."
-      ]
-    },
-    {
-      "word": "surface",
-      "meaning": "the outer or top layer of a planet or object",
-      "examples": [
-        "The vehicle collected samples from the Martian surface.",
-        "Temperatures on the surface can change dramatically."
-      ]
-    },
-    {
-      "word": "sample",
-      "meaning": "a small amount of material collected for scientific study",
-      "examples": [
-        "The rover drilled into rock to collect a sample.",
-        "Scientists hope the samples will reveal Mars's history."
-      ]
-    },
-    {
-      "word": "transmit",
-      "meaning": "to send information or signals electronically",
-      "examples": [
-        "The rover transmits data back to Earth.",
-        "Images are transmitted through satellites orbiting Mars."
+        "Constantly suppressing emotions can be exhausting.",
+        "He learned not to suppress sadness."
       ]
     }
   ]

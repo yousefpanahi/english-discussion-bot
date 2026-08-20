@@ -1,84 +1,52 @@
 {
-  "title": "Snail racing",
+  "title": "Feeling good about your country",
   "vocabulary": [
     {
-      "word": "race",
-      "meaning": "a competition to see who or what can move fastest",
+      "word": "national pride",
+      "meaning": "a positive feeling about one's country and its achievements",
       "examples": [
-        "The village holds a snail race every summer.",
-        "The race attracted many curious visitors."
+        "Sporting success can increase national pride.",
+        "National pride can be expressed in many different ways."
       ]
     },
     {
-      "word": "competitor",
-      "meaning": "a person or animal taking part in a competition",
+      "word": "patriotism",
+      "meaning": "love of and attachment to one's country",
       "examples": [
-        "Each competitor was placed in the centre of the circle.",
-        "The fastest competitor reached the edge first."
+        "Patriotism does not have to mean believing your country is perfect.",
+        "Public ceremonies can encourage patriotism."
       ]
     },
     {
-      "word": "finish line",
-      "meaning": "the line that marks the end of a race",
+      "word": "identity",
+      "meaning": "the sense of who a person or group is",
       "examples": [
-        "The snail slowly crossed the finish line.",
-        "Spectators cheered when the first competitor reached the finish line."
+        "Nationality can be one part of a person's identity.",
+        "People may have several cultural identities."
       ]
     },
     {
-      "word": "spectator",
-      "meaning": "a person who watches an event",
+      "word": "belonging",
+      "meaning": "the feeling of being accepted as part of a group or place",
       "examples": [
-        "Hundreds of spectators watched the unusual competition.",
-        "The spectators laughed and took photos."
+        "Citizenship can create a sense of belonging.",
+        "Community activities help some newcomers develop belonging."
       ]
     },
     {
-      "word": "championship",
-      "meaning": "a competition that decides the best performer",
+      "word": "citizen",
+      "meaning": "a legally recognised member of a country",
       "examples": [
-        "The annual snail championship has become a local tradition.",
-        "She brought her snail to the championship."
+        "Citizens have both rights and responsibilities.",
+        "The survey asked citizens how they felt about their country."
       ]
     },
     {
-      "word": "pace",
-      "meaning": "the speed at which someone or something moves",
+      "word": "reputation",
+      "meaning": "the general opinion others have about a person, organisation, or country",
       "examples": [
-        "The race continued at a very slow pace.",
-        "One snail suddenly increased its pace."
-      ]
-    },
-    {
-      "word": "participant",
-      "meaning": "a person or animal involved in an activity or event",
-      "examples": [
-        "Every participant received a number.",
-        "The organisers carefully handled the animal participants."
-      ]
-    },
-    {
-      "word": "tradition",
-      "meaning": "a custom or activity passed down over time",
-      "examples": [
-        "The event has become a popular local tradition.",
-        "Unusual traditions can attract tourists."
-      ]
-    },
-    {
-      "word": "winner",
-      "meaning": "the person or animal that finishes first or performs best",
-      "examples": [
-        "The winner received a small trophy.",
-        "No one expected that snail to be the winner."
-      ]
-    },
-    {
-      "word": "event",
-      "meaning": "an organised activity or occasion",
-      "examples": [
-        "The race is a fun community event.",
-        "Local businesses help sponsor the event."
+        "International events can affect a country's reputation.",
+        "The country has a strong reputation in science."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Should we cycle more",
+  "title": "Blood",
   "vocabulary": [
     {
-      "word": "commute",
-      "meaning": "to travel regularly between home and work or school",
+      "word": "blood cell",
+      "meaning": "one of the cells that make up blood, including red and white cells",
       "examples": [
-        "She commutes to work by bicycle.",
-        "Cycling can make a short commute faster."
+        "Red blood cells carry oxygen around the body.",
+        "Doctors counted the different blood cells in the sample."
       ]
     },
     {
-      "word": "cycle lane",
-      "meaning": "a part of the road reserved mainly for bicycles",
+      "word": "plasma",
+      "meaning": "the pale liquid part of blood that carries cells and other substances",
       "examples": [
-        "The city added a protected cycle lane.",
-        "Safe cycle lanes encourage more people to ride."
+        "Plasma makes up more than half of blood by volume.",
+        "Some patients receive plasma during medical treatment."
       ]
     },
     {
-      "word": "helmet",
-      "meaning": "protective equipment worn on the head",
+      "word": "red blood cell",
+      "meaning": "a blood cell that carries oxygen from the lungs to the body",
       "examples": [
-        "He always wears a helmet when cycling.",
-        "A good helmet can reduce the risk of head injury."
+        "Red blood cells contain haemoglobin.",
+        "A low red blood cell count can cause tiredness."
       ]
     },
     {
-      "word": "sustainable transport",
-      "meaning": "ways of travelling that have less environmental impact",
+      "word": "white blood cell",
+      "meaning": "a blood cell that helps the body fight infection",
       "examples": [
-        "Cycling is a form of sustainable transport.",
-        "Cities are investing in sustainable transport."
+        "White blood cells are part of the immune system.",
+        "The infection caused an increase in white blood cells."
       ]
     },
     {
-      "word": "congestion",
-      "meaning": "heavy traffic that makes roads crowded and slow",
+      "word": "platelet",
+      "meaning": "a small blood component that helps stop bleeding",
       "examples": [
-        "More cycling could reduce traffic congestion.",
-        "Congestion is worst during the morning rush hour."
+        "Platelets help form blood clots.",
+        "A very low platelet count can increase bleeding risk."
       ]
     },
     {
-      "word": "emissions",
-      "meaning": "gases released into the air, especially from vehicles or industry",
+      "word": "haemoglobin",
+      "meaning": "the protein in red blood cells that carries oxygen",
       "examples": [
-        "Cycling produces no direct exhaust emissions.",
-        "Lower transport emissions can improve city air quality."
-      ]
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "basic systems and structures needed for transport and public services",
-      "examples": [
-        "Good cycling infrastructure makes roads safer.",
-        "The city invested in new transport infrastructure."
-      ]
-    },
-    {
-      "word": "pedal",
-      "meaning": "to move a bicycle by pushing its pedals",
-      "examples": [
-        "He pedalled up the steep hill.",
-        "Cyclists had to pedal against a strong wind."
-      ]
-    },
-    {
-      "word": "road user",
-      "meaning": "any person who uses a road, including drivers, cyclists, and pedestrians",
-      "examples": [
-        "All road users should follow traffic rules.",
-        "Drivers must give vulnerable road users enough space."
-      ]
-    },
-    {
-      "word": "active travel",
-      "meaning": "walking or cycling as a way of making everyday journeys",
-      "examples": [
-        "The government promotes active travel for short trips.",
-        "Active travel can improve both health and air quality."
+        "The test showed a low haemoglobin level.",
+        "Iron is needed to make haemoglobin."
       ]
     }
   ]

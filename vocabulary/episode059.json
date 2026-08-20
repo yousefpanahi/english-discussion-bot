@@ -1,84 +1,52 @@
 {
-  "title": "A Peruvian 'hero'",
+  "title": "Homesickness",
   "vocabulary": [
     {
-      "word": "hero",
-      "meaning": "a person admired for courage, achievements, or noble actions",
+      "word": "homesickness",
+      "meaning": "sadness caused by being away from home and familiar people or places",
       "examples": [
-        "The man was celebrated as a local hero.",
-        "People disagree about what makes someone a hero."
+        "Homesickness is common after moving to a new country.",
+        "Her homesickness became easier after she made new friends."
       ]
     },
     {
-      "word": "bravery",
-      "meaning": "the quality of facing danger or difficulty without giving up",
+      "word": "homesick",
+      "meaning": "feeling sad because you are away from home",
       "examples": [
-        "His bravery impressed the whole community.",
-        "Bravery does not mean that a person feels no fear."
+        "He felt homesick during his first month abroad.",
+        "Calling family can help when you feel homesick."
       ]
     },
     {
-      "word": "rescue",
-      "meaning": "the act of saving someone from danger",
+      "word": "miss",
+      "meaning": "to feel sad because someone or something is absent",
       "examples": [
-        "The rescue took place during severe weather.",
-        "Firefighters carried out a difficult rescue."
+        "I miss my family and old neighbourhood.",
+        "She especially misses home-cooked food."
       ]
     },
     {
-      "word": "courage",
-      "meaning": "the ability to do something difficult or frightening",
+      "word": "familiar",
+      "meaning": "well known and easy to recognise",
       "examples": [
-        "She showed great courage during the emergency.",
-        "Courage can inspire other people."
+        "Familiar music can be comforting when you are abroad.",
+        "He looked for familiar foods at the international shop."
       ]
     },
     {
-      "word": "selfless",
-      "meaning": "caring more about other people's needs than your own",
+      "word": "settle in",
+      "meaning": "to become comfortable and familiar with a new place",
       "examples": [
-        "His selfless action saved a stranger's life.",
-        "People praised the volunteer for her selfless work."
+        "It takes time to settle in after a big move.",
+        "Joining a local club helped her settle in."
       ]
     },
     {
-      "word": "recognition",
-      "meaning": "public appreciation or acknowledgement of an achievement",
+      "word": "belonging",
+      "meaning": "the feeling of being accepted and connected to a place or group",
       "examples": [
-        "He received national recognition for his actions.",
-        "Some heroes never receive formal recognition."
-      ]
-    },
-    {
-      "word": "admire",
-      "meaning": "to respect someone because of their qualities or achievements",
-      "examples": [
-        "Many people admire those who help others in emergencies.",
-        "Children often admire local heroes."
-      ]
-    },
-    {
-      "word": "risk",
-      "meaning": "the possibility that something harmful may happen",
-      "examples": [
-        "The rescue involved considerable personal risk.",
-        "He accepted the risk in order to help someone else."
-      ]
-    },
-    {
-      "word": "reputation",
-      "meaning": "the general opinion people have about someone",
-      "examples": [
-        "The story changed his reputation in the community.",
-        "A heroic reputation can grow through media coverage."
-      ]
-    },
-    {
-      "word": "inspire",
-      "meaning": "to make someone feel motivated to do something positive",
-      "examples": [
-        "The story inspired others to volunteer.",
-        "Courageous people can inspire entire communities."
+        "Making friends can create a stronger sense of belonging.",
+        "Homesickness often becomes easier when people develop belonging in a new place."
       ]
     }
   ]

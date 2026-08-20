@@ -1,84 +1,52 @@
 {
-  "title": "Tea drinking in the UK",
+  "title": "Arranging meetings",
   "vocabulary": [
     {
-      "word": "brew",
-      "meaning": "to make tea or coffee by adding hot water",
+      "word": "arrange",
+      "meaning": "to organise or plan something in advance",
       "examples": [
-        "Let the tea brew for a few minutes.",
-        "She brewed a pot of tea for the guests."
+        "I'll arrange a meeting for next Tuesday.",
+        "Could you arrange a suitable time with the client?"
       ]
     },
     {
-      "word": "teapot",
-      "meaning": "a container with a handle and spout used for making and serving tea",
+      "word": "availability",
+      "meaning": "the times when someone is free or able to do something",
       "examples": [
-        "The tea was served from a traditional teapot.",
-        "He warmed the teapot before adding the leaves."
+        "Please send me your availability for this week.",
+        "We need to check everyone's availability before booking the meeting."
       ]
     },
     {
-      "word": "tea bag",
-      "meaning": "a small bag containing dried tea leaves for making a drink",
+      "word": "schedule",
+      "meaning": "a plan showing when activities or events will happen",
       "examples": [
-        "I usually make tea with a tea bag.",
-        "Remove the tea bag after a few minutes."
+        "The meeting is already on my schedule.",
+        "We changed the schedule because two people were unavailable."
       ]
     },
     {
-      "word": "tea leaves",
-      "meaning": "dried leaves used to make tea",
+      "word": "reschedule",
+      "meaning": "to arrange an event for a different time",
       "examples": [
-        "Loose tea leaves can have a stronger flavour.",
-        "The shop sells tea leaves from several countries."
+        "Can we reschedule the meeting for Friday?",
+        "The manager had to reschedule because of an urgent appointment."
       ]
     },
     {
-      "word": "caffeine",
-      "meaning": "a substance in tea, coffee, and some other drinks that can make people feel more alert",
+      "word": "agenda",
+      "meaning": "a list of topics to be discussed at a meeting",
       "examples": [
-        "Black tea contains caffeine.",
-        "Too much caffeine can affect sleep."
+        "I'll send the agenda before the meeting.",
+        "The first item on the agenda is the project deadline."
       ]
     },
     {
-      "word": "tradition",
-      "meaning": "a custom or belief passed from one generation to another",
+      "word": "confirm",
+      "meaning": "to state that an arrangement or piece of information is definite",
       "examples": [
-        "Afternoon tea is a well-known British tradition.",
-        "Food and drink traditions change over time."
-      ]
-    },
-    {
-      "word": "afternoon tea",
-      "meaning": "a light meal with tea, sandwiches, and cakes, traditionally eaten in the afternoon",
-      "examples": [
-        "The hotel serves afternoon tea every day.",
-        "Tourists often try afternoon tea while visiting Britain."
-      ]
-    },
-    {
-      "word": "cuppa",
-      "meaning": "an informal British word for a cup of tea",
-      "examples": [
-        "Would you like a cuppa?",
-        "She made herself a quick cuppa after work."
-      ]
-    },
-    {
-      "word": "refreshment",
-      "meaning": "a drink or small amount of food provided to people",
-      "examples": [
-        "Tea and other refreshments were served during the break.",
-        "Guests were offered light refreshments."
-      ]
-    },
-    {
-      "word": "hospitality",
-      "meaning": "friendly treatment of guests, often including food or drink",
-      "examples": [
-        "Offering tea can be a sign of hospitality.",
-        "The visitors appreciated their host's hospitality."
+        "Please confirm whether you can attend.",
+        "She confirmed the meeting by email."
       ]
     }
   ]

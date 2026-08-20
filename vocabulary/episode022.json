@@ -1,84 +1,52 @@
 {
-  "title": "Pulling a sickie",
+  "title": "Why are billionaires building bunkers?",
   "vocabulary": [
     {
-      "word": "pull a sickie",
-      "meaning": "to take a day off work by pretending to be ill",
+      "word": "bunker",
+      "meaning": "a strong underground or protected shelter designed to survive danger",
       "examples": [
-        "He pulled a sickie because he wanted to attend a concert.",
-        "Employers may become suspicious if someone often pulls a sickie."
+        "Some wealthy people are building private bunkers.",
+        "The bunker contains food, water, and medical supplies."
       ]
     },
     {
-      "word": "sick leave",
-      "meaning": "official time away from work because of illness",
+      "word": "doomsday",
+      "meaning": "a situation involving the possible end or collapse of civilisation",
       "examples": [
-        "Employees are entitled to sick leave.",
-        "She took two days of sick leave after becoming ill."
+        "The company sells equipment to people worried about doomsday scenarios.",
+        "Doomsday fears can increase during periods of uncertainty."
       ]
     },
     {
-      "word": "absence",
-      "meaning": "a period when someone is not at work, school, or another expected place",
+      "word": "survivalist",
+      "meaning": "a person who prepares carefully for disasters or social collapse",
       "examples": [
-        "His repeated absences worried his manager.",
-        "The company records every employee absence."
+        "The survivalist stores emergency supplies at home.",
+        "Some survivalists build shelters in remote places."
       ]
     },
     {
-      "word": "excuse",
-      "meaning": "a reason given to explain why something happened or why someone did not do something",
+      "word": "self-sufficient",
+      "meaning": "able to provide what is needed without depending heavily on others",
       "examples": [
-        "He gave his manager an excuse for being absent.",
-        "A believable excuse does not make dishonest behaviour acceptable."
+        "The shelter is designed to be self-sufficient for months.",
+        "A self-sufficient home may produce its own electricity."
       ]
     },
     {
-      "word": "dishonest",
-      "meaning": "not truthful or trustworthy",
+      "word": "emergency supplies",
+      "meaning": "food, water, medicine, and equipment stored for unexpected situations",
       "examples": [
-        "Pretending to be ill is dishonest.",
-        "The employee admitted that his explanation had been dishonest."
+        "Every household should keep some basic emergency supplies.",
+        "The bunker contains several years of emergency supplies."
       ]
     },
     {
-      "word": "attendance",
-      "meaning": "the act of being present at work, school, or an event",
+      "word": "preparedness",
+      "meaning": "the state of being ready for a possible emergency",
       "examples": [
-        "Good attendance is important in many jobs.",
-        "The manager reviewed the team's attendance records."
-      ]
-    },
-    {
-      "word": "policy",
-      "meaning": "an official rule or way of dealing with a situation",
-      "examples": [
-        "The company has a clear sick-leave policy.",
-        "Employees should understand the attendance policy."
-      ]
-    },
-    {
-      "word": "workload",
-      "meaning": "the amount of work a person is expected to do",
-      "examples": [
-        "A heavy workload can increase stress.",
-        "The team shared the workload while she was absent."
-      ]
-    },
-    {
-      "word": "trust",
-      "meaning": "the belief that someone is honest and reliable",
-      "examples": [
-        "Dishonesty can damage trust between employees and managers.",
-        "A healthy workplace depends on mutual trust."
-      ]
-    },
-    {
-      "word": "consequence",
-      "meaning": "a result of an action, especially a negative one",
-      "examples": [
-        "There may be consequences for lying to an employer.",
-        "He did not think about the consequences of his absence."
+        "Disaster preparedness can save lives.",
+        "Governments run preparedness exercises."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Love the foods you hate",
+  "title": "How noisy is 'too noisy'",
   "vocabulary": [
     {
-      "word": "taste",
-      "meaning": "the sense used to experience flavours in food",
+      "word": "noise",
+      "meaning": "unwanted or disturbing sound",
       "examples": [
-        "Taste can change as people get older.",
-        "Our sense of taste influences what foods we enjoy."
+        "Traffic noise can affect sleep.",
+        "The neighbours complained about late-night noise."
       ]
     },
     {
-      "word": "bitter",
-      "meaning": "having a sharp, unpleasant taste like strong coffee or some vegetables",
+      "word": "decibel",
+      "meaning": "a unit used to measure the loudness of sound",
       "examples": [
-        "Some people dislike bitter vegetables.",
-        "Children may become more comfortable with bitter tastes over time."
+        "The machine produces more than ninety decibels.",
+        "Long exposure to high decibel levels can damage hearing."
       ]
     },
     {
-      "word": "acquired taste",
-      "meaning": "a food or drink that people learn to like after trying it several times",
+      "word": "hearing loss",
+      "meaning": "reduced ability to hear sounds",
       "examples": [
-        "Olives can be an acquired taste.",
-        "Strong cheese is an acquired taste for some people."
-      ]
-    },
-    {
-      "word": "preference",
-      "meaning": "a greater liking for one thing than another",
-      "examples": [
-        "Food preferences often develop during childhood.",
-        "My preference is for spicy food."
-      ]
-    },
-    {
-      "word": "flavour",
-      "meaning": "the particular taste and smell of a food or drink",
-      "examples": [
-        "Roasting gives vegetables a sweeter flavour.",
-        "Herbs can add flavour without much salt."
-      ]
-    },
-    {
-      "word": "texture",
-      "meaning": "the way food feels in the mouth",
-      "examples": [
-        "Some people dislike mushrooms because of their texture.",
-        "Cooking can completely change a food's texture."
-      ]
-    },
-    {
-      "word": "appetite",
-      "meaning": "the desire to eat food",
-      "examples": [
-        "Exercise can increase your appetite.",
-        "Stress sometimes reduces people's appetite."
+        "Very loud music can contribute to hearing loss.",
+        "Workers use ear protection to prevent hearing loss."
       ]
     },
     {
       "word": "exposure",
-      "meaning": "experience of something through contact or repeated experience",
+      "meaning": "the state of being in contact with something, especially for a period of time",
       "examples": [
-        "Repeated exposure to a food can make it more familiar.",
-        "Children may accept vegetables after regular exposure."
+        "Long exposure to loud noise can be harmful.",
+        "The study measured workers' noise exposure."
       ]
     },
     {
-      "word": "palate",
-      "meaning": "a person's ability or preference for recognising and enjoying flavours",
+      "word": "ear protection",
+      "meaning": "equipment worn to reduce harmful sound reaching the ears",
       "examples": [
-        "Travel can broaden your palate.",
-        "The dish may be too spicy for an inexperienced palate."
+        "Construction workers should use ear protection.",
+        "Good ear protection can reduce noise exposure."
       ]
     },
     {
-      "word": "nutritious",
-      "meaning": "containing substances that are good for health and growth",
+      "word": "disturbance",
+      "meaning": "something that interrupts peace, sleep, or normal activity",
       "examples": [
-        "Many bitter vegetables are highly nutritious.",
-        "A nutritious diet should include a variety of foods."
+        "Night-time noise can cause serious disturbance.",
+        "The airport introduced rules to reduce disturbance to residents."
       ]
     }
   ]

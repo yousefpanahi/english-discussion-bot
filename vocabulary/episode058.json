@@ -1,84 +1,52 @@
 {
-  "title": "The worst place to be a mother",
+  "title": "Retirement",
   "vocabulary": [
     {
-      "word": "maternal health",
-      "meaning": "the health of women during pregnancy, childbirth, and the period after birth",
+      "word": "retirement",
+      "meaning": "the period of life after someone permanently stops regular paid work",
       "examples": [
-        "Access to healthcare is essential for maternal health.",
-        "The report compares maternal health across countries."
+        "She is looking forward to retirement.",
+        "Retirement can bring both freedom and major lifestyle changes."
       ]
     },
     {
-      "word": "maternal mortality",
-      "meaning": "the death of women from causes related to pregnancy or childbirth",
+      "word": "pension",
+      "meaning": "regular money paid to someone after retirement, usually from a government or employment scheme",
       "examples": [
-        "Better medical care can reduce maternal mortality.",
-        "Maternal mortality remains high in some regions."
+        "He receives a workplace pension.",
+        "Pension rules differ between countries."
       ]
     },
     {
-      "word": "prenatal care",
-      "meaning": "medical care received during pregnancy before a baby is born",
+      "word": "retire",
+      "meaning": "to stop working permanently, usually because of age",
       "examples": [
-        "Regular prenatal care can identify health problems early.",
-        "Many women in remote areas have limited access to prenatal care."
+        "She plans to retire at sixty-five.",
+        "Some people retire gradually by reducing their hours."
       ]
     },
     {
-      "word": "midwife",
-      "meaning": "a trained professional who supports women during pregnancy and childbirth",
+      "word": "savings",
+      "meaning": "money kept for future use",
       "examples": [
-        "The midwife stayed with the mother throughout labour.",
-        "Rural clinics need more trained midwives."
+        "Retirement savings can take decades to build.",
+        "They increased their monthly savings."
       ]
     },
     {
-      "word": "childbirth",
-      "meaning": "the process of giving birth to a baby",
+      "word": "retirement age",
+      "meaning": "the age at which people normally or officially stop working or become eligible for benefits",
       "examples": [
-        "Safe childbirth depends on skilled medical support.",
-        "Complications during childbirth can become life-threatening."
+        "The retirement age has increased in some countries.",
+        "Not everyone wants to stop working at the official retirement age."
       ]
     },
     {
-      "word": "healthcare access",
-      "meaning": "the ability to obtain needed medical services",
+      "word": "financial planning",
+      "meaning": "the process of organising money to meet future needs and goals",
       "examples": [
-        "Distance can reduce healthcare access in rural communities.",
-        "Improving healthcare access saves lives."
-      ]
-    },
-    {
-      "word": "malnutrition",
-      "meaning": "poor health caused by not eating enough nutritious food",
-      "examples": [
-        "Malnutrition can affect mothers and babies.",
-        "Food insecurity increases the risk of malnutrition."
-      ]
-    },
-    {
-      "word": "inequality",
-      "meaning": "an unfair difference in access, treatment, or outcomes",
-      "examples": [
-        "Income inequality affects access to healthcare.",
-        "The report highlights inequality between countries."
-      ]
-    },
-    {
-      "word": "life expectancy",
-      "meaning": "the average number of years a person is expected to live",
-      "examples": [
-        "Better healthcare can increase life expectancy.",
-        "Life expectancy differs greatly between regions."
-      ]
-    },
-    {
-      "word": "public health",
-      "meaning": "the organised effort to protect and improve the health of communities",
-      "examples": [
-        "Maternal care is a major public-health issue.",
-        "Governments invest in public-health programmes for mothers and children."
+        "Retirement requires careful financial planning.",
+        "Good financial planning considers income, expenses, and risk."
       ]
     }
   ]

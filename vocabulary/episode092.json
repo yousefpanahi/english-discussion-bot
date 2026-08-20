@@ -1,84 +1,52 @@
 {
-  "title": "Art or vandalism",
+  "title": "Can AI solve crime?",
   "vocabulary": [
     {
-      "word": "vandalism",
-      "meaning": "deliberate damage to public or private property",
+      "word": "cybercrime",
+      "meaning": "crime carried out using computers, networks, or the internet",
       "examples": [
-        "The council described the graffiti as vandalism.",
-        "Repairing vandalism can be expensive."
+        "Cybercrime is an important idea when discussing can AI solve crime?.",
+        "Learning about cybercrime can help us understand this issue more clearly."
       ]
     },
     {
-      "word": "graffiti",
-      "meaning": "words or pictures drawn or painted on public surfaces",
+      "word": "surveillance",
+      "meaning": "close observation of people or activities, often for security purposes",
       "examples": [
-        "Some graffiti is considered art.",
-        "The city removes illegal graffiti from buildings."
+        "People often have different views about surveillance when discussing can AI solve crime?.",
+        "Understanding surveillance can make a conversation about this topic more precise."
       ]
     },
     {
-      "word": "street art",
-      "meaning": "visual art created in public spaces, often without traditional gallery settings",
+      "word": "facial recognition",
+      "meaning": "technology that identifies or verifies people by analysing their faces",
       "examples": [
-        "The neighbourhood is famous for colourful street art.",
-        "Street art can attract tourists."
+        "The topic of can AI solve crime? raises useful questions about facial recognition.",
+        "We can discuss how facial recognition affects people, communities, or the environment."
       ]
     },
     {
-      "word": "mural",
-      "meaning": "a large picture painted directly on a wall",
+      "word": "algorithm",
+      "meaning": "a set of rules or instructions used by a computer to solve a problem or make a decision",
       "examples": [
-        "A local artist created a mural on the school wall.",
-        "The mural tells the history of the community."
+        "Algorithm can play an important role in debates about can AI solve crime?.",
+        "Different countries may deal with algorithm in different ways."
       ]
     },
     {
-      "word": "permission",
-      "meaning": "official agreement allowing someone to do something",
+      "word": "evidence",
+      "meaning": "information used to establish facts or support a conclusion",
       "examples": [
-        "The artist had permission to paint the wall.",
-        "Painting without permission may be illegal."
+        "A discussion about can AI solve crime? can include the effects of evidence.",
+        "Knowing the meaning of evidence makes it easier to express an opinion on this issue."
       ]
     },
     {
-      "word": "public space",
-      "meaning": "an area open and available to everyone",
+      "word": "false positive",
+      "meaning": "a result that incorrectly identifies something as present or suspicious",
       "examples": [
-        "Art can change how people experience a public space.",
-        "The city supports cultural projects in public spaces."
-      ]
-    },
-    {
-      "word": "property",
-      "meaning": "a building, land, or object owned by someone",
-      "examples": [
-        "Painting on private property without permission can be a crime.",
-        "The owner paid to repair the damaged property."
-      ]
-    },
-    {
-      "word": "creative expression",
-      "meaning": "the communication of ideas or feelings through art or other creative activity",
-      "examples": [
-        "Street art can be a form of creative expression.",
-        "Young people need places for creative expression."
-      ]
-    },
-    {
-      "word": "controversial",
-      "meaning": "causing strong disagreement or debate",
-      "examples": [
-        "The new mural was controversial.",
-        "Some forms of public art are deliberately controversial."
-      ]
-    },
-    {
-      "word": "commission",
-      "meaning": "to officially ask and pay an artist to create a work",
-      "examples": [
-        "The council commissioned a mural for the station.",
-        "A local company commissioned the artwork."
+        "False positive is useful vocabulary for talking about can AI solve crime?.",
+        "We can use the idea of false positive to compare different experiences and viewpoints."
       ]
     }
   ]

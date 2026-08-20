@@ -1,84 +1,52 @@
 {
-  "title": "How reading shapes your brain",
+  "title": "On the right track",
   "vocabulary": [
     {
-      "word": "cognition",
-      "meaning": "the mental processes involved in thinking, learning, and understanding",
+      "word": "on track",
+      "meaning": "making progress as planned toward a goal",
       "examples": [
-        "Reading can support several aspects of cognition.",
-        "Researchers study how ageing affects cognition."
+        "The project is on track to finish next month.",
+        "After a difficult start, her studies are back on track."
       ]
     },
     {
-      "word": "comprehension",
-      "meaning": "the ability to understand information or text",
+      "word": "progress",
+      "meaning": "movement toward a better or more complete state",
       "examples": [
-        "Regular reading can improve comprehension.",
-        "The teacher checked students' reading comprehension."
+        "We have made good progress this week.",
+        "Regular practice helps you see progress over time."
       ]
     },
     {
-      "word": "vocabulary",
-      "meaning": "the words a person knows and uses",
+      "word": "target",
+      "meaning": "a result or level that you aim to achieve",
       "examples": [
-        "Reading widely can expand your vocabulary.",
-        "A strong vocabulary helps with academic writing."
+        "The team reached its monthly target.",
+        "Set a realistic target for the next stage."
       ]
     },
     {
-      "word": "concentration",
-      "meaning": "the ability to focus attention on something",
+      "word": "milestone",
+      "meaning": "an important point that marks progress",
       "examples": [
-        "Reading a long book requires concentration.",
-        "Frequent interruptions can reduce concentration."
+        "Completing the first module was an important milestone.",
+        "The company celebrated a major project milestone."
       ]
     },
     {
-      "word": "imagination",
-      "meaning": "the ability to form ideas or pictures in the mind",
+      "word": "setback",
+      "meaning": "a problem that delays or prevents progress",
       "examples": [
-        "Stories can stimulate a child's imagination.",
-        "Reading fiction encourages the imagination."
+        "The technical failure was a temporary setback.",
+        "Do not let one setback make you abandon your goal."
       ]
     },
     {
-      "word": "empathy",
-      "meaning": "the ability to understand and share another person's feelings",
+      "word": "strategy",
+      "meaning": "a plan designed to achieve a particular goal",
       "examples": [
-        "Some researchers believe fiction may strengthen empathy.",
-        "Reading about different lives can develop empathy."
-      ]
-    },
-    {
-      "word": "neural pathway",
-      "meaning": "a connection in the brain through which information travels",
-      "examples": [
-        "Learning can strengthen neural pathways.",
-        "Repeated practice helps build new neural pathways."
-      ]
-    },
-    {
-      "word": "memory",
-      "meaning": "the ability to store and remember information",
-      "examples": [
-        "Reading and discussion can support memory.",
-        "Sleep plays an important role in memory."
-      ]
-    },
-    {
-      "word": "attention span",
-      "meaning": "the amount of time someone can focus on one activity",
-      "examples": [
-        "Long-form reading may train the attention span.",
-        "Constant notifications can shorten your attention span."
-      ]
-    },
-    {
-      "word": "mental stimulation",
-      "meaning": "activity that keeps the brain active and engaged",
-      "examples": [
-        "Reading provides regular mental stimulation.",
-        "Puzzles and books are both forms of mental stimulation."
+        "We need a clearer strategy for improving sales.",
+        "Her study strategy includes daily review."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Dress code debate",
+  "title": "Are you a winner",
   "vocabulary": [
     {
-      "word": "dress code",
-      "meaning": "a set of rules about what clothes people should wear",
+      "word": "competition",
+      "meaning": "an activity in which people try to perform better than others",
       "examples": [
-        "The company introduced a more relaxed dress code.",
-        "Employees disagreed about whether the dress code was necessary."
+        "Competition can motivate some people.",
+        "Not every situation needs to become a competition."
       ]
     },
     {
-      "word": "formal attire",
-      "meaning": "clothes suitable for professional or ceremonial situations",
+      "word": "achievement",
+      "meaning": "something successfully completed through effort or skill",
       "examples": [
-        "Formal attire is expected at some business events.",
-        "He wore formal attire to the interview."
+        "Winning the award was a major achievement.",
+        "Personal achievements can be more important than public prizes."
       ]
     },
     {
-      "word": "casual",
-      "meaning": "informal and relaxed in style",
+      "word": "success",
+      "meaning": "the achievement of a goal or desired result",
       "examples": [
-        "The office allows casual clothes on Fridays.",
-        "Her outfit was comfortable but still appropriate for a casual workplace."
+        "People define success in different ways.",
+        "Hard work can contribute to success, but luck also matters."
       ]
     },
     {
-      "word": "professional appearance",
-      "meaning": "the way someone looks when dressed suitably for work",
+      "word": "failure",
+      "meaning": "lack of success in achieving something",
       "examples": [
-        "A professional appearance can affect first impressions.",
-        "The company gives new employees guidance on professional appearance."
+        "Failure can provide useful lessons.",
+        "One failure does not define a person's ability."
       ]
     },
     {
-      "word": "appropriate",
-      "meaning": "suitable for a particular situation",
+      "word": "resilience",
+      "meaning": "the ability to recover after problems or disappointment",
       "examples": [
-        "Jeans may be appropriate in some workplaces but not others.",
-        "Choose clothing that is appropriate for the event."
+        "Athletes need resilience after losing.",
+        "Resilience helps people continue after setbacks."
       ]
     },
     {
-      "word": "uniform",
-      "meaning": "a standard set of clothes worn by members of an organisation",
+      "word": "goal",
+      "meaning": "something you aim to achieve",
       "examples": [
-        "Staff members must wear a uniform.",
-        "A uniform can make employees easy to identify."
-      ]
-    },
-    {
-      "word": "policy",
-      "meaning": "an official rule or approach used by an organisation",
-      "examples": [
-        "The dress policy applies to all employees.",
-        "Managers reviewed the policy after receiving complaints."
-      ]
-    },
-    {
-      "word": "discrimination",
-      "meaning": "unfair treatment of someone because of characteristics such as gender, religion, or background",
-      "examples": [
-        "A dress code should not lead to discrimination.",
-        "Employees raised concerns about possible discrimination."
-      ]
-    },
-    {
-      "word": "self-expression",
-      "meaning": "the act of showing your personality, ideas, or feelings",
-      "examples": [
-        "Clothing can be a form of self-expression.",
-        "Strict dress codes may limit self-expression."
-      ]
-    },
-    {
-      "word": "workplace culture",
-      "meaning": "the shared attitudes, habits, and expectations in a workplace",
-      "examples": [
-        "Dress codes often reflect workplace culture.",
-        "A creative company may have a more relaxed workplace culture."
+        "Set a clear goal before you begin.",
+        "Her goal was to improve rather than simply win."
       ]
     }
   ]

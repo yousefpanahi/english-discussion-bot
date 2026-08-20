@@ -1,84 +1,52 @@
 {
-  "title": "US orbit anniversary",
+  "title": "TV addicts",
   "vocabulary": [
     {
-      "word": "orbit",
-      "meaning": "the curved path of an object around a planet or star",
+      "word": "addiction",
+      "meaning": "a strong and difficult-to-control need to do or use something",
       "examples": [
-        "The spacecraft entered orbit around Earth.",
-        "Satellites can remain in orbit for many years."
+        "Screen addiction can affect sleep and concentration.",
+        "Some people describe their television habits as an addiction."
       ]
     },
     {
-      "word": "spacecraft",
-      "meaning": "a vehicle designed to travel in space",
+      "word": "binge-watch",
+      "meaning": "to watch many episodes of a programme one after another",
       "examples": [
-        "The spacecraft carried scientific equipment.",
-        "Engineers tested the spacecraft before launch."
+        "We binge-watched the whole series over the weekend.",
+        "Streaming platforms make it easy to binge-watch."
       ]
     },
     {
-      "word": "launch",
-      "meaning": "the act of sending a spacecraft or rocket into the air or space",
+      "word": "screen time",
+      "meaning": "the amount of time spent using televisions, computers, or phones",
       "examples": [
-        "Thousands of people watched the rocket launch.",
-        "Bad weather delayed the launch by one day."
+        "Parents often worry about children's screen time.",
+        "Reducing screen time before bed may improve sleep."
       ]
     },
     {
-      "word": "astronaut",
-      "meaning": "a person trained to travel and work in space",
+      "word": "viewer",
+      "meaning": "a person who watches television or online video",
       "examples": [
-        "The astronaut spent several months in orbit.",
-        "Becoming an astronaut requires years of training."
+        "The programme attracted millions of viewers.",
+        "Viewers can now choose what they watch and when."
       ]
     },
     {
-      "word": "mission",
-      "meaning": "an important journey or task with a particular purpose",
+      "word": "sedentary",
+      "meaning": "involving a lot of sitting and little physical activity",
       "examples": [
-        "The mission collected valuable scientific data.",
-        "The space agency announced a new lunar mission."
+        "Watching television for hours is a sedentary activity.",
+        "A sedentary lifestyle can affect your health."
       ]
     },
     {
-      "word": "milestone",
-      "meaning": "an important event that marks progress or achievement",
+      "word": "habit",
+      "meaning": "something you do regularly, often without thinking",
       "examples": [
-        "The first successful orbit was a major milestone.",
-        "The anniversary celebrates an important milestone in space history."
-      ]
-    },
-    {
-      "word": "spaceflight",
-      "meaning": "travel through outer space",
-      "examples": [
-        "Early spaceflight involved enormous risks.",
-        "Technology has made spaceflight safer than it was in the past."
-      ]
-    },
-    {
-      "word": "gravity",
-      "meaning": "the force that pulls objects towards each other, especially towards Earth",
-      "examples": [
-        "Astronauts experience very weak gravity while in orbit.",
-        "Gravity keeps planets moving around the Sun."
-      ]
-    },
-    {
-      "word": "capsule",
-      "meaning": "a small part of a spacecraft designed to carry people or equipment",
-      "examples": [
-        "The crew returned to Earth inside a space capsule.",
-        "The capsule landed safely in the ocean."
-      ]
-    },
-    {
-      "word": "exploration",
-      "meaning": "the activity of travelling to learn about an unfamiliar place",
-      "examples": [
-        "Space exploration has produced many scientific discoveries.",
-        "Governments spend billions on exploration beyond Earth."
+        "Watching the news after dinner became a daily habit.",
+        "Changing a long-term habit can be difficult."
       ]
     }
   ]

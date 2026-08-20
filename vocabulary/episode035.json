@@ -1,84 +1,52 @@
 {
-  "title": "Global waste food for thought",
+  "title": "Customer complaints",
   "vocabulary": [
     {
-      "word": "food waste",
-      "meaning": "food that is thrown away instead of being eaten",
+      "word": "complaint",
+      "meaning": "a statement that something is wrong or unsatisfactory",
       "examples": [
-        "Households produce a large amount of food waste.",
-        "Reducing food waste can save money and resources."
+        "The customer made a complaint about the delayed delivery.",
+        "We received several complaints about the new service."
       ]
     },
     {
-      "word": "leftovers",
-      "meaning": "food remaining after a meal",
+      "word": "dissatisfied",
+      "meaning": "not pleased or satisfied with something",
       "examples": [
-        "We used the leftovers to make lunch the next day.",
-        "Freezing leftovers can reduce waste."
+        "The customer was dissatisfied with the product quality.",
+        "Dissatisfied clients should be given a clear way to respond."
       ]
     },
     {
-      "word": "expiry date",
-      "meaning": "the date after which a product should no longer be used or eaten",
+      "word": "resolve",
+      "meaning": "to solve a problem or disagreement",
       "examples": [
-        "Always check the expiry date on fresh food.",
-        "Some people confuse the expiry date with the best-before date."
+        "The support team resolved the issue within an hour.",
+        "We want to resolve every complaint fairly."
       ]
     },
     {
-      "word": "best-before date",
-      "meaning": "the date after which food may lose quality but may still be safe to eat",
+      "word": "refund",
+      "meaning": "money returned to a customer after a purchase",
       "examples": [
-        "The biscuits were still fine after the best-before date.",
-        "Understanding best-before dates can reduce unnecessary waste."
+        "The shop offered a full refund.",
+        "She requested a refund because the item was damaged."
       ]
     },
     {
-      "word": "portion",
-      "meaning": "an amount of food served to one person",
+      "word": "apologise",
+      "meaning": "to say that you are sorry for a mistake or problem",
       "examples": [
-        "Large portions can lead to more food waste.",
-        "I ordered a smaller portion because I was not very hungry."
+        "The manager apologised for the inconvenience.",
+        "A sincere apology can calm an angry customer."
       ]
     },
     {
-      "word": "compost",
-      "meaning": "decayed food and plant material used to improve soil",
+      "word": "compensation",
+      "meaning": "money or another benefit given because someone experienced loss or inconvenience",
       "examples": [
-        "Vegetable scraps can be turned into compost.",
-        "The restaurant composts some of its food waste."
-      ]
-    },
-    {
-      "word": "redistribute",
-      "meaning": "to collect something and give it to different people or places",
-      "examples": [
-        "Charities redistribute surplus food to families in need.",
-        "Supermarkets can redistribute food that would otherwise be wasted."
-      ]
-    },
-    {
-      "word": "surplus",
-      "meaning": "more of something than is needed",
-      "examples": [
-        "The farm donated surplus vegetables.",
-        "A food surplus can still be useful if it is distributed quickly."
-      ]
-    },
-    {
-      "word": "landfill",
-      "meaning": "a place where waste is buried in the ground",
-      "examples": [
-        "Food in landfill can produce greenhouse gases.",
-        "The city wants to send less organic waste to landfill."
-      ]
-    },
-    {
-      "word": "sustainable",
-      "meaning": "able to continue without causing serious environmental damage",
-      "examples": [
-        "Reducing waste makes the food system more sustainable.",
-        "Buying only what you need is a sustainable habit."
+        "The airline offered compensation for the long delay.",
+        "Customers may receive compensation when a service fails badly."
       ]
     }
   ]

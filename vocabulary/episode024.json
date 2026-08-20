@@ -1,84 +1,52 @@
 {
-  "title": "Theatre seats",
+  "title": "Etiquette for boys",
   "vocabulary": [
     {
-      "word": "auditorium",
-      "meaning": "the part of a theatre where the audience sits",
+      "word": "manners",
+      "meaning": "polite ways of behaving toward other people",
       "examples": [
-        "The auditorium was full before the performance began.",
-        "The renovated auditorium has more comfortable seats."
+        "Good manners are taught differently in different families.",
+        "Saying thank you is a basic example of good manners."
       ]
     },
     {
-      "word": "aisle",
-      "meaning": "a passage between rows of seats",
+      "word": "etiquette",
+      "meaning": "the accepted rules for polite behaviour",
       "examples": [
-        "Please keep the aisle clear during the show.",
-        "Their seats were next to the aisle."
+        "Traditional etiquette often included rules for boys and girls.",
+        "Modern etiquette may be less formal."
       ]
     },
     {
-      "word": "row",
-      "meaning": "a line of seats arranged next to each other",
+      "word": "gentleman",
+      "meaning": "a polite and considerate man, especially in traditional usage",
       "examples": [
-        "We were sitting in the front row.",
-        "The tickets are for row twelve."
+        "The old guide described how a gentleman should behave.",
+        "Ideas about being a gentleman have changed over time."
       ]
     },
     {
-      "word": "balcony",
-      "meaning": "an upper level of seating in a theatre",
+      "word": "courtesy",
+      "meaning": "polite behaviour that shows respect",
       "examples": [
-        "Seats in the balcony were cheaper.",
-        "The view from the balcony was surprisingly good."
+        "Holding the door can be a simple act of courtesy.",
+        "Courtesy matters regardless of gender."
       ]
     },
     {
-      "word": "legroom",
-      "meaning": "the amount of space available for a person's legs when sitting",
+      "word": "respect",
+      "meaning": "consideration for other people's feelings, rights, and opinions",
       "examples": [
-        "The new seats provide more legroom.",
-        "Tall audience members often complain about limited legroom."
+        "Children should learn to show respect to others.",
+        "Mutual respect is more important than old-fashioned rules."
       ]
     },
     {
-      "word": "audience",
-      "meaning": "the people who watch a performance",
+      "word": "polite",
+      "meaning": "showing good manners and respect",
       "examples": [
-        "The audience applauded at the end of the play.",
-        "The theatre can hold an audience of eight hundred."
-      ]
-    },
-    {
-      "word": "venue",
-      "meaning": "a place where an event or performance happens",
-      "examples": [
-        "The historic theatre is a popular venue.",
-        "We arrived at the venue thirty minutes early."
-      ]
-    },
-    {
-      "word": "reservation",
-      "meaning": "an arrangement to keep a seat or place for someone",
-      "examples": [
-        "I made a reservation for two seats online.",
-        "The theatre confirmed our reservation by email."
-      ]
-    },
-    {
-      "word": "obstructed view",
-      "meaning": "a view partly blocked by an object or structure",
-      "examples": [
-        "The ticket was cheaper because it had an obstructed view.",
-        "A pillar created an obstructed view of the stage."
-      ]
-    },
-    {
-      "word": "capacity",
-      "meaning": "the maximum number of people a place can hold",
-      "examples": [
-        "The theatre has a capacity of 1,200 people.",
-        "Safety rules limit the venue's capacity."
+        "He gave a polite answer to the question.",
+        "Being polite does not mean agreeing with everyone."
       ]
     }
   ]

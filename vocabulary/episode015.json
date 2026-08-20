@@ -1,84 +1,52 @@
 {
-  "title": "Witches",
+  "title": "Dress code debate",
   "vocabulary": [
     {
-      "word": "witchcraft",
-      "meaning": "the practice of magic, traditionally believed to involve supernatural powers",
+      "word": "dress code",
+      "meaning": "a set of rules about what clothes people should wear",
       "examples": [
-        "Stories about witchcraft appear in many cultures.",
-        "People were once punished because they were accused of witchcraft."
+        "The company introduced a more relaxed dress code.",
+        "Employees disagreed about whether the dress code was necessary."
       ]
     },
     {
-      "word": "superstition",
-      "meaning": "a belief that certain actions or events bring good or bad luck without scientific evidence",
+      "word": "formal attire",
+      "meaning": "clothes suitable for professional or ceremonial situations",
       "examples": [
-        "Many old superstitions are still common today.",
-        "Fear and superstition influenced people's behaviour."
+        "Formal attire is expected at some business events.",
+        "He wore formal attire to the interview."
       ]
     },
     {
-      "word": "spell",
-      "meaning": "words or actions believed to have magical power",
+      "word": "casual",
+      "meaning": "informal and relaxed in style",
       "examples": [
-        "In the story, the witch casts a spell.",
-        "Traditional tales often contain magic spells."
+        "The office allows casual clothes on Fridays.",
+        "Her outfit was comfortable but still appropriate for a casual workplace."
       ]
     },
     {
-      "word": "folklore",
-      "meaning": "traditional stories and beliefs passed through generations",
+      "word": "professional appearance",
+      "meaning": "the way someone looks when dressed suitably for work",
       "examples": [
-        "Witches appear frequently in European folklore.",
-        "Folklore can reveal a lot about a culture's fears and values."
+        "A professional appearance can affect first impressions.",
+        "The company gives new employees guidance on professional appearance."
       ]
     },
     {
-      "word": "supernatural",
-      "meaning": "related to forces or events that cannot be explained by science",
+      "word": "appropriate",
+      "meaning": "suitable for a particular situation",
       "examples": [
-        "The film is about supernatural events.",
-        "People once used supernatural explanations for many illnesses."
+        "Jeans may be appropriate in some workplaces but not others.",
+        "Choose clothing that is appropriate for the event."
       ]
     },
     {
-      "word": "accusation",
-      "meaning": "a claim that someone has done something wrong",
+      "word": "uniform",
+      "meaning": "a standard set of clothes worn by members of an organisation",
       "examples": [
-        "A false accusation could have serious consequences.",
-        "The woman denied the accusation of witchcraft."
-      ]
-    },
-    {
-      "word": "persecution",
-      "meaning": "cruel or unfair treatment of people because of their beliefs or identity",
-      "examples": [
-        "Historical records describe the persecution of suspected witches.",
-        "Religious persecution has affected many societies."
-      ]
-    },
-    {
-      "word": "myth",
-      "meaning": "a traditional story or widely held belief that may not be true",
-      "examples": [
-        "The programme explores myths about witches.",
-        "It can be difficult to separate historical fact from myth."
-      ]
-    },
-    {
-      "word": "ritual",
-      "meaning": "a set of actions performed in a fixed way, often for religious or cultural reasons",
-      "examples": [
-        "The ceremony included an ancient ritual.",
-        "Some rituals have been passed down for centuries."
-      ]
-    },
-    {
-      "word": "belief",
-      "meaning": "an idea that a person accepts as true",
-      "examples": [
-        "Beliefs about magic vary across cultures.",
-        "Scientific discoveries can change traditional beliefs."
+        "Staff members must wear a uniform.",
+        "A uniform can make employees easy to identify."
       ]
     }
   ]

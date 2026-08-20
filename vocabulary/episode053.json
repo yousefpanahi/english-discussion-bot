@@ -1,84 +1,52 @@
 {
-  "title": "Disabled doll",
+  "title": "Drinking around the world",
   "vocabulary": [
     {
-      "word": "disability",
-      "meaning": "a physical or mental condition that can affect a person's activities or participation",
+      "word": "drinking culture",
+      "meaning": "social customs and attitudes connected with drinking alcohol",
       "examples": [
-        "Children with disabilities should see themselves represented in toys.",
-        "The campaign promotes a more positive view of disability."
+        "Drinking culture varies greatly between countries.",
+        "Work events can reflect local drinking culture."
       ]
     },
     {
-      "word": "representation",
-      "meaning": "the way people or groups are shown in media, products, or culture",
+      "word": "alcohol",
+      "meaning": "drinks such as beer, wine, or spirits that contain ethanol",
       "examples": [
-        "Better representation can help children feel included.",
-        "The doll increased disability representation in toy shops."
+        "Some people choose not to drink alcohol.",
+        "Laws regulate the sale of alcohol."
       ]
     },
     {
-      "word": "inclusive",
-      "meaning": "designed to include people with different needs and backgrounds",
+      "word": "toast",
+      "meaning": "a short statement wishing someone well before people drink",
       "examples": [
-        "The company wants to make its toys more inclusive.",
-        "Inclusive design benefits many users."
+        "The host raised a glass and made a toast.",
+        "Wedding toasts are common in many cultures."
       ]
     },
     {
-      "word": "accessibility",
-      "meaning": "the quality of being easy to use or reach for people with disabilities",
+      "word": "pub",
+      "meaning": "a place, especially in Britain, where alcoholic and other drinks are served",
       "examples": [
-        "Accessibility should be considered when designing public spaces.",
-        "The new website has improved accessibility."
+        "They met friends at the local pub.",
+        "Pubs often function as social meeting places."
       ]
     },
     {
-      "word": "prosthetic limb",
-      "meaning": "an artificial arm or leg used to replace a missing limb",
+      "word": "moderation",
+      "meaning": "the practice of avoiding excessive amounts",
       "examples": [
-        "The doll was designed with a prosthetic limb.",
-        "Modern prosthetic limbs can be highly advanced."
+        "Health advice often recommends moderation.",
+        "He drinks occasionally and in moderation."
       ]
     },
     {
-      "word": "stereotype",
-      "meaning": "a fixed and oversimplified idea about a group of people",
+      "word": "custom",
+      "meaning": "a traditional or usual way of behaving",
       "examples": [
-        "Inclusive toys can challenge stereotypes about disability.",
-        "The film avoided common disability stereotypes."
-      ]
-    },
-    {
-      "word": "diversity",
-      "meaning": "the presence of many different kinds of people or experiences",
-      "examples": [
-        "Toy companies are paying more attention to diversity.",
-        "Children benefit from seeing diversity in everyday products."
-      ]
-    },
-    {
-      "word": "normalise",
-      "meaning": "to make something seem ordinary and accepted",
-      "examples": [
-        "Representation can help normalise disability.",
-        "The campaign aims to normalise differences between bodies."
-      ]
-    },
-    {
-      "word": "role model",
-      "meaning": "a person whose behaviour or achievements others may want to follow",
-      "examples": [
-        "Disabled athletes can become powerful role models.",
-        "Children often look for role models who resemble them."
-      ]
-    },
-    {
-      "word": "empower",
-      "meaning": "to give someone confidence, control, or a stronger sense of ability",
-      "examples": [
-        "Inclusive products can empower children.",
-        "The programme aims to empower people with disabilities."
+        "Offering a drink is a social custom in some places.",
+        "Visitors may not understand every local custom."
       ]
     }
   ]

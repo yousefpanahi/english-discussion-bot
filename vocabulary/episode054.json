@@ -1,84 +1,52 @@
 {
-  "title": "Africa's economic progress",
+  "title": "Is breakfast the most important meal of the day?",
   "vocabulary": [
     {
-      "word": "economic growth",
-      "meaning": "an increase in the amount of goods and services an economy produces",
+      "word": "breakfast",
+      "meaning": "the first meal of the day, usually eaten in the morning",
       "examples": [
-        "Several African economies have experienced strong economic growth.",
-        "Economic growth does not always benefit everyone equally."
+        "She eats breakfast before going to work.",
+        "Some people regularly skip breakfast."
       ]
     },
     {
-      "word": "development",
-      "meaning": "the process of improving economic and social conditions",
+      "word": "metabolism",
+      "meaning": "the chemical processes through which the body uses energy",
       "examples": [
-        "Infrastructure is important for economic development.",
-        "The region has made progress in development."
+        "People often discuss whether breakfast affects metabolism.",
+        "Metabolism is influenced by many factors."
       ]
     },
     {
-      "word": "investment",
-      "meaning": "money put into a project or business to produce future benefits",
+      "word": "appetite",
+      "meaning": "the desire to eat food",
       "examples": [
-        "Foreign investment can create jobs.",
-        "The country needs more investment in transport and energy."
+        "A high-protein breakfast may affect appetite later in the day.",
+        "Stress can also change appetite."
       ]
     },
     {
-      "word": "infrastructure",
-      "meaning": "basic systems such as roads, electricity, and communications needed by a society",
+      "word": "nutrition",
+      "meaning": "the process of obtaining and using food needed for health",
       "examples": [
-        "Poor infrastructure can slow economic growth.",
-        "Governments are investing in new infrastructure."
+        "Breakfast quality matters more than simply eating anything.",
+        "Good nutrition depends on the whole diet."
       ]
     },
     {
-      "word": "entrepreneur",
-      "meaning": "a person who starts and runs a business",
+      "word": "skip",
+      "meaning": "to not do or have something that would normally be expected",
       "examples": [
-        "Young entrepreneurs are creating technology companies.",
-        "The entrepreneur received funding to expand her business."
+        "He often skips breakfast when he is busy.",
+        "Skipping a meal affects people differently."
       ]
     },
     {
-      "word": "middle class",
-      "meaning": "the social group between the richest and poorest groups",
+      "word": "balanced meal",
+      "meaning": "a meal containing a useful combination of food groups and nutrients",
       "examples": [
-        "A growing middle class can increase consumer spending.",
-        "The country's middle class has expanded."
-      ]
-    },
-    {
-      "word": "productivity",
-      "meaning": "the amount of output produced from work or resources",
-      "examples": [
-        "Better technology can increase productivity.",
-        "Low productivity limits economic progress."
-      ]
-    },
-    {
-      "word": "trade",
-      "meaning": "the buying and selling of goods and services between people or countries",
-      "examples": [
-        "Regional trade can support economic growth.",
-        "The country exports agricultural products through international trade."
-      ]
-    },
-    {
-      "word": "prosperity",
-      "meaning": "the state of being economically successful and comfortable",
-      "examples": [
-        "The government wants growth to bring wider prosperity.",
-        "Education can contribute to long-term prosperity."
-      ]
-    },
-    {
-      "word": "inequality",
-      "meaning": "an unfair difference in income, wealth, or opportunities",
-      "examples": [
-        "Economic growth can exist alongside high inequality.",
-        "Policies are needed to reduce inequality."
+        "Eggs, vegetables, and whole-grain bread can make a balanced meal.",
+        "Try to start the day with a balanced meal."
       ]
     }
   ]

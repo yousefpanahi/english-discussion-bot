@@ -1,84 +1,52 @@
 {
-  "title": "Searching for life on another planet",
+  "title": "Poverty and education",
   "vocabulary": [
     {
-      "word": "extraterrestrial life",
-      "meaning": "living organisms that may exist beyond Earth",
+      "word": "poverty",
+      "meaning": "the condition of having very little money and not enough resources for basic needs",
       "examples": [
-        "Scientists are searching for evidence of extraterrestrial life.",
-        "The discovery of extraterrestrial life would change our view of the universe."
+        "Poverty can prevent children from attending school regularly.",
+        "Reducing poverty can improve educational opportunities."
       ]
     },
     {
-      "word": "habitable",
-      "meaning": "suitable for living things to survive",
+      "word": "access to education",
+      "meaning": "the ability to enter and take part in schooling or learning",
       "examples": [
-        "Researchers look for planets that may be habitable.",
-        "Liquid water is one sign that a world could be habitable."
+        "Rural children may have limited access to education.",
+        "Governments are working to improve access to education."
       ]
     },
     {
-      "word": "exoplanet",
-      "meaning": "a planet that moves around a star outside our solar system",
+      "word": "literacy",
+      "meaning": "the ability to read and write",
       "examples": [
-        "Astronomers have discovered thousands of exoplanets.",
-        "Some exoplanets may have conditions similar to Earth."
+        "Adult literacy programmes can change people's lives.",
+        "Higher literacy rates are often linked to better employment."
       ]
     },
     {
-      "word": "atmosphere",
-      "meaning": "the layer of gases surrounding a planet",
+      "word": "school attendance",
+      "meaning": "the regular presence of students at school",
       "examples": [
-        "Scientists study a planet's atmosphere for signs of life.",
-        "Earth's atmosphere contains oxygen and nitrogen."
+        "Poverty can reduce school attendance.",
+        "Free meals can improve school attendance in some areas."
       ]
     },
     {
-      "word": "biosignature",
-      "meaning": "a substance or pattern that may indicate the presence of life",
+      "word": "tuition",
+      "meaning": "money paid for teaching, especially at a school or university",
       "examples": [
-        "Oxygen can be an important biosignature on another planet.",
-        "Researchers look for possible biosignatures in distant atmospheres."
+        "Some families cannot afford school tuition.",
+        "The university increased its tuition fees."
       ]
     },
     {
-      "word": "telescope",
-      "meaning": "an instrument used to make distant objects appear closer",
+      "word": "scholarship",
+      "meaning": "money given to a student to help pay for education",
       "examples": [
-        "The telescope detected a planet around a nearby star.",
-        "Powerful telescopes allow scientists to study distant galaxies."
-      ]
-    },
-    {
-      "word": "solar system",
-      "meaning": "a star and the planets and other objects that move around it",
-      "examples": [
-        "Earth is one of eight planets in our solar system.",
-        "Scientists continue to explore the outer solar system."
-      ]
-    },
-    {
-      "word": "microorganism",
-      "meaning": "a living thing so small that it can only be seen with a microscope",
-      "examples": [
-        "Microorganisms can survive in extreme environments on Earth.",
-        "Scientists wonder whether microorganisms could exist on Mars."
-      ]
-    },
-    {
-      "word": "evidence",
-      "meaning": "facts or information that show whether something is true",
-      "examples": [
-        "Researchers need strong evidence before claiming that life exists elsewhere.",
-        "The mission collected evidence about the planet's history."
-      ]
-    },
-    {
-      "word": "discovery",
-      "meaning": "the act of finding something that was previously unknown",
-      "examples": [
-        "A major discovery could change modern science.",
-        "New technology has accelerated the discovery of distant planets."
+        "She received a scholarship to continue her studies.",
+        "Scholarships can help talented students from low-income families."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Scott of the Antarctic",
+  "title": "Tea drinking in the UK",
   "vocabulary": [
     {
-      "word": "expedition",
-      "meaning": "an organised journey made for a particular purpose, especially exploration",
+      "word": "brew",
+      "meaning": "to make tea or coffee by adding hot water",
       "examples": [
-        "Scott led an expedition to the Antarctic.",
-        "The expedition faced extreme weather conditions."
+        "Let the tea brew for a few minutes.",
+        "She brewed a pot of tea for the guests."
       ]
     },
     {
-      "word": "polar",
-      "meaning": "related to the areas around the North or South Pole",
+      "word": "teapot",
+      "meaning": "a container with a handle and spout used for making and serving tea",
       "examples": [
-        "The team needed special clothing for the polar climate.",
-        "Polar exploration was extremely dangerous a century ago."
+        "The tea was served from a traditional teapot.",
+        "He warmed the teapot before adding the leaves."
       ]
     },
     {
-      "word": "explorer",
-      "meaning": "a person who travels to unfamiliar places to learn about them",
+      "word": "tea bag",
+      "meaning": "a small bag containing dried tea leaves for making a drink",
       "examples": [
-        "The explorer kept a detailed diary of the journey.",
-        "Early Antarctic explorers faced serious risks."
+        "I usually make tea with a tea bag.",
+        "Remove the tea bag after a few minutes."
       ]
     },
     {
-      "word": "endurance",
-      "meaning": "the ability to continue doing something difficult for a long time",
+      "word": "tea leaves",
+      "meaning": "dried leaves used to make tea",
       "examples": [
-        "The journey required great physical endurance.",
-        "Cold and hunger tested the explorers' endurance."
+        "Loose tea leaves can have a stronger flavour.",
+        "The shop sells tea leaves from several countries."
       ]
     },
     {
-      "word": "frostbite",
-      "meaning": "injury to the body caused by extreme cold",
+      "word": "caffeine",
+      "meaning": "a substance in tea, coffee, and some other drinks that can make people feel more alert",
       "examples": [
-        "Several members of the team suffered from frostbite.",
-        "Proper clothing can help prevent frostbite."
+        "Black tea contains caffeine.",
+        "Too much caffeine can affect sleep."
       ]
     },
     {
-      "word": "supplies",
-      "meaning": "food, equipment, and other things needed for a journey or activity",
+      "word": "tradition",
+      "meaning": "a custom or belief passed from one generation to another",
       "examples": [
-        "The expedition carried enough supplies for several months.",
-        "Bad weather made it difficult to deliver supplies."
-      ]
-    },
-    {
-      "word": "treacherous",
-      "meaning": "very dangerous and difficult to deal with",
-      "examples": [
-        "The explorers crossed treacherous ice.",
-        "Conditions became treacherous during the storm."
-      ]
-    },
-    {
-      "word": "survival",
-      "meaning": "the act of continuing to live in difficult or dangerous conditions",
-      "examples": [
-        "Finding shelter was essential for survival.",
-        "The story is partly about courage and survival."
-      ]
-    },
-    {
-      "word": "route",
-      "meaning": "the path taken from one place to another",
-      "examples": [
-        "The team planned a route across the ice.",
-        "A safer route would have taken more time."
-      ]
-    },
-    {
-      "word": "legacy",
-      "meaning": "the lasting effect or importance of a person or event",
-      "examples": [
-        "Scott's expedition left a complicated legacy.",
-        "The explorer's legacy is still discussed today."
+        "Afternoon tea is a well-known British tradition.",
+        "Food and drink traditions change over time."
       ]
     }
   ]

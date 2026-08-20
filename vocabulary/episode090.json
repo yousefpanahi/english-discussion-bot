@@ -1,84 +1,52 @@
 {
-  "title": "Speak any language instantly",
+  "title": "What is the future of work?",
   "vocabulary": [
     {
-      "word": "instant translation",
-      "meaning": "translation produced immediately, usually by software or a device",
+      "word": "automation",
+      "meaning": "the use of technology to perform tasks with limited human involvement",
       "examples": [
-        "Instant translation can help travellers communicate.",
-        "The app provides instant translation between several languages."
+        "Automation is an important idea when discussing what is the future of work?.",
+        "Learning about automation can help us understand this issue more clearly."
       ]
     },
     {
-      "word": "speech recognition",
-      "meaning": "technology that converts spoken language into text or commands",
+      "word": "remote work",
+      "meaning": "work carried out away from a traditional office, often from home",
       "examples": [
-        "The device uses speech recognition to understand the user.",
-        "Speech recognition is improving rapidly."
+        "People often have different views about remote work when discussing what is the future of work?.",
+        "Understanding remote work can make a conversation about this topic more precise."
       ]
     },
     {
-      "word": "machine translation",
-      "meaning": "translation produced automatically by computer software",
+      "word": "reskilling",
+      "meaning": "learning new abilities in order to do a different type of job",
       "examples": [
-        "Machine translation is useful but can make mistakes.",
-        "Human translators often check machine translation."
+        "The topic of what is the future of work? raises useful questions about reskilling.",
+        "We can discuss how reskilling affects people, communities, or the environment."
       ]
     },
     {
-      "word": "interpreter",
-      "meaning": "a person who translates spoken language between people",
+      "word": "gig economy",
+      "meaning": "a labour market based on short-term, freelance, or task-based work",
       "examples": [
-        "The meeting used a professional interpreter.",
-        "Technology may assist interpreters rather than fully replace them."
+        "Gig economy can play an important role in debates about what is the future of work?.",
+        "Different countries may deal with gig economy in different ways."
       ]
     },
     {
-      "word": "fluency",
-      "meaning": "the ability to speak a language smoothly and easily",
+      "word": "job security",
+      "meaning": "the likelihood that a person will be able to keep their job",
       "examples": [
-        "Translation tools do not automatically create fluency.",
-        "Regular conversation practice improves fluency."
+        "A discussion about what is the future of work? can include the effects of job security.",
+        "Knowing the meaning of job security makes it easier to express an opinion on this issue."
       ]
     },
     {
-      "word": "accuracy",
-      "meaning": "the degree to which something is correct",
+      "word": "hybrid work",
+      "meaning": "a work arrangement combining remote work with time in a workplace",
       "examples": [
-        "Translation accuracy depends on context.",
-        "The app's accuracy improved after an update."
-      ]
-    },
-    {
-      "word": "context",
-      "meaning": "the situation and surrounding information that help determine meaning",
-      "examples": [
-        "Machines sometimes struggle to understand context.",
-        "The same word can have different meanings depending on context."
-      ]
-    },
-    {
-      "word": "accent",
-      "meaning": "a particular way of pronouncing a language",
-      "examples": [
-        "The system had difficulty recognising his accent.",
-        "Modern tools are trained on many different accents."
-      ]
-    },
-    {
-      "word": "real-time",
-      "meaning": "happening immediately as something occurs",
-      "examples": [
-        "The software offers real-time translation during calls.",
-        "Real-time captions can help international meetings."
-      ]
-    },
-    {
-      "word": "language barrier",
-      "meaning": "a communication difficulty caused by people not sharing a language",
-      "examples": [
-        "Translation technology can reduce the language barrier.",
-        "A language barrier can make travel stressful."
+        "Hybrid work is useful vocabulary for talking about what is the future of work?.",
+        "We can use the idea of hybrid work to compare different experiences and viewpoints."
       ]
     }
   ]

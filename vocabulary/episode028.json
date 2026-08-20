@@ -1,84 +1,52 @@
 {
-  "title": "Posh People",
+  "title": "Pain",
   "vocabulary": [
     {
-      "word": "upper class",
-      "meaning": "the social group with the highest status or wealth in a society",
+      "word": "pain",
+      "meaning": "an unpleasant physical or emotional feeling caused by injury, illness, or distress",
       "examples": [
-        "The programme examined attitudes toward the upper class.",
-        "Some people associate the upper class with inherited wealth."
+        "The patient described a sharp pain in his shoulder.",
+        "Pain can be difficult to measure objectively."
       ]
     },
     {
-      "word": "privilege",
-      "meaning": "a special advantage available to a particular person or group",
+      "word": "chronic pain",
+      "meaning": "pain that continues for a long period of time",
       "examples": [
-        "Wealth can provide access to social privilege.",
-        "The debate focused on privilege and opportunity."
+        "Chronic pain can affect work and sleep.",
+        "Treatment for chronic pain often combines several methods."
       ]
     },
     {
-      "word": "elite",
-      "meaning": "a small group considered powerful, wealthy, or highly successful",
+      "word": "acute pain",
+      "meaning": "pain that begins suddenly and usually has a clear cause",
       "examples": [
-        "The school has a reputation for educating the social elite.",
-        "Critics say political elites are disconnected from ordinary people."
+        "The injury caused severe acute pain.",
+        "Acute pain often improves as the body heals."
       ]
     },
     {
-      "word": "status",
-      "meaning": "a person's social or professional position",
+      "word": "pain threshold",
+      "meaning": "the point at which a sensation begins to feel painful",
       "examples": [
-        "Expensive possessions can sometimes be used to signal status.",
-        "Social status may influence how people are treated."
+        "People have different pain thresholds.",
+        "Stress can influence a person's pain threshold."
       ]
     },
     {
-      "word": "wealth",
-      "meaning": "a large amount of money, property, or valuable possessions",
+      "word": "painkiller",
+      "meaning": "a medicine used to reduce pain",
       "examples": [
-        "Wealth is distributed very unevenly in some countries.",
-        "Family wealth can affect educational choices."
+        "The doctor recommended a mild painkiller.",
+        "Strong painkillers can have serious side effects."
       ]
     },
     {
-      "word": "background",
-      "meaning": "the family, social, and educational circumstances a person comes from",
+      "word": "inflammation",
+      "meaning": "the body's response to injury or infection, often causing swelling and pain",
       "examples": [
-        "Employers should not judge applicants only by their background.",
-        "People from different backgrounds may have very different opportunities."
-      ]
-    },
-    {
-      "word": "accent",
-      "meaning": "a way of pronouncing a language that can show region or social background",
-      "examples": [
-        "People sometimes make unfair assumptions based on accent.",
-        "Her accent changed slightly after living abroad."
-      ]
-    },
-    {
-      "word": "stereotype",
-      "meaning": "a fixed and oversimplified idea about a group of people",
-      "examples": [
-        "The programme challenged stereotypes about wealthy people.",
-        "Stereotypes can influence social attitudes."
-      ]
-    },
-    {
-      "word": "inequality",
-      "meaning": "an unfair difference in wealth, rights, or opportunities",
-      "examples": [
-        "Economic inequality has increased in many places.",
-        "High inequality can affect social trust."
-      ]
-    },
-    {
-      "word": "social class",
-      "meaning": "a group in society based on income, occupation, education, or status",
-      "examples": [
-        "Social class can influence life opportunities.",
-        "Attitudes toward social class vary between countries."
+        "The medicine reduced inflammation in the joint.",
+        "Inflammation can be a normal part of healing."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Should we eat ultra-processed food",
+  "title": "Is silence golden?",
   "vocabulary": [
     {
-      "word": "ultra-processed food",
-      "meaning": "food made through extensive industrial processing and often containing many additives",
+      "word": "silence",
+      "meaning": "the complete absence of sound",
       "examples": [
-        "Ultra-processed food is common in modern diets.",
-        "Some studies link high consumption of ultra-processed food with health risks."
+        "The room fell into silence after the announcement.",
+        "Some people find silence relaxing, while others find it uncomfortable."
       ]
     },
     {
-      "word": "additive",
-      "meaning": "a substance added to food to improve flavour, colour, texture, or shelf life",
+      "word": "quiet",
+      "meaning": "a state with little or no noise",
       "examples": [
-        "The product contains several food additives.",
-        "Not all additives are harmful."
+        "I need some quiet when I am trying to concentrate.",
+        "The library offers a quiet place to work."
       ]
     },
     {
-      "word": "preservative",
-      "meaning": "a substance added to food to stop it spoiling quickly",
+      "word": "solitude",
+      "meaning": "the state of being alone, especially when it is peaceful",
       "examples": [
-        "Preservatives can extend the shelf life of packaged food.",
-        "Some consumers prefer products without artificial preservatives."
+        "She enjoys a little solitude at the end of the day.",
+        "Solitude can give people time to think."
       ]
     },
     {
-      "word": "ingredient",
-      "meaning": "one of the foods or substances used to make a dish or product",
+      "word": "pause",
+      "meaning": "a short stop in speech or activity",
       "examples": [
-        "Always check the ingredient list if you have allergies.",
-        "The sauce contains only five ingredients."
+        "A brief pause can make a conversation feel more thoughtful.",
+        "He paused before answering the difficult question."
       ]
     },
     {
-      "word": "nutrition",
-      "meaning": "the process of getting and using the food needed for health and growth",
+      "word": "reflection",
+      "meaning": "careful thought about an experience or idea",
       "examples": [
-        "Good nutrition supports physical and mental health.",
-        "Schools can teach children about nutrition."
+        "Silence can create time for reflection.",
+        "After the meeting, she spent a few minutes in reflection."
       ]
     },
     {
-      "word": "processed",
-      "meaning": "changed from its natural state, usually during food production",
+      "word": "awkward",
+      "meaning": "uncomfortable or embarrassing",
       "examples": [
-        "Not all processed foods are unhealthy.",
-        "Frozen vegetables are processed but can still be nutritious."
-      ]
-    },
-    {
-      "word": "sodium",
-      "meaning": "a mineral found in salt that can be high in many packaged foods",
-      "examples": [
-        "The soup contains a lot of sodium.",
-        "Reducing sodium may help some people manage blood pressure."
-      ]
-    },
-    {
-      "word": "fibre",
-      "meaning": "the part of plant foods that helps digestion",
-      "examples": [
-        "Whole grains are a good source of fibre.",
-        "Many ultra-processed foods contain little fibre."
-      ]
-    },
-    {
-      "word": "label",
-      "meaning": "information printed on food packaging about ingredients and nutrition",
-      "examples": [
-        "Read the label before choosing a product.",
-        "Food labels can help consumers compare products."
-      ]
-    },
-    {
-      "word": "balanced diet",
-      "meaning": "a way of eating that provides a suitable variety of nutrients",
-      "examples": [
-        "A balanced diet includes vegetables, protein, and whole grains.",
-        "Occasional treats can fit into a balanced diet."
+        "There was an awkward silence after his joke.",
+        "Silence does not always have to be awkward."
       ]
     }
   ]

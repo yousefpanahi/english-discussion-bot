@@ -1,84 +1,52 @@
 {
-  "title": "Farewell Bush House",
+  "title": "Online shopping",
   "vocabulary": [
     {
-      "word": "broadcasting",
-      "meaning": "the transmission of radio or television programmes to the public",
+      "word": "e-commerce",
+      "meaning": "the buying and selling of goods and services over the internet",
       "examples": [
-        "Bush House played an important role in international broadcasting.",
-        "Digital technology has transformed broadcasting."
+        "E-commerce has grown rapidly in the last decade.",
+        "Small businesses can reach global customers through e-commerce."
       ]
     },
     {
-      "word": "headquarters",
-      "meaning": "the main office of an organisation",
+      "word": "checkout",
+      "meaning": "the stage of an online purchase when a customer pays",
       "examples": [
-        "The broadcaster moved its staff to a new headquarters.",
-        "The company's headquarters are in central London."
+        "The website has a simple checkout process.",
+        "She left the site before completing checkout."
       ]
     },
     {
-      "word": "newsroom",
-      "meaning": "a place where journalists prepare news reports",
+      "word": "delivery",
+      "meaning": "the act of taking goods to a customer",
       "examples": [
-        "The newsroom was busy during the breaking story.",
-        "Modern newsrooms use both television and online platforms."
+        "Free delivery can encourage people to buy online.",
+        "The delivery arrived two days late."
       ]
     },
     {
-      "word": "journalist",
-      "meaning": "a person whose job is to report or write the news",
+      "word": "return policy",
+      "meaning": "a store's rules about sending unwanted goods back",
       "examples": [
-        "The journalist interviewed people from several countries.",
-        "Many journalists once worked inside Bush House."
+        "Always check the return policy before ordering clothes.",
+        "A flexible return policy can increase customer confidence."
       ]
     },
     {
-      "word": "heritage",
-      "meaning": "the history, traditions, and buildings that a society values and wants to preserve",
+      "word": "review",
+      "meaning": "an opinion written by a customer about a product or service",
       "examples": [
-        "Bush House has an important broadcasting heritage.",
-        "Historic buildings are part of a city's cultural heritage."
+        "I read several reviews before buying the laptop.",
+        "Positive reviews can strongly influence online sales."
       ]
     },
     {
-      "word": "relocate",
-      "meaning": "to move a person or organisation to a new place",
+      "word": "retailer",
+      "meaning": "a business that sells goods directly to customers",
       "examples": [
-        "The organisation decided to relocate its offices.",
-        "Staff had to relocate to a different building."
-      ]
-    },
-    {
-      "word": "archive",
-      "meaning": "a collection of historical documents, recordings, or other material",
-      "examples": [
-        "The radio archive contains thousands of old programmes.",
-        "Researchers use the archive to study broadcasting history."
-      ]
-    },
-    {
-      "word": "landmark",
-      "meaning": "a building or place that is well known and easy to recognise",
-      "examples": [
-        "Bush House became a familiar London landmark.",
-        "The old theatre is an important city landmark."
-      ]
-    },
-    {
-      "word": "era",
-      "meaning": "a long and distinct period of history",
-      "examples": [
-        "Leaving Bush House marked the end of an era.",
-        "Digital media created a new era in broadcasting."
-      ]
-    },
-    {
-      "word": "farewell",
-      "meaning": "an expression of goodbye when someone leaves",
-      "examples": [
-        "Staff gathered to say farewell to the building.",
-        "The final programme felt like a farewell to an important chapter."
+        "Many traditional retailers now sell products online.",
+        "The retailer offered a discount for new customers."
       ]
     }
   ]

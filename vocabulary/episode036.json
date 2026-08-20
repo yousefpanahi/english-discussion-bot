@@ -1,84 +1,52 @@
 {
-  "title": "How do we adapt to the cold",
+  "title": "Angry people",
   "vocabulary": [
     {
-      "word": "acclimatise",
-      "meaning": "to become physically or mentally adjusted to new conditions",
+      "word": "anger",
+      "meaning": "a strong feeling of annoyance or displeasure",
       "examples": [
-        "It takes time to acclimatise to very cold weather.",
-        "The climbers spent several days acclimatising."
+        "Unfair treatment can cause anger.",
+        "He learned to express his anger without shouting."
       ]
     },
     {
-      "word": "insulation",
-      "meaning": "material or a natural layer that reduces the movement of heat",
+      "word": "temper",
+      "meaning": "a person's tendency to become angry",
       "examples": [
-        "Thick clothing provides insulation against the cold.",
-        "Body fat can provide some natural insulation."
+        "He has a quick temper when he is under stress.",
+        "She managed to control her temper during the argument."
       ]
     },
     {
-      "word": "body temperature",
-      "meaning": "the temperature inside a person's or animal's body",
+      "word": "frustration",
+      "meaning": "the feeling of being upset because you cannot achieve or change something",
       "examples": [
-        "The body works hard to maintain a stable body temperature.",
-        "Cold water can cause body temperature to fall quickly."
+        "Traffic delays caused a lot of frustration.",
+        "People sometimes express frustration as anger."
       ]
     },
     {
-      "word": "shiver",
-      "meaning": "to shake slightly and uncontrollably because of cold",
+      "word": "irritated",
+      "meaning": "slightly angry or annoyed",
       "examples": [
-        "I started to shiver while waiting outside.",
-        "Shivering helps the body produce heat."
+        "She became irritated by the repeated interruptions.",
+        "He sounded irritated on the phone."
       ]
     },
     {
-      "word": "hypothermia",
-      "meaning": "a dangerous condition in which body temperature becomes too low",
+      "word": "lose your temper",
+      "meaning": "to suddenly become very angry",
       "examples": [
-        "Wet clothes can increase the risk of hypothermia.",
-        "The rescue team treated the climber for hypothermia."
+        "He lost his temper during the meeting.",
+        "Try not to lose your temper when someone disagrees with you."
       ]
     },
     {
-      "word": "metabolism",
-      "meaning": "the chemical processes in the body that produce and use energy",
+      "word": "calm down",
+      "meaning": "to become less angry or excited",
       "examples": [
-        "Cold conditions can affect metabolism.",
-        "The body may increase its metabolism to produce more heat."
-      ]
-    },
-    {
-      "word": "layer",
-      "meaning": "one thickness of material worn or placed over another",
-      "examples": [
-        "Wear several layers of clothing in cold weather.",
-        "A base layer helps keep the skin dry."
-      ]
-    },
-    {
-      "word": "exposure",
-      "meaning": "the state of being in contact with difficult or harmful conditions",
-      "examples": [
-        "Long exposure to extreme cold can be dangerous.",
-        "The body can adapt slightly after repeated cold exposure."
-      ]
-    },
-    {
-      "word": "circulation",
-      "meaning": "the movement of blood around the body",
-      "examples": [
-        "Cold weather can reduce circulation to the fingers.",
-        "Exercise helps improve blood circulation."
-      ]
-    },
-    {
-      "word": "tolerance",
-      "meaning": "the ability to deal with an unpleasant condition without being badly affected",
-      "examples": [
-        "People vary in their tolerance of cold.",
-        "Regular exposure may increase cold tolerance."
+        "Take a few minutes to calm down before replying.",
+        "She walked outside to calm down."
       ]
     }
   ]

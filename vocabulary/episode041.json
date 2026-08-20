@@ -1,84 +1,52 @@
 {
-  "title": "Why are we all so stressed",
+  "title": "Was Christmas better in the past?",
   "vocabulary": [
     {
-      "word": "stress",
-      "meaning": "a state of mental or emotional pressure caused by difficult situations",
+      "word": "Christmas",
+      "meaning": "the annual Christian holiday celebrated on 25 December and widely observed as a cultural festival",
       "examples": [
-        "Work stress can affect sleep and health.",
-        "Many people experience stress during busy periods."
+        "Christmas traditions vary between families and countries.",
+        "Some people feel Christmas has changed over time."
       ]
     },
     {
-      "word": "pressure",
-      "meaning": "a feeling of worry caused by demands or expectations",
+      "word": "nostalgia",
+      "meaning": "a warm and sometimes sad feeling about the past",
       "examples": [
-        "She felt pressure to finish the project quickly.",
-        "Financial pressure can affect family relationships."
+        "Old Christmas songs can create nostalgia.",
+        "Nostalgia may make past celebrations seem better than they really were."
       ]
     },
     {
-      "word": "burnout",
-      "meaning": "physical and emotional exhaustion caused by long-term stress or overwork",
+      "word": "tradition",
+      "meaning": "a custom passed from one generation to another",
       "examples": [
-        "Long working hours can lead to burnout.",
-        "He took time off after experiencing burnout."
+        "Decorating a tree is a Christmas tradition in many homes.",
+        "Families often create their own traditions."
       ]
     },
     {
-      "word": "workload",
-      "meaning": "the amount of work a person has to do",
+      "word": "festive",
+      "meaning": "connected with celebration and enjoyment",
       "examples": [
-        "A heavy workload can increase stress.",
-        "The manager redistributed the workload among the team."
+        "The town centre looked festive with lights and decorations.",
+        "People were in a festive mood."
       ]
     },
     {
-      "word": "anxiety",
-      "meaning": "a feeling of worry, nervousness, or fear",
+      "word": "commercialisation",
+      "meaning": "the process of making something increasingly focused on selling and profit",
       "examples": [
-        "Constant stress can contribute to anxiety.",
-        "Exercise helps some people manage anxiety."
+        "Some people criticise the commercialisation of Christmas.",
+        "Advertising contributes to holiday commercialisation."
       ]
     },
     {
-      "word": "cope",
-      "meaning": "to deal successfully with a difficult situation",
+      "word": "gift-giving",
+      "meaning": "the practice of giving presents to other people",
       "examples": [
-        "People use different methods to cope with stress.",
-        "She found it difficult to cope with the pressure."
-      ]
-    },
-    {
-      "word": "relaxation",
-      "meaning": "the state of becoming calm and free from tension",
-      "examples": [
-        "Deep breathing can promote relaxation.",
-        "He makes time for relaxation every evening."
-      ]
-    },
-    {
-      "word": "work-life balance",
-      "meaning": "a healthy division of time and energy between work and personal life",
-      "examples": [
-        "Flexible hours can improve work-life balance.",
-        "Poor work-life balance may increase stress."
-      ]
-    },
-    {
-      "word": "overwhelmed",
-      "meaning": "feeling unable to deal with too many demands or problems",
-      "examples": [
-        "She felt overwhelmed by her responsibilities.",
-        "It is useful to ask for help when you feel overwhelmed."
-      ]
-    },
-    {
-      "word": "resilience",
-      "meaning": "the ability to recover from difficulties and continue functioning well",
-      "examples": [
-        "Strong social support can build resilience.",
-        "Resilience does not mean ignoring stress."
+        "Gift-giving is an important part of many Christmas celebrations.",
+        "Some families set limits on gift-giving."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Botnets",
+  "title": "End of the world?",
   "vocabulary": [
     {
-      "word": "botnet",
-      "meaning": "a network of infected computers or devices controlled remotely without their owners' knowledge",
+      "word": "apocalypse",
+      "meaning": "a catastrophic event involving widespread destruction or the end of civilisation",
       "examples": [
-        "The criminals used a botnet to attack several websites.",
-        "A large botnet can contain thousands of infected devices."
+        "Films often imagine a future apocalypse.",
+        "People have predicted different kinds of apocalypse throughout history."
       ]
     },
     {
-      "word": "infected device",
-      "meaning": "a computer or phone that has been compromised by malicious software",
+      "word": "doomsday",
+      "meaning": "a time when the world or civilisation is expected to end",
       "examples": [
-        "The security team disconnected the infected device from the network.",
-        "Weak passwords can make an infected device more likely."
+        "Some groups have announced specific doomsday dates.",
+        "Doomsday predictions usually attract media attention."
       ]
     },
     {
-      "word": "malware",
-      "meaning": "software designed to damage, control, or secretly access a computer",
+      "word": "catastrophe",
+      "meaning": "a sudden event causing great damage or suffering",
       "examples": [
-        "The botnet spread through malware hidden in an attachment.",
-        "Updated security software can detect some types of malware."
+        "An asteroid impact could be a global catastrophe.",
+        "Governments prepare for natural catastrophes."
       ]
     },
     {
-      "word": "command and control",
-      "meaning": "the system used by attackers to send instructions to infected devices",
+      "word": "prediction",
+      "meaning": "a statement about what someone thinks will happen in the future",
       "examples": [
-        "The police shut down the botnet's command-and-control servers.",
-        "Hackers use command and control to manage compromised machines."
+        "The prediction turned out to be completely wrong.",
+        "Scientific predictions should be based on evidence."
       ]
     },
     {
-      "word": "denial-of-service attack",
-      "meaning": "an attack that overwhelms a service with traffic so normal users cannot access it",
+      "word": "prophecy",
+      "meaning": "a statement claiming to describe future events, often for religious reasons",
       "examples": [
-        "The website went offline during a denial-of-service attack.",
-        "Botnets are often used to launch denial-of-service attacks."
+        "The old prophecy was interpreted in several ways.",
+        "People sometimes connect disasters with ancient prophecies."
       ]
     },
     {
-      "word": "cybercriminal",
-      "meaning": "a person who commits crimes using computers or the internet",
+      "word": "asteroid",
+      "meaning": "a rocky object that moves around the Sun",
       "examples": [
-        "Cybercriminals may rent botnets to other attackers.",
-        "Police arrested several suspected cybercriminals."
-      ]
-    },
-    {
-      "word": "vulnerability",
-      "meaning": "a weakness in software or a system that can be exploited",
-      "examples": [
-        "The malware used an old software vulnerability.",
-        "Installing updates helps close known vulnerabilities."
-      ]
-    },
-    {
-      "word": "compromise",
-      "meaning": "to gain unauthorised access to a computer or account",
-      "examples": [
-        "Attackers compromised thousands of home routers.",
-        "A compromised device may behave normally while secretly sending data."
-      ]
-    },
-    {
-      "word": "traffic",
-      "meaning": "data moving through a computer network",
-      "examples": [
-        "The botnet generated a huge amount of internet traffic.",
-        "Security tools can identify unusual network traffic."
-      ]
-    },
-    {
-      "word": "patch",
-      "meaning": "a software update designed to fix a problem or security weakness",
-      "examples": [
-        "The company released a patch for the vulnerability.",
-        "Users should install security patches quickly."
+        "Scientists monitor asteroids that pass near Earth.",
+        "A large asteroid impact is extremely rare."
       ]
     }
   ]

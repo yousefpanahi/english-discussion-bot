@@ -1,84 +1,52 @@
 {
-  "title": "Nigerian oil theft",
+  "title": "Sleeping for learning",
   "vocabulary": [
     {
-      "word": "oil theft",
-      "meaning": "the illegal taking of crude oil or petroleum products",
+      "word": "sleep",
+      "meaning": "the natural state of rest in which the body and brain recover",
       "examples": [
-        "Oil theft costs the country billions of dollars.",
-        "Authorities are trying to reduce oil theft from pipelines."
+        "Good sleep supports learning and concentration.",
+        "Students should not sacrifice sleep every night to study."
       ]
     },
     {
-      "word": "pipeline",
-      "meaning": "a long pipe used to transport oil, gas, or other substances",
+      "word": "memory consolidation",
+      "meaning": "the process by which new memories become more stable after learning",
       "examples": [
-        "The thieves damaged the pipeline.",
-        "A leak was discovered along the pipeline."
+        "Sleep plays an important role in memory consolidation.",
+        "Researchers study memory consolidation after different kinds of learning."
       ]
     },
     {
-      "word": "crude oil",
-      "meaning": "oil in its natural state before it is refined",
+      "word": "recall",
+      "meaning": "the ability to remember information",
       "examples": [
-        "The region produces large amounts of crude oil.",
-        "Stolen crude oil may be processed illegally."
+        "A good night's sleep may improve recall.",
+        "The test measured students' recall of new words."
       ]
     },
     {
-      "word": "illegal refinery",
-      "meaning": "an unauthorised place where crude oil is processed",
+      "word": "retention",
+      "meaning": "the ability to keep information in memory over time",
       "examples": [
-        "Police destroyed several illegal refineries.",
-        "Illegal refineries can cause serious pollution."
+        "Spaced practice improves long-term retention.",
+        "Sleep may support the retention of newly learned material."
       ]
     },
     {
-      "word": "sabotage",
-      "meaning": "deliberate damage done to equipment or infrastructure",
+      "word": "nap",
+      "meaning": "a short period of sleep, usually during the day",
       "examples": [
-        "Pipeline sabotage interrupted production.",
-        "The company increased security to prevent sabotage."
+        "A short nap helped him feel more alert.",
+        "Some studies examine whether a nap improves learning."
       ]
     },
     {
-      "word": "revenue",
-      "meaning": "money received by a business or government",
+      "word": "sleep cycle",
+      "meaning": "a repeated sequence of stages during sleep",
       "examples": [
-        "Oil theft reduces government revenue.",
-        "The country depends heavily on oil revenue."
-      ]
-    },
-    {
-      "word": "corruption",
-      "meaning": "dishonest or illegal behaviour by people in positions of power",
-      "examples": [
-        "Corruption can make resource theft harder to stop.",
-        "Officials promised stronger action against corruption."
-      ]
-    },
-    {
-      "word": "spill",
-      "meaning": "an accidental or illegal release of liquid such as oil",
-      "examples": [
-        "The damaged pipeline caused an oil spill.",
-        "The spill polluted nearby farmland."
-      ]
-    },
-    {
-      "word": "black market",
-      "meaning": "illegal trade in goods that are controlled or stolen",
-      "examples": [
-        "Stolen fuel was sold on the black market.",
-        "The black market can be difficult for authorities to monitor."
-      ]
-    },
-    {
-      "word": "enforcement",
-      "meaning": "the act of making sure laws and rules are obeyed",
-      "examples": [
-        "Stronger law enforcement may reduce oil theft.",
-        "Poor enforcement allows illegal operations to continue."
+        "We pass through several sleep cycles each night.",
+        "Different parts of the sleep cycle may support different brain functions."
       ]
     }
   ]

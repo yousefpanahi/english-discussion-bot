@@ -1,84 +1,52 @@
 {
-  "title": "Farming in Africa",
+  "title": "Family belongings",
   "vocabulary": [
     {
-      "word": "agriculture",
-      "meaning": "the activity of farming crops and animals",
+      "word": "belonging",
+      "meaning": "an object owned by a person",
       "examples": [
-        "Agriculture provides work for millions of people in Africa.",
-        "Climate change is affecting agriculture in many regions."
+        "She packed her personal belongings into boxes.",
+        "Family belongings can have strong emotional value."
       ]
     },
     {
-      "word": "crop",
-      "meaning": "a plant grown by farmers for food or other uses",
+      "word": "heirloom",
+      "meaning": "a valuable or meaningful object passed down through a family",
       "examples": [
-        "Farmers planted a drought-resistant crop.",
-        "Poor rainfall reduced the maize crop."
+        "The watch is a family heirloom.",
+        "She inherited an heirloom from her grandmother."
       ]
     },
     {
-      "word": "harvest",
-      "meaning": "the process or time of collecting crops from fields",
+      "word": "inherit",
+      "meaning": "to receive money, property, or an object from someone who has died",
       "examples": [
-        "The farmers expect a good harvest this year.",
-        "Heavy rain damaged the harvest."
+        "He inherited several books from his father.",
+        "Children may inherit objects with sentimental value."
       ]
     },
     {
-      "word": "irrigation",
-      "meaning": "the artificial supply of water to land or crops",
+      "word": "sentimental value",
+      "meaning": "emotional importance that an object has because of memories or relationships",
       "examples": [
-        "Irrigation helps farmers grow food during dry periods.",
-        "The village invested in a new irrigation system."
+        "The ring has great sentimental value.",
+        "An old photograph can have more sentimental value than financial value."
       ]
     },
     {
-      "word": "drought",
-      "meaning": "a long period with very little rain",
+      "word": "keepsake",
+      "meaning": "a small object kept because it reminds someone of a person or event",
       "examples": [
-        "The drought caused serious food shortages.",
-        "Farmers lost cattle during the drought."
+        "She kept the ticket as a keepsake.",
+        "The box contains family keepsakes."
       ]
     },
     {
-      "word": "fertile",
-      "meaning": "able to support strong plant growth",
+      "word": "possession",
+      "meaning": "something owned by someone",
       "examples": [
-        "The river valley has fertile soil.",
-        "Farmers protect fertile land from erosion."
-      ]
-    },
-    {
-      "word": "smallholder",
-      "meaning": "a farmer who works on a relatively small area of land",
-      "examples": [
-        "Many smallholders depend on rainfall.",
-        "Training programmes can help smallholder farmers increase yields."
-      ]
-    },
-    {
-      "word": "yield",
-      "meaning": "the amount of crop produced from an area of land",
-      "examples": [
-        "Better seeds increased the crop yield.",
-        "Drought can sharply reduce yields."
-      ]
-    },
-    {
-      "word": "food security",
-      "meaning": "reliable access to enough safe and nutritious food",
-      "examples": [
-        "Local farming is important for food security.",
-        "Conflict and drought can threaten food security."
-      ]
-    },
-    {
-      "word": "sustainable farming",
-      "meaning": "agricultural methods designed to protect resources for the future",
-      "examples": [
-        "Sustainable farming can reduce damage to soil.",
-        "Farmers are learning new sustainable farming techniques."
+        "The photograph is one of his most treasured possessions.",
+        "People often keep possessions connected with important memories."
       ]
     }
   ]

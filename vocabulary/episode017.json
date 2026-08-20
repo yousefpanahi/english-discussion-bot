@@ -1,84 +1,52 @@
 {
-  "title": "Online shopping",
+  "title": "Youth unemployment crisis",
   "vocabulary": [
     {
-      "word": "e-commerce",
-      "meaning": "the buying and selling of goods and services over the internet",
+      "word": "unemployment",
+      "meaning": "the state of not having a job while wanting and being able to work",
       "examples": [
-        "E-commerce has grown rapidly in the last decade.",
-        "Small businesses can reach global customers through e-commerce."
+        "Youth unemployment remains high in some countries.",
+        "Long-term unemployment can damage confidence."
       ]
     },
     {
-      "word": "checkout",
-      "meaning": "the stage of an online purchase when a customer pays",
+      "word": "job market",
+      "meaning": "the system in which employers look for workers and people look for jobs",
       "examples": [
-        "The website has a simple checkout process.",
-        "She left the site before completing checkout."
+        "Graduates are entering a difficult job market.",
+        "Digital skills are increasingly valuable in the job market."
       ]
     },
     {
-      "word": "delivery",
-      "meaning": "the act of taking goods to a customer",
+      "word": "graduate",
+      "meaning": "a person who has completed a university or college course",
       "examples": [
-        "Free delivery can encourage people to buy online.",
-        "The delivery arrived two days late."
+        "Many graduates struggle to find their first job.",
+        "The company recruits new graduates every year."
       ]
     },
     {
-      "word": "return policy",
-      "meaning": "a store's rules about sending unwanted goods back",
+      "word": "apprenticeship",
+      "meaning": "a programme that combines paid work with practical training",
       "examples": [
-        "Always check the return policy before ordering clothes.",
-        "A flexible return policy can increase customer confidence."
+        "An apprenticeship can provide valuable work experience.",
+        "The government is expanding apprenticeship opportunities."
       ]
     },
     {
-      "word": "review",
-      "meaning": "an opinion written by a customer about a product or service",
+      "word": "skills gap",
+      "meaning": "a difference between the skills employers need and the skills workers have",
       "examples": [
-        "I read several reviews before buying the laptop.",
-        "Positive reviews can strongly influence online sales."
+        "Training programmes can reduce the skills gap.",
+        "Employers say the skills gap makes recruitment harder."
       ]
     },
     {
-      "word": "retailer",
-      "meaning": "a business that sells goods directly to customers",
+      "word": "entry-level",
+      "meaning": "suitable for someone starting a career with little experience",
       "examples": [
-        "Many traditional retailers now sell products online.",
-        "The retailer offered a discount for new customers."
-      ]
-    },
-    {
-      "word": "cart",
-      "meaning": "the online area where selected products are kept before purchase",
-      "examples": [
-        "She added the shoes to her shopping cart.",
-        "The website saved the items in my cart."
-      ]
-    },
-    {
-      "word": "secure payment",
-      "meaning": "a payment method designed to protect financial information",
-      "examples": [
-        "Customers expect secure payment when shopping online.",
-        "The site uses encryption for secure payments."
-      ]
-    },
-    {
-      "word": "convenience",
-      "meaning": "the quality of being easy and suitable for someone's needs",
-      "examples": [
-        "Convenience is one reason online shopping is popular.",
-        "Home delivery offers great convenience to busy people."
-      ]
-    },
-    {
-      "word": "impulse purchase",
-      "meaning": "something bought suddenly without planning",
-      "examples": [
-        "Online adverts can encourage impulse purchases.",
-        "He regretted the impulse purchase the next day."
+        "She applied for several entry-level jobs.",
+        "Entry-level salaries vary widely by industry."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "The World Wide Web turns 20",
+  "title": "Genetically modified cows",
   "vocabulary": [
     {
-      "word": "World Wide Web",
-      "meaning": "the system of linked pages and resources accessed through the internet",
+      "word": "genetically modified",
+      "meaning": "changed by altering an organism's genetic material using biotechnology",
       "examples": [
-        "The World Wide Web changed how people find information.",
-        "Millions of websites are available on the World Wide Web."
+        "Scientists developed genetically modified cattle.",
+        "Genetically modified crops are grown in many countries."
       ]
     },
     {
-      "word": "web browser",
-      "meaning": "software used to view websites",
+      "word": "gene",
+      "meaning": "a unit of biological information passed from parents to offspring",
       "examples": [
-        "Open the page in your web browser.",
-        "Modern web browsers include privacy and security tools."
+        "Researchers changed a specific gene in the animal.",
+        "A single gene can influence an important trait."
       ]
     },
     {
-      "word": "hyperlink",
-      "meaning": "a clickable connection from one webpage or document to another",
+      "word": "biotechnology",
+      "meaning": "the use of living systems or biological processes to develop products and technologies",
       "examples": [
-        "The article contains a hyperlink to the original study.",
-        "Click the hyperlink to open the next page."
+        "Modern biotechnology can change how food is produced.",
+        "She works in agricultural biotechnology."
       ]
     },
     {
-      "word": "website",
-      "meaning": "a collection of related pages on the internet",
+      "word": "trait",
+      "meaning": "a particular characteristic of an organism",
       "examples": [
-        "The organisation launched a new website.",
-        "Most businesses now maintain a website."
+        "The scientists wanted to introduce a disease-resistant trait.",
+        "Some traits are influenced by many genes."
       ]
     },
     {
-      "word": "internet",
-      "meaning": "the global network connecting computers and devices",
+      "word": "breeding",
+      "meaning": "the controlled reproduction of animals or plants to produce desired characteristics",
       "examples": [
-        "The web is one service that operates on the internet.",
-        "Internet access has become essential for many jobs."
+        "Traditional breeding can take many generations.",
+        "Genetic engineering is different from selective breeding."
       ]
     },
     {
-      "word": "webpage",
-      "meaning": "a single page of information available on the web",
+      "word": "genome",
+      "meaning": "the complete set of genetic information in an organism",
       "examples": [
-        "The information appears on the university's webpage.",
-        "The webpage loads quickly on mobile phones."
-      ]
-    },
-    {
-      "word": "domain name",
-      "meaning": "the readable address used to identify a website",
-      "examples": [
-        "The company registered a new domain name.",
-        "A short domain name is easier to remember."
-      ]
-    },
-    {
-      "word": "online",
-      "meaning": "connected to or available through the internet",
-      "examples": [
-        "More public services are now available online.",
-        "She completed the course entirely online."
-      ]
-    },
-    {
-      "word": "innovation",
-      "meaning": "a new idea, method, or technology",
-      "examples": [
-        "The web was a major technological innovation.",
-        "Innovation can change how people communicate."
-      ]
-    },
-    {
-      "word": "open standard",
-      "meaning": "a technical rule or format that anyone can use",
-      "examples": [
-        "Open standards helped the web grow rapidly.",
-        "Developers can build compatible tools using an open standard."
+        "Scientists mapped the cow's genome.",
+        "Editing the genome raises technical and ethical questions."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "US National Film Registry",
+  "title": "Love the foods you hate",
   "vocabulary": [
     {
-      "word": "film registry",
-      "meaning": "an official list of films selected for preservation because of their cultural or historical importance",
+      "word": "taste",
+      "meaning": "the sense used to experience flavours in food",
       "examples": [
-        "The film was added to the national film registry.",
-        "A film registry helps preserve important works for future generations."
+        "Taste can change as people get older.",
+        "Our sense of taste influences what foods we enjoy."
       ]
     },
     {
-      "word": "preservation",
-      "meaning": "the act of keeping something safe and in good condition",
+      "word": "bitter",
+      "meaning": "having a sharp, unpleasant taste like strong coffee or some vegetables",
       "examples": [
-        "Digital preservation is important for old films.",
-        "The archive focuses on the preservation of cultural material."
+        "Some people dislike bitter vegetables.",
+        "Children may become more comfortable with bitter tastes over time."
       ]
     },
     {
-      "word": "archive",
-      "meaning": "a collection of historical records, films, or documents",
+      "word": "acquired taste",
+      "meaning": "a food or drink that people learn to like after trying it several times",
       "examples": [
-        "Researchers can view old films in the archive.",
-        "The national archive stores valuable recordings."
+        "Olives can be an acquired taste.",
+        "Strong cheese is an acquired taste for some people."
       ]
     },
     {
-      "word": "cultural significance",
-      "meaning": "the importance something has for a society or culture",
+      "word": "preference",
+      "meaning": "a greater liking for one thing than another",
       "examples": [
-        "The committee considered the film's cultural significance.",
-        "A popular movie can gain cultural significance over time."
+        "Food preferences often develop during childhood.",
+        "My preference is for spicy food."
       ]
     },
     {
-      "word": "documentary",
-      "meaning": "a film or programme that presents facts about real people or events",
+      "word": "flavour",
+      "meaning": "the particular taste and smell of a food or drink",
       "examples": [
-        "The documentary was selected for preservation.",
-        "She enjoys documentaries about social history."
+        "Roasting gives vegetables a sweeter flavour.",
+        "Herbs can add flavour without much salt."
       ]
     },
     {
-      "word": "classic",
-      "meaning": "a work of art that is widely considered important and of lasting quality",
+      "word": "texture",
+      "meaning": "the way food feels in the mouth",
       "examples": [
-        "The film became a cinema classic.",
-        "Many classics remain popular decades after their release."
-      ]
-    },
-    {
-      "word": "restore",
-      "meaning": "to repair something old or damaged so that it returns to a good condition",
-      "examples": [
-        "Experts restored the damaged film.",
-        "The museum plans to restore several old recordings."
-      ]
-    },
-    {
-      "word": "heritage",
-      "meaning": "the traditions, achievements, and cultural objects passed down from the past",
-      "examples": [
-        "Film is part of a country's cultural heritage.",
-        "Preserving heritage helps future generations understand the past."
-      ]
-    },
-    {
-      "word": "selection",
-      "meaning": "the process of choosing something from a group",
-      "examples": [
-        "The selection process involved historians and filmmakers.",
-        "Only a small selection of films is added each year."
-      ]
-    },
-    {
-      "word": "legacy",
-      "meaning": "the lasting influence of a person, event, or work",
-      "examples": [
-        "The director's films left an important legacy.",
-        "Preservation protects the legacy of early cinema."
+        "Some people dislike mushrooms because of their texture.",
+        "Cooking can completely change a food's texture."
       ]
     }
   ]

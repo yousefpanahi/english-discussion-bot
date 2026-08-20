@@ -1,84 +1,52 @@
 {
-  "title": "Sausage wars",
+  "title": "E-books",
   "vocabulary": [
     {
-      "word": "trade dispute",
-      "meaning": "a disagreement between countries about buying and selling goods",
+      "word": "e-book",
+      "meaning": "a book in digital form that can be read on an electronic device",
       "examples": [
-        "The two governments tried to settle the trade dispute.",
-        "A trade dispute can increase prices for consumers."
+        "I downloaded the e-book to my tablet.",
+        "E-books are convenient when travelling."
       ]
     },
     {
-      "word": "import",
-      "meaning": "a product brought into a country from another country",
+      "word": "e-reader",
+      "meaning": "a portable electronic device designed mainly for reading digital books",
       "examples": [
-        "New rules limited the import of some meat products.",
-        "The country depends on food imports during winter."
+        "Her e-reader can store hundreds of books.",
+        "The screen of an e-reader is easy to read outdoors."
       ]
     },
     {
-      "word": "export",
-      "meaning": "a product sold and sent to another country",
+      "word": "download",
+      "meaning": "to copy data or a file from the internet to your device",
       "examples": [
-        "The company increased its exports to Europe.",
-        "Agricultural exports are important to the national economy."
+        "You can download the book in a few seconds.",
+        "I downloaded several novels before my holiday."
       ]
     },
     {
-      "word": "border",
-      "meaning": "the official line separating two countries or regions",
+      "word": "digital library",
+      "meaning": "an online collection of books, articles, or other reading material",
       "examples": [
-        "Goods were delayed at the border.",
-        "New border checks affected food deliveries."
+        "Students can access the university's digital library from home.",
+        "The digital library contains thousands of free books."
       ]
     },
     {
-      "word": "regulation",
-      "meaning": "an official rule made by a government or authority",
+      "word": "print edition",
+      "meaning": "a version of a book or publication produced on paper",
       "examples": [
-        "Businesses must follow food safety regulations.",
-        "A new regulation changed what products could be sold."
+        "Some readers still prefer the print edition.",
+        "The print edition costs more than the e-book."
       ]
     },
     {
-      "word": "restriction",
-      "meaning": "a rule or limit that controls what people can do",
+      "word": "highlight",
+      "meaning": "to mark an important part of a digital or printed text",
       "examples": [
-        "The government introduced restrictions on certain imports.",
-        "Businesses complained that the restriction was too strict."
-      ]
-    },
-    {
-      "word": "negotiation",
-      "meaning": "a discussion aimed at reaching an agreement",
-      "examples": [
-        "The dispute ended after several weeks of negotiation.",
-        "Both sides made compromises during the negotiation."
-      ]
-    },
-    {
-      "word": "agreement",
-      "meaning": "a decision or arrangement accepted by two or more sides",
-      "examples": [
-        "The countries reached a new trade agreement.",
-        "The agreement allowed goods to move more easily."
-      ]
-    },
-    {
-      "word": "supply chain",
-      "meaning": "the system involved in producing and delivering a product",
-      "examples": [
-        "Border delays disrupted the food supply chain.",
-        "Companies try to make their supply chains more reliable."
-      ]
-    },
-    {
-      "word": "compromise",
-      "meaning": "an agreement in which each side accepts less than it originally wanted",
-      "examples": [
-        "Both governments accepted a compromise.",
-        "Finding a compromise prevented the dispute from getting worse."
+        "I highlighted several useful sentences in the e-book.",
+        "Most reading apps let users highlight text."
       ]
     }
   ]

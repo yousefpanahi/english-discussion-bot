@@ -1,84 +1,52 @@
 {
-  "title": "UK's first healthy pizza",
+  "title": "Scared of speaking English?",
   "vocabulary": [
     {
-      "word": "nutritious",
-      "meaning": "containing substances that are good for health and growth",
+      "word": "anxiety",
+      "meaning": "a feeling of worry, nervousness, or fear",
       "examples": [
-        "The company tried to create a more nutritious pizza.",
-        "Vegetables can make a meal more nutritious."
+        "Speaking English in public can cause anxiety.",
+        "Practice can reduce language anxiety over time."
       ]
     },
     {
-      "word": "calorie",
-      "meaning": "a unit used to measure the energy provided by food",
+      "word": "confidence",
+      "meaning": "belief in your own ability",
       "examples": [
-        "The new recipe contains fewer calories.",
-        "People need different numbers of calories depending on activity levels."
+        "Her confidence grew after several successful conversations.",
+        "Confidence often matters as much as perfect grammar."
       ]
     },
     {
-      "word": "saturated fat",
-      "meaning": "a type of fat that can raise cholesterol when eaten in large amounts",
+      "word": "fluency",
+      "meaning": "the ability to speak smoothly and easily",
       "examples": [
-        "The pizza was designed to contain less saturated fat.",
-        "Many processed foods are high in saturated fat."
+        "Regular speaking practice improves fluency.",
+        "Fluency develops gradually."
       ]
     },
     {
-      "word": "salt",
-      "meaning": "a substance used for flavour that contains sodium",
+      "word": "hesitation",
+      "meaning": "a pause caused by uncertainty or nervousness",
       "examples": [
-        "Too much salt can contribute to high blood pressure.",
-        "The recipe uses herbs to reduce the amount of salt."
+        "A little hesitation is normal when using a new language.",
+        "She spoke with less hesitation after practising."
       ]
     },
     {
-      "word": "portion",
-      "meaning": "an amount of food served to one person",
+      "word": "pronunciation",
+      "meaning": "the way words are spoken",
       "examples": [
-        "A smaller portion can reduce calorie intake.",
-        "The restaurant offers different portion sizes."
+        "Good pronunciation helps listeners understand you.",
+        "You do not need a native accent to have clear pronunciation."
       ]
     },
     {
-      "word": "topping",
-      "meaning": "food placed on top of another food, especially pizza",
+      "word": "self-conscious",
+      "meaning": "uncomfortably aware of how other people may judge you",
       "examples": [
-        "Vegetables are a popular pizza topping.",
-        "She chose mushrooms and peppers as toppings."
-      ]
-    },
-    {
-      "word": "whole grain",
-      "meaning": "grain that keeps all parts of the seed and usually contains more fibre",
-      "examples": [
-        "The pizza base was made with whole-grain flour.",
-        "Whole grains can be part of a balanced diet."
-      ]
-    },
-    {
-      "word": "balanced",
-      "meaning": "containing suitable amounts of different foods or nutrients",
-      "examples": [
-        "The meal is more balanced when served with a salad.",
-        "A balanced diet includes a variety of food groups."
-      ]
-    },
-    {
-      "word": "recipe",
-      "meaning": "a set of instructions and ingredients for preparing food",
-      "examples": [
-        "The chef changed the recipe to reduce fat.",
-        "This recipe uses less cheese than a traditional pizza."
-      ]
-    },
-    {
-      "word": "healthy alternative",
-      "meaning": "a food or choice intended to be better for health than another option",
-      "examples": [
-        "The restaurant markets the pizza as a healthy alternative.",
-        "Fruit can be a healthy alternative to a sugary dessert."
+        "He feels self-conscious about his accent.",
+        "Small friendly groups can help learners feel less self-conscious."
       ]
     }
   ]

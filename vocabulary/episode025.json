@@ -1,84 +1,52 @@
 {
-  "title": "Ebooks",
+  "title": "One-way ticket to Mars",
   "vocabulary": [
     {
-      "word": "e-book",
-      "meaning": "a book in digital form that can be read on an electronic device",
+      "word": "one-way mission",
+      "meaning": "a journey planned without a return trip",
       "examples": [
-        "I downloaded the e-book to my tablet.",
-        "E-books are convenient when travelling."
+        "The proposal involved a one-way mission to Mars.",
+        "A one-way mission raises serious ethical questions."
       ]
     },
     {
-      "word": "e-reader",
-      "meaning": "a portable electronic device designed mainly for reading digital books",
+      "word": "colonise",
+      "meaning": "to establish a permanent community in a new place",
       "examples": [
-        "Her e-reader can store hundreds of books.",
-        "The screen of an e-reader is easy to read outdoors."
+        "Some scientists discuss whether humans could colonise Mars.",
+        "Colonising another planet would require enormous resources."
       ]
     },
     {
-      "word": "download",
-      "meaning": "to copy data or a file from the internet to your device",
+      "word": "settlement",
+      "meaning": "a place where people establish a new community",
       "examples": [
-        "You can download the book in a few seconds.",
-        "I downloaded several novels before my holiday."
+        "A Martian settlement would need reliable energy and food.",
+        "The first settlement might be very small."
       ]
     },
     {
-      "word": "digital library",
-      "meaning": "an online collection of books, articles, or other reading material",
+      "word": "life-support system",
+      "meaning": "equipment that provides air, water, and other conditions needed to stay alive",
       "examples": [
-        "Students can access the university's digital library from home.",
-        "The digital library contains thousands of free books."
+        "A Mars base would depend on a reliable life-support system.",
+        "Engineers test life-support systems for long missions."
       ]
     },
     {
-      "word": "print edition",
-      "meaning": "a version of a book or publication produced on paper",
+      "word": "isolation",
+      "meaning": "the state of being separated from other people or places",
       "examples": [
-        "Some readers still prefer the print edition.",
-        "The print edition costs more than the e-book."
+        "Long-term isolation could affect astronauts' mental health.",
+        "Living on Mars would involve extreme isolation."
       ]
     },
     {
-      "word": "highlight",
-      "meaning": "to mark an important part of a digital or printed text",
+      "word": "radiation",
+      "meaning": "high-energy particles or waves that can harm living tissue",
       "examples": [
-        "I highlighted several useful sentences in the e-book.",
-        "Most reading apps let users highlight text."
-      ]
-    },
-    {
-      "word": "bookmark",
-      "meaning": "a saved position in a book or digital document",
-      "examples": [
-        "I added a bookmark so I could return to the page later.",
-        "Digital bookmarks make long books easier to navigate."
-      ]
-    },
-    {
-      "word": "portable",
-      "meaning": "easy to carry or move",
-      "examples": [
-        "An e-reader is portable and lightweight.",
-        "Digital books make a large personal library more portable."
-      ]
-    },
-    {
-      "word": "subscription",
-      "meaning": "an arrangement in which you pay regularly for access to a service",
-      "examples": [
-        "She pays for an e-book subscription.",
-        "The subscription gives readers access to thousands of titles."
-      ]
-    },
-    {
-      "word": "publisher",
-      "meaning": "a company or person that prepares and produces books for sale",
-      "examples": [
-        "The publisher released both digital and printed versions.",
-        "Publishers have adapted to the growth of e-books."
+        "Space radiation is a major risk on a Mars mission.",
+        "Habitats would need shielding from radiation."
       ]
     }
   ]

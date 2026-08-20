@@ -1,84 +1,52 @@
 {
-  "title": "Weight loss drugs",
+  "title": "Is it OK to disagree?",
   "vocabulary": [
     {
-      "word": "weight-loss drug",
-      "meaning": "a medicine designed to help people reduce body weight",
+      "word": "disagree",
+      "meaning": "to have a different opinion from someone else",
       "examples": [
-        "Weight-loss drugs are prescribed to some patients with obesity.",
-        "A weight-loss drug should be used under medical supervision."
+        "It is possible to disagree without being rude.",
+        "We disagree about the best solution."
       ]
     },
     {
-      "word": "prescription",
-      "meaning": "an official instruction from a doctor allowing a patient to receive medicine",
+      "word": "opinion",
+      "meaning": "a belief or judgement that may not be based on complete fact",
       "examples": [
-        "The medicine is available only by prescription.",
-        "A doctor wrote her a prescription after discussing the risks."
+        "Everyone should be able to express an opinion.",
+        "Her opinion changed after hearing more evidence."
       ]
     },
     {
-      "word": "appetite",
-      "meaning": "the desire to eat",
+      "word": "debate",
+      "meaning": "a discussion in which people express different views",
       "examples": [
-        "Some medicines reduce appetite.",
-        "Stress can also affect a person's appetite."
+        "The issue caused a lively debate.",
+        "A respectful debate can help people understand other perspectives."
       ]
     },
     {
-      "word": "obesity",
-      "meaning": "a medical condition involving an excessive amount of body fat",
+      "word": "respectful",
+      "meaning": "showing consideration for other people's feelings and views",
       "examples": [
-        "Obesity can increase the risk of several health problems.",
-        "Doctors may use different methods to treat obesity."
+        "Keep the discussion respectful even when you strongly disagree.",
+        "She gave a respectful response."
       ]
     },
     {
-      "word": "side effect",
-      "meaning": "an unwanted effect caused by a medicine",
+      "word": "argument",
+      "meaning": "a reason or set of reasons supporting a viewpoint, or an angry disagreement",
       "examples": [
-        "Nausea is a possible side effect of the drug.",
-        "Patients should report serious side effects to a doctor."
+        "He made a strong argument for the proposal.",
+        "The discussion became an argument when people stopped listening."
       ]
     },
     {
-      "word": "dose",
-      "meaning": "a measured amount of medicine taken at one time",
+      "word": "perspective",
+      "meaning": "a particular way of viewing a situation",
       "examples": [
-        "The doctor started her on a low dose.",
-        "Never change the dose without medical advice."
-      ]
-    },
-    {
-      "word": "clinical trial",
-      "meaning": "a scientific study that tests a medical treatment on people",
-      "examples": [
-        "The drug performed well in a large clinical trial.",
-        "Clinical trials help identify benefits and risks."
-      ]
-    },
-    {
-      "word": "treatment",
-      "meaning": "medical care given to improve a health problem",
-      "examples": [
-        "Medication can be one part of obesity treatment.",
-        "Different patients may need different treatments."
-      ]
-    },
-    {
-      "word": "long-term",
-      "meaning": "continuing for a long period of time",
-      "examples": [
-        "Researchers are studying the long-term effects of the medicine.",
-        "Healthy habits are important for long-term weight management."
-      ]
-    },
-    {
-      "word": "medical supervision",
-      "meaning": "careful monitoring and guidance from qualified health professionals",
-      "examples": [
-        "These drugs should be taken under medical supervision.",
-        "Medical supervision can reduce the risk of complications."
+        "Try to understand the other person's perspective.",
+        "Different experiences create different perspectives."
       ]
     }
   ]

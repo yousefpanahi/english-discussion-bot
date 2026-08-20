@@ -1,84 +1,52 @@
 {
-  "title": "Dream apps",
+  "title": "Ecotourism: good or bad?",
   "vocabulary": [
     {
-      "word": "dream app",
-      "meaning": "a digital application designed to record, analyse, or influence dreams",
+      "word": "ecotourism",
+      "meaning": "responsible travel to natural areas that aims to protect the environment and support local people",
       "examples": [
-        "She used a dream app to record what she remembered each morning.",
-        "Some dream apps claim to identify patterns in sleep."
+        "Ecotourism is an important idea when discussing ecotourism: good or bad?.",
+        "Learning about ecotourism can help us understand this issue more clearly."
       ]
     },
     {
-      "word": "sleep tracker",
-      "meaning": "a device or app that records information about sleep",
+      "word": "conservation",
+      "meaning": "the protection of nature, wildlife, and natural resources",
       "examples": [
-        "My sleep tracker says I woke up several times.",
-        "Sleep trackers can provide useful trends but are not always exact."
+        "People often have different views about conservation when discussing ecotourism: good or bad?.",
+        "Understanding conservation can make a conversation about this topic more precise."
       ]
     },
     {
-      "word": "dream journal",
-      "meaning": "a record in which a person writes down dreams",
+      "word": "biodiversity",
+      "meaning": "the variety of plants, animals, and other living things in an area",
       "examples": [
-        "Keeping a dream journal can improve dream recall.",
-        "He writes in his dream journal immediately after waking."
+        "The topic of ecotourism: good or bad? raises useful questions about biodiversity.",
+        "We can discuss how biodiversity affects people, communities, or the environment."
       ]
     },
     {
-      "word": "lucid dream",
-      "meaning": "a dream in which the dreamer knows that they are dreaming",
+      "word": "local community",
+      "meaning": "people who live in the same area and share local interests or resources",
       "examples": [
-        "Some people practise techniques to have lucid dreams.",
-        "She described a vivid lucid dream."
+        "Local community can play an important role in debates about ecotourism: good or bad?.",
+        "Different countries may deal with local community in different ways."
       ]
     },
     {
-      "word": "sleep cycle",
-      "meaning": "a repeated pattern of different stages of sleep",
+      "word": "carbon footprint",
+      "meaning": "the total greenhouse-gas emissions caused by a person, activity, or organisation",
       "examples": [
-        "Dreaming is common during certain parts of the sleep cycle.",
-        "A full sleep cycle lasts roughly an hour and a half."
+        "A discussion about ecotourism: good or bad? can include the effects of carbon footprint.",
+        "Knowing the meaning of carbon footprint makes it easier to express an opinion on this issue."
       ]
     },
     {
-      "word": "REM sleep",
-      "meaning": "a stage of sleep associated with rapid eye movement and vivid dreams",
+      "word": "sustainable tourism",
+      "meaning": "tourism designed to reduce environmental harm and benefit local communities",
       "examples": [
-        "Many memorable dreams occur during REM sleep.",
-        "REM sleep is important for the brain."
-      ]
-    },
-    {
-      "word": "monitor",
-      "meaning": "to observe or record something over time",
-      "examples": [
-        "The app monitors movement during the night.",
-        "Researchers monitor sleep in controlled conditions."
-      ]
-    },
-    {
-      "word": "algorithm",
-      "meaning": "a set of rules a computer uses to process information or solve a problem",
-      "examples": [
-        "The app uses an algorithm to estimate sleep stages.",
-        "An algorithm cannot perfectly interpret a person's dreams."
-      ]
-    },
-    {
-      "word": "privacy",
-      "meaning": "the right to control access to personal information",
-      "examples": [
-        "Sleep apps can raise questions about privacy.",
-        "Users should check how health data is protected."
-      ]
-    },
-    {
-      "word": "interpret",
-      "meaning": "to explain the possible meaning of something",
-      "examples": [
-        "The app tries to interpret recurring dream themes.",
-        "People have interpreted dreams in different ways throughout history."
+        "Sustainable tourism is useful vocabulary for talking about ecotourism: good or bad?.",
+        "We can use the idea of sustainable tourism to compare different experiences and viewpoints."
       ]
     }
   ]

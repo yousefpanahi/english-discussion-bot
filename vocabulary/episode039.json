@@ -1,84 +1,52 @@
 {
-  "title": "Ancient Italian shipwreck",
+  "title": "Annoying office habits",
   "vocabulary": [
     {
-      "word": "shipwreck",
-      "meaning": "a ship that has been destroyed or sunk, or the event of a ship sinking",
+      "word": "interrupt",
+      "meaning": "to stop someone while they are speaking or working",
       "examples": [
-        "Divers discovered an ancient shipwreck near the coast.",
-        "The shipwreck had been underwater for centuries."
+        "Constantly interrupting colleagues can be annoying.",
+        "Please let her finish before you interrupt."
       ]
     },
     {
-      "word": "archaeologist",
-      "meaning": "a specialist who studies past societies through objects and remains",
+      "word": "loud",
+      "meaning": "making a lot of noise",
       "examples": [
-        "An archaeologist examined the objects found at the site.",
-        "Marine archaeologists often work with divers."
+        "He speaks very loudly on the phone.",
+        "Loud conversations can distract an entire office."
       ]
     },
     {
-      "word": "cargo",
-      "meaning": "goods carried by a ship, aircraft, or other vehicle",
+      "word": "messy",
+      "meaning": "untidy or disorganised",
       "examples": [
-        "The wreck still contained part of its ancient cargo.",
-        "Researchers studied the cargo to learn about trade routes."
+        "Her desk is messy but she knows where everything is.",
+        "Shared spaces should not be left messy."
       ]
     },
     {
-      "word": "artifact",
-      "meaning": "an object made or used by people in the past",
+      "word": "personal space",
+      "meaning": "the physical area around a person that they prefer others not to enter",
       "examples": [
-        "Divers recovered several artifacts from the shipwreck.",
-        "Each artifact was carefully recorded before removal."
+        "People have different ideas about personal space.",
+        "Standing too close can invade a colleague's personal space."
       ]
     },
     {
-      "word": "amphora",
-      "meaning": "a tall ancient container with two handles, often used for wine or oil",
+      "word": "distracting",
+      "meaning": "taking attention away from work or another activity",
       "examples": [
-        "The ship carried dozens of clay amphorae.",
-        "An amphora can reveal information about ancient trade."
+        "Repeated phone notifications are distracting.",
+        "Strong smells can also be distracting in an office."
       ]
     },
     {
-      "word": "excavation",
-      "meaning": "the careful process of uncovering historical objects or sites",
+      "word": "habit",
+      "meaning": "something someone does regularly, often without thinking",
       "examples": [
-        "Underwater excavation requires special equipment.",
-        "The excavation took several seasons to complete."
-      ]
-    },
-    {
-      "word": "preserve",
-      "meaning": "to protect something from damage or decay",
-      "examples": [
-        "Cold water helped preserve parts of the wooden ship.",
-        "Museums preserve ancient objects for future study."
-      ]
-    },
-    {
-      "word": "dating",
-      "meaning": "the scientific process of determining how old an object is",
-      "examples": [
-        "Carbon dating helped estimate the age of the remains.",
-        "Accurate dating can place a discovery in its historical context."
-      ]
-    },
-    {
-      "word": "trade route",
-      "meaning": "a path regularly used for moving goods between places",
-      "examples": [
-        "The shipwreck may reveal an important ancient trade route.",
-        "Ports developed along major trade routes."
-      ]
-    },
-    {
-      "word": "maritime",
-      "meaning": "related to the sea, ships, or sailing",
-      "examples": [
-        "The discovery provides evidence about maritime history.",
-        "The museum has a large collection of maritime artifacts."
+        "Tapping his pen is an annoying habit.",
+        "Small workplace habits can affect other people."
       ]
     }
   ]

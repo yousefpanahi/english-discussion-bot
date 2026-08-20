@@ -1,84 +1,52 @@
 {
-  "title": "TV addicts",
+  "title": "Hong Kong's airport expansion",
   "vocabulary": [
     {
-      "word": "addiction",
-      "meaning": "a strong and difficult-to-control need to do or use something",
+      "word": "airport expansion",
+      "meaning": "the enlargement of an airport to increase its capacity or services",
       "examples": [
-        "Screen addiction can affect sleep and concentration.",
-        "Some people describe their television habits as an addiction."
+        "The airport expansion includes a new runway.",
+        "Residents debated the environmental effects of airport expansion."
       ]
     },
     {
-      "word": "binge-watch",
-      "meaning": "to watch many episodes of a programme one after another",
+      "word": "runway",
+      "meaning": "a long strip of ground where aircraft take off and land",
       "examples": [
-        "We binge-watched the whole series over the weekend.",
-        "Streaming platforms make it easy to binge-watch."
+        "The airport plans to build a third runway.",
+        "Heavy rain temporarily closed one runway."
       ]
     },
     {
-      "word": "screen time",
-      "meaning": "the amount of time spent using televisions, computers, or phones",
+      "word": "terminal",
+      "meaning": "a building at an airport where passengers arrive, depart, and use services",
       "examples": [
-        "Parents often worry about children's screen time.",
-        "Reducing screen time before bed may improve sleep."
+        "The new terminal can handle millions of passengers.",
+        "We arrived at the international terminal early."
       ]
     },
     {
-      "word": "viewer",
-      "meaning": "a person who watches television or online video",
+      "word": "capacity",
+      "meaning": "the maximum amount or number that a place or system can handle",
       "examples": [
-        "The programme attracted millions of viewers.",
-        "Viewers can now choose what they watch and when."
+        "The expansion will increase airport capacity.",
+        "The existing airport is close to full capacity."
       ]
     },
     {
-      "word": "sedentary",
-      "meaning": "involving a lot of sitting and little physical activity",
+      "word": "passenger",
+      "meaning": "a person travelling in a vehicle but not driving or operating it",
       "examples": [
-        "Watching television for hours is a sedentary activity.",
-        "A sedentary lifestyle can affect your health."
+        "Passenger numbers have grown rapidly.",
+        "The airport serves millions of passengers each year."
       ]
     },
     {
-      "word": "habit",
-      "meaning": "something you do regularly, often without thinking",
+      "word": "air traffic",
+      "meaning": "the movement of aircraft through an area or airport",
       "examples": [
-        "Watching the news after dinner became a daily habit.",
-        "Changing a long-term habit can be difficult."
-      ]
-    },
-    {
-      "word": "entertainment",
-      "meaning": "activities or programmes designed to give people enjoyment",
-      "examples": [
-        "Television remains a major form of entertainment.",
-        "People now have many more entertainment choices."
-      ]
-    },
-    {
-      "word": "remote control",
-      "meaning": "a small device used to operate a television from a distance",
-      "examples": [
-        "He picked up the remote control and changed the channel.",
-        "The remote control was hidden under the sofa."
-      ]
-    },
-    {
-      "word": "programme",
-      "meaning": "a television or radio show",
-      "examples": [
-        "That programme has a very loyal audience.",
-        "She watches a documentary programme every week."
-      ]
-    },
-    {
-      "word": "switch off",
-      "meaning": "to stop a device from operating or to stop paying attention to something",
-      "examples": [
-        "Try to switch off the television during meals.",
-        "Sometimes it is healthy to switch off and do something active."
+        "Air traffic has increased in the region.",
+        "Controllers manage air traffic safely."
       ]
     }
   ]

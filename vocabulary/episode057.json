@@ -1,84 +1,52 @@
 {
-  "title": "Texting and walking made illegal",
+  "title": "What class are you?",
   "vocabulary": [
     {
-      "word": "distracted walking",
-      "meaning": "walking while paying attention to a phone or another distraction",
+      "word": "social class",
+      "meaning": "a group in society based on factors such as income, occupation, education, and status",
       "examples": [
-        "Distracted walking can be dangerous near traffic.",
-        "The campaign warns pedestrians about distracted walking."
+        "Social class can influence access to opportunities.",
+        "Attitudes toward social class differ between countries."
       ]
     },
     {
-      "word": "pedestrian",
-      "meaning": "a person travelling on foot",
+      "word": "working class",
+      "meaning": "a social group traditionally associated with manual or lower-paid work",
       "examples": [
-        "Drivers must give way to pedestrians at crossings.",
-        "The law was designed to protect pedestrians."
+        "The area has a strong working-class history.",
+        "Definitions of working class have changed over time."
       ]
     },
     {
-      "word": "fine",
-      "meaning": "money paid as a punishment for breaking a rule or law",
+      "word": "middle class",
+      "meaning": "a broad social group generally between the working and upper classes",
       "examples": [
-        "People caught texting while crossing may receive a fine.",
-        "The city increased the fine for dangerous behaviour."
+        "Education and occupation are often used to describe the middle class.",
+        "The size of the middle class varies between countries."
       ]
     },
     {
-      "word": "ban",
-      "meaning": "an official rule that prevents an activity",
+      "word": "upper class",
+      "meaning": "the social group traditionally associated with high wealth or status",
       "examples": [
-        "Some cities have discussed a ban on texting while crossing roads.",
-        "Critics say a ban is difficult to enforce."
+        "The programme discussed stereotypes about the upper class.",
+        "Some upper-class advantages are inherited."
       ]
     },
     {
-      "word": "enforcement",
-      "meaning": "the act of making sure a law or rule is followed",
+      "word": "status",
+      "meaning": "a person's social or professional position",
       "examples": [
-        "Police are responsible for enforcement of the new rule.",
-        "Without enforcement, the law may have little effect."
+        "People sometimes use clothing to signal social status.",
+        "Status can come from wealth, occupation, or reputation."
       ]
     },
     {
-      "word": "distraction",
-      "meaning": "something that takes attention away from what a person should be focusing on",
+      "word": "income",
+      "meaning": "money received regularly from work, investments, or other sources",
       "examples": [
-        "Phones are a major distraction for some pedestrians.",
-        "A moment of distraction can cause an accident."
-      ]
-    },
-    {
-      "word": "crosswalk",
-      "meaning": "a marked part of a road where pedestrians are expected to cross",
-      "examples": [
-        "Put your phone away before entering the crosswalk.",
-        "Drivers stopped to let people use the crosswalk."
-      ]
-    },
-    {
-      "word": "awareness",
-      "meaning": "knowledge and attention concerning a situation or risk",
-      "examples": [
-        "Public campaigns can raise awareness of road safety.",
-        "Pedestrians need awareness of traffic around them."
-      ]
-    },
-    {
-      "word": "collision",
-      "meaning": "an accident in which two people, vehicles, or objects hit each other",
-      "examples": [
-        "Distracted walking may increase the risk of collision.",
-        "The cyclist avoided a collision with the pedestrian."
-      ]
-    },
-    {
-      "word": "public safety",
-      "meaning": "the protection of people from danger in public places",
-      "examples": [
-        "Supporters argue the law improves public safety.",
-        "The city introduced several public-safety measures."
+        "Household income affects many life choices.",
+        "Income is only one way to measure social class."
       ]
     }
   ]

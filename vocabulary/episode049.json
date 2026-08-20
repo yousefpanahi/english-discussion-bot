@@ -1,84 +1,52 @@
 {
-  "title": "Missiles over London",
+  "title": "Is social media dead?",
   "vocabulary": [
     {
-      "word": "missile",
-      "meaning": "a weapon that is sent through the air toward a target",
+      "word": "social media",
+      "meaning": "websites and apps that allow people to create, share, and interact with content",
       "examples": [
-        "The defence system was designed to intercept missiles.",
-        "Officials discussed the risk of a missile attack."
+        "Social media has changed how people communicate.",
+        "Many businesses rely on social media for marketing."
       ]
     },
     {
-      "word": "air defence",
-      "meaning": "systems and actions used to protect a place from attacks by aircraft or missiles",
+      "word": "platform",
+      "meaning": "an online service where users communicate or share content",
       "examples": [
-        "The city increased its air-defence capability.",
-        "Modern air defence uses radar and interceptor missiles."
+        "Young users often move from one platform to another.",
+        "The platform changed its privacy settings."
       ]
     },
     {
-      "word": "intercept",
-      "meaning": "to stop or catch something before it reaches its destination",
+      "word": "engagement",
+      "meaning": "likes, comments, shares, and other interactions with online content",
       "examples": [
-        "The system can intercept incoming missiles.",
-        "Military aircraft were sent to intercept the threat."
+        "The post received high engagement.",
+        "Platforms try to keep users engaged for longer."
       ]
     },
     {
-      "word": "security",
-      "meaning": "the state of being protected from danger or attack",
+      "word": "algorithm",
+      "meaning": "a set of computer rules used to select or recommend content",
       "examples": [
-        "The event required strong security measures.",
-        "National security was a major concern."
+        "The algorithm decides which posts appear first.",
+        "Algorithms can shape what users see online."
       ]
     },
     {
-      "word": "threat",
-      "meaning": "a possible source of danger or harm",
+      "word": "influencer",
+      "meaning": "a person with an online audience who can affect other people's opinions or purchases",
       "examples": [
-        "Authorities assessed the level of the threat.",
-        "The warning described a potential security threat."
+        "The brand hired an influencer to promote the product.",
+        "Some influencers have millions of followers."
       ]
     },
     {
-      "word": "deploy",
-      "meaning": "to move military equipment or personnel into position for use",
+      "word": "feed",
+      "meaning": "the stream of posts and content shown to a social-media user",
       "examples": [
-        "The government deployed additional defence equipment.",
-        "Troops were deployed around key locations."
-      ]
-    },
-    {
-      "word": "radar",
-      "meaning": "a system that uses radio waves to detect the position and movement of objects",
-      "examples": [
-        "Radar detected the aircraft at a long distance.",
-        "Air-defence systems depend on accurate radar."
-      ]
-    },
-    {
-      "word": "civilian",
-      "meaning": "a person who is not a member of the armed forces",
-      "examples": [
-        "Officials wanted to reduce risks to civilians.",
-        "The exercise took place away from civilian areas."
-      ]
-    },
-    {
-      "word": "defence",
-      "meaning": "actions and systems used to protect a country or place from attack",
-      "examples": [
-        "The government increased spending on defence.",
-        "Air defence is only one part of national security."
-      ]
-    },
-    {
-      "word": "precaution",
-      "meaning": "an action taken in advance to prevent danger or problems",
-      "examples": [
-        "The deployment was described as a precaution.",
-        "Extra security was introduced as a precaution."
+        "My feed is full of travel videos.",
+        "The app personalises each user's feed."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Youth unemployment crisis",
+  "title": "What are managers for?",
   "vocabulary": [
     {
-      "word": "unemployment",
-      "meaning": "the state of not having a job while wanting and being able to work",
+      "word": "manager",
+      "meaning": "a person responsible for organising people, work, or part of an organisation",
       "examples": [
-        "Youth unemployment remains high in some countries.",
-        "Long-term unemployment can damage confidence."
+        "A good manager removes obstacles for the team.",
+        "The manager meets each employee regularly."
       ]
     },
     {
-      "word": "job market",
-      "meaning": "the system in which employers look for workers and people look for jobs",
+      "word": "leadership",
+      "meaning": "the ability to guide and influence a group",
       "examples": [
-        "Graduates are entering a difficult job market.",
-        "Digital skills are increasingly valuable in the job market."
+        "Management and leadership are related but not identical.",
+        "Strong leadership can improve team confidence."
       ]
     },
     {
-      "word": "graduate",
-      "meaning": "a person who has completed a university or college course",
+      "word": "delegation",
+      "meaning": "the act of giving tasks or responsibilities to other people",
       "examples": [
-        "Many graduates struggle to find their first job.",
-        "The company recruits new graduates every year."
+        "Effective delegation prevents managers from doing everything themselves.",
+        "Delegation also helps employees develop new skills."
       ]
     },
     {
-      "word": "apprenticeship",
-      "meaning": "a programme that combines paid work with practical training",
+      "word": "feedback",
+      "meaning": "information given to help someone understand or improve performance",
       "examples": [
-        "An apprenticeship can provide valuable work experience.",
-        "The government is expanding apprenticeship opportunities."
+        "Managers should give specific feedback.",
+        "Regular feedback can prevent small problems from growing."
       ]
     },
     {
-      "word": "skills gap",
-      "meaning": "a difference between the skills employers need and the skills workers have",
+      "word": "motivate",
+      "meaning": "to make someone feel willing and interested in doing something",
       "examples": [
-        "Training programmes can reduce the skills gap.",
-        "Employers say the skills gap makes recruitment harder."
+        "Good managers know how to motivate different people.",
+        "Recognition can motivate employees."
       ]
     },
     {
-      "word": "entry-level",
-      "meaning": "suitable for someone starting a career with little experience",
+      "word": "decision-making",
+      "meaning": "the process of choosing between options",
       "examples": [
-        "She applied for several entry-level jobs.",
-        "Entry-level salaries vary widely by industry."
-      ]
-    },
-    {
-      "word": "work experience",
-      "meaning": "practical experience gained by doing a job or placement",
-      "examples": [
-        "Employers often ask young applicants for work experience.",
-        "Internships can provide useful work experience."
-      ]
-    },
-    {
-      "word": "underemployment",
-      "meaning": "a situation in which someone works fewer hours than desired or in a job below their skill level",
-      "examples": [
-        "Many young workers experience underemployment.",
-        "Underemployment can hide problems in the labour market."
-      ]
-    },
-    {
-      "word": "career prospects",
-      "meaning": "the opportunities someone has for future progress in their career",
-      "examples": [
-        "Training improved his career prospects.",
-        "Young people may move abroad for better career prospects."
-      ]
-    },
-    {
-      "word": "economic downturn",
-      "meaning": "a period when economic activity becomes weaker",
-      "examples": [
-        "Youth unemployment often rises during an economic downturn.",
-        "The recession created a severe economic downturn."
+        "Managers are responsible for many kinds of decision-making.",
+        "Good decision-making requires reliable information."
       ]
     }
   ]

@@ -1,84 +1,52 @@
 {
-  "title": "Croatia’s threatened floodplains",
+  "title": "Odd job interviews",
   "vocabulary": [
     {
-      "word": "floodplain",
-      "meaning": "flat land beside a river that naturally floods from time to time",
+      "word": "interviewer",
+      "meaning": "a person who asks questions during a job interview",
       "examples": [
-        "The river's floodplain supports many species.",
-        "Building on a floodplain can increase flood risk."
+        "The interviewer asked several unusual questions.",
+        "Make eye contact with the interviewer."
       ]
     },
     {
-      "word": "wetland",
-      "meaning": "land that is regularly covered or saturated with water",
+      "word": "candidate",
+      "meaning": "a person being considered for a job",
       "examples": [
-        "Wetlands provide habitat for birds and fish.",
-        "Many European wetlands have disappeared."
+        "Each candidate completed two interviews.",
+        "The strongest candidate gave clear examples of past work."
       ]
     },
     {
-      "word": "biodiversity",
-      "meaning": "the variety of living species in an area",
+      "word": "unexpected question",
+      "meaning": "a question that a candidate did not prepare for",
       "examples": [
-        "Healthy floodplains support high biodiversity.",
-        "Protecting biodiversity benefits entire ecosystems."
+        "The unexpected question made him pause.",
+        "Stay calm if you receive an unexpected question."
       ]
     },
     {
-      "word": "habitat",
-      "meaning": "the natural home of a plant or animal",
+      "word": "body language",
+      "meaning": "communication through posture, facial expressions, and movement",
       "examples": [
-        "The river provides habitat for rare species.",
-        "Development can destroy important habitats."
+        "Confident body language can create a positive impression.",
+        "Interviewers may notice nervous body language."
       ]
     },
     {
-      "word": "river regulation",
-      "meaning": "human control of a river through dams, channels, or other structures",
+      "word": "CV",
+      "meaning": "a document summarising education, skills, and work experience",
       "examples": [
-        "River regulation can change natural flooding patterns.",
-        "Environmental groups criticised excessive river regulation."
+        "Bring an updated CV to the interview.",
+        "The interviewer asked about a project listed on her CV."
       ]
     },
     {
-      "word": "ecosystem",
-      "meaning": "a community of living things and their physical environment",
+      "word": "qualification",
+      "meaning": "a skill, certificate, or experience that makes someone suitable for a job",
       "examples": [
-        "Floodplain ecosystems depend on regular water movement.",
-        "Pollution can damage the whole ecosystem."
-      ]
-    },
-    {
-      "word": "drainage",
-      "meaning": "the removal of water from land through channels or pipes",
-      "examples": [
-        "Drainage can make wetlands suitable for farming but harms wildlife.",
-        "Poor drainage can increase local flooding."
-      ]
-    },
-    {
-      "word": "conservation",
-      "meaning": "the protection of nature and natural resources",
-      "examples": [
-        "Conservation groups want the floodplains to remain undeveloped.",
-        "International conservation projects protect river habitats."
-      ]
-    },
-    {
-      "word": "restoration",
-      "meaning": "the process of returning damaged land or ecosystems to a healthier condition",
-      "examples": [
-        "Wetland restoration can reduce flood damage.",
-        "The project focuses on river restoration."
-      ]
-    },
-    {
-      "word": "threatened",
-      "meaning": "at risk of being damaged, destroyed, or lost",
-      "examples": [
-        "Several floodplain habitats are threatened by development.",
-        "The species is threatened by changes to the river."
+        "The role requires a technical qualification.",
+        "She explained how her qualifications matched the position."
       ]
     }
   ]

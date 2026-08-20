@@ -1,84 +1,52 @@
 {
-  "title": "Hopes for 2012",
+  "title": "The future of food",
   "vocabulary": [
     {
-      "word": "hope",
-      "meaning": "a feeling that something good will happen in the future",
+      "word": "food technology",
+      "meaning": "the use of science and technology to produce, preserve, or improve food",
       "examples": [
-        "Many people begin a new year with hope.",
-        "He hopes the coming year will bring better opportunities."
+        "Food technology may help feed a growing population.",
+        "Researchers are developing new forms of food technology."
       ]
     },
     {
-      "word": "resolution",
-      "meaning": "a firm decision to do or change something, often at the start of a new year",
+      "word": "lab-grown meat",
+      "meaning": "meat produced from animal cells rather than by raising and slaughtering an animal",
       "examples": [
-        "Her New Year's resolution was to exercise more.",
-        "It can be difficult to keep a resolution for twelve months."
+        "Lab-grown meat could reduce the need for livestock farming.",
+        "Consumers have mixed opinions about lab-grown meat."
       ]
     },
     {
-      "word": "goal",
-      "meaning": "something you want to achieve",
+      "word": "plant-based",
+      "meaning": "made mainly from plants rather than animal products",
       "examples": [
-        "Setting a clear goal can improve motivation.",
-        "One of his goals is to learn another language."
+        "Plant-based proteins are becoming more popular.",
+        "The restaurant added several plant-based meals."
       ]
     },
     {
-      "word": "optimism",
-      "meaning": "the belief that good things are likely to happen",
+      "word": "sustainable",
+      "meaning": "able to continue without causing serious environmental harm",
       "examples": [
-        "The new year created a sense of optimism.",
-        "Her optimism helped the team stay positive."
+        "Scientists are searching for more sustainable food systems.",
+        "Eating seasonal food can be a sustainable choice."
       ]
     },
     {
-      "word": "expectation",
-      "meaning": "a belief about what will probably happen",
+      "word": "food security",
+      "meaning": "reliable access to enough safe and nutritious food",
       "examples": [
-        "People had high expectations for the coming year.",
-        "Unrealistic expectations can lead to disappointment."
+        "Climate change can threaten food security.",
+        "New technologies may improve food security in dry regions."
       ]
     },
     {
-      "word": "ambition",
-      "meaning": "a strong desire to achieve something",
+      "word": "alternative protein",
+      "meaning": "a protein source used instead of conventional meat, such as plants or insects",
       "examples": [
-        "His ambition is to start his own company.",
-        "Ambition can encourage people to work hard."
-      ]
-    },
-    {
-      "word": "opportunity",
-      "meaning": "a situation that makes it possible to do something useful or desirable",
-      "examples": [
-        "A new year can feel like an opportunity for change.",
-        "She accepted an opportunity to work abroad."
-      ]
-    },
-    {
-      "word": "improve",
-      "meaning": "to become better or make something better",
-      "examples": [
-        "He wants to improve his health this year.",
-        "Small daily habits can improve your English."
-      ]
-    },
-    {
-      "word": "motivation",
-      "meaning": "the reason or energy that makes someone want to do something",
-      "examples": [
-        "Strong motivation makes goals easier to reach.",
-        "Her motivation increased after she saw progress."
-      ]
-    },
-    {
-      "word": "look forward to",
-      "meaning": "to feel pleased and excited about something that is going to happen",
-      "examples": [
-        "I look forward to seeing what the new year brings.",
-        "They are looking forward to starting the project."
+        "Companies are investing in alternative proteins.",
+        "Alternative protein could become more common in future diets."
       ]
     }
   ]
