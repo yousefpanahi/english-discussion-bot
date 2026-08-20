@@ -14,7 +14,7 @@ CHAT_ID = os.environ["CHAT_ID"]
 BBC_CHANNEL_ID = "-1003760493970"
 
 # First BBC episode starts at message 2
-FIRST_EPISODE_MESSAGE_ID = 2
+FIRST_EPISODE_MESSAGE_ID = 11
 
 # File that remembers which episode was last sent
 COUNTER_FILE = "episode_counter.txt"
