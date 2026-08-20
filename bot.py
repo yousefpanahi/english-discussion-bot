@@ -197,7 +197,15 @@ def get_episode_number():
     with open(COUNTER_FILE, "r") as file:
         return int(file.read().strip())
 
+def get_episode_map():
+    if not os.path.exists(EPISODE_MAP_FILE):
+        raise Exception(
+            f"Episode map file not found: {EPISODE_MAP_FILE}"
+        )
 
+    with open(EPISODE_MAP_FILE, "r", encoding="utf-8") as file:
+        return json.load(file)
+        
 # ==================================================
 # SAVE EPISODE NUMBER
 # ==================================================
