@@ -333,23 +333,21 @@ elif message_type == "bbc":
     # The next episode
     next_episode = episode_number + 1
 
-# Load the exact Telegram message IDs for this episode
-episode_map = get_episode_map()
+    # Load the exact Telegram message IDs for this episode
+    episode_map = get_episode_map()
 
-episode_key = str(next_episode)
+    episode_key = str(next_episode)
 
-if episode_key not in episode_map:
-    raise Exception(
-        f"Episode {next_episode} not found in episode map."
-    )
+    if episode_key not in episode_map:
+        raise Exception(
+            f"Episode {next_episode} not found in episode map."
+        )
 
-episode_info = episode_map[episode_key]
-message_ids = episode_info["message_ids"]
+    episode_info = episode_map[episode_key]
+    message_ids = episode_info["message_ids"]
 
-print(f"Sending Episode {next_episode}")
-print(f"Message IDs: {message_ids}")
-
-
+    print(f"Sending Episode {next_episode}")
+    print(f"Message IDs: {message_ids}")
 
     # Load questions for this episode
     episode_data = get_questions(next_episode)
@@ -362,24 +360,21 @@ print(f"Message IDs: {message_ids}")
 
 The next topic for our free discussion will be the episode below."""
 
-    # Send this BBC intro and remember its Telegram message ID
     bbc_intro_message_id = send_message(message)
 
-    # ONLY this BBC message is pinned
+    # Pin the BBC introduction
     pin_message(bbc_intro_message_id)
 
-    # Save its ID so it can be unpinned 46 hours later
+    # Remember it so it can be unpinned later
     save_bbc_pinned_message_id(bbc_intro_message_id)
 
     print(
         f"BBC intro message {bbc_intro_message_id} pinned."
     )
 
-
-
-    # Copy the three BBC messages
-for message_id in message_ids:
-    copy_message(message_id)
+    # Copy description, audio and PDF using exact message IDs
+    for message_id in message_ids:
+        copy_message(message_id)
 
     # Discussion introduction
     discussion_message = f"""📚 Discussion Time!
@@ -405,10 +400,11 @@ Good luck and enjoy the discussion! 😊"""
 
     send_message(questions_message)
 
-    # Only move to the next episode after everything worked
+    # Only advance after everything succeeded
     save_episode_number(next_episode)
 
     print(f"Episode {next_episode} completed successfully.")
+    
 
 # ==================================================
 # 5. EPISODE VOCABULARY
