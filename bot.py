@@ -425,21 +425,21 @@ elif message_type == "vocabulary":
     title = vocabulary_data["title"]
     vocabulary = vocabulary_data["vocabulary"]
 
-    if len(vocabulary) != 10:
+    if len(vocabulary) != 6:
         raise Exception(
-            f"Episode {episode_number} must contain exactly 10 vocabulary items."
+            f"Episode {episode_number} must contain exactly 6 vocabulary items."
         )
-
+    
     number_icons = [
-        "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣",
-        "6️⃣", "7️⃣", "8️⃣", "9️⃣", "🔟"
+        "1️⃣", "2️⃣", "3️⃣",
+        "4️⃣", "5️⃣", "6️⃣"
     ]
-
-    # Send vocabulary in two messages: 5 words each
+    
+    # Send vocabulary in two messages: 3 words each
     for part in range(2):
-
-        start = part * 5
-        end = start + 5
+    
+        start = part * 3
+        end = start + 3
 
         message = (
             f"📌📚📌 Vocabulary Time 📌📚📌\n"
