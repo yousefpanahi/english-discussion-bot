@@ -18,6 +18,7 @@ FIRST_EPISODE_MESSAGE_ID = 11
 
 # File that remembers which episode was last sent
 COUNTER_FILE = "episode_counter.txt"
+EPISODE_MAP_FILE = "episode_message_map.json"
 
 # File that remembers the currently pinned BBC intro message
 BBC_PIN_FILE = "bbc_pinned_message_id.txt"
