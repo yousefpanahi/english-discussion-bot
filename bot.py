@@ -333,19 +333,23 @@ elif message_type == "bbc":
     # The next episode
     next_episode = episode_number + 1
 
-    # Calculate the first BBC message ID
-    first_message_id = (
-        FIRST_EPISODE_MESSAGE_ID
-        + (episode_number * 3)
+# Load the exact Telegram message IDs for this episode
+episode_map = get_episode_map()
+
+episode_key = str(next_episode)
+
+if episode_key not in episode_map:
+    raise Exception(
+        f"Episode {next_episode} not found in episode map."
     )
 
-    print(f"Sending Episode {next_episode}")
+episode_info = episode_map[episode_key]
+message_ids = episode_info["message_ids"]
 
-    print(
-        f"Message IDs: {first_message_id}, "
-        f"{first_message_id + 1}, "
-        f"{first_message_id + 2}"
-    )
+print(f"Sending Episode {next_episode}")
+print(f"Message IDs: {message_ids}")
+
+
 
     # Load questions for this episode
     episode_data = get_questions(next_episode)
@@ -374,9 +378,8 @@ The next topic for our free discussion will be the episode below."""
 
 
     # Copy the three BBC messages
-    copy_message(first_message_id)
-    copy_message(first_message_id + 1)
-    copy_message(first_message_id + 2)
+for message_id in message_ids:
+    copy_message(message_id)
 
     # Discussion introduction
     discussion_message = f"""📚 Discussion Time!
