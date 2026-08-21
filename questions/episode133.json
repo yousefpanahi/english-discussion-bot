@@ -1,12 +1,12 @@
 {
-    "title": "Are you a winner",
-    "published": null,
-    "questions": [
-        "What are the main ideas you learned from this episode? Please give a brief summary in your own words.",
-        "Can you relate personally to the situation or idea in \"Are you a winner\"? Why or why not?",
-        "What do you think are the main factors that influence people's feelings or behaviour in situations like this?",
-        "Do you think people today handle this issue better than previous generations did? Why or why not?",
-        "How might attitudes toward this topic differ between cultures, families, or age groups?",
-        "If a friend asked you for advice about this topic, what would you tell them?"
-    ]
+  "title": "World Wide Web",
+  "published": null,
+  "questions": [
+    "What are the main ideas you learned from this episode? Please give a brief summary in your own words.",
+    "How different would modern life be if the World Wide Web had never been created?",
+    "Which part of the web has produced the greatest social benefit?",
+    "What important problems of today's web were not obvious when it first became popular?",
+    "Should access to the web be considered a basic public service?",
+    "What would you redesign if you could rebuild the web from the beginning?"
+  ]
 }
