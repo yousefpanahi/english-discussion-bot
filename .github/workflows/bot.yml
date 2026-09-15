@@ -4,26 +4,6 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    # Vocabulary — next day after each BBC episode
-    # Sunday, Tuesday, Thursday — wait until 17:00 Tehran
-    - cron: "17 10 * * 0,2,4"
-    
-    # Reminder — start early, wait until 17:00 Tehran
-    - cron: "17 10 * * 1,3,6"
-
-    # BBC intro unpin — 46 hours after BBC posting
-    # Monday BBC -> Wednesday 20:00
-    # Wednesday BBC -> Friday 20:00
-    # Saturday BBC -> Monday 20:00
-    - cron: "17 13 * * 1,3,5"
-
-    # Join Class — start early, wait until 20:00 Tehran
-    - cron: "30 0 * * 1,3,6"
-
-    # BBC episode — start early, wait until 22:00 Tehran
-    - cron: "17 15 * * 1,3,6"
-
   workflow_dispatch:
     inputs:
       message_type:
