@@ -99,7 +99,7 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
           MESSAGE_TYPE: join
           TARGET_TEHRAN_TIME: ${{ github.event_name == 'schedule' && '20:00' || '' }}
-          UNPIN_DELAY_SECONDS: ${{ github.event_name == 'schedule' && '3600' || '20' }}
+          UNPIN_DELAY_SECONDS: '3600'
         run: python bot.py
 
 
